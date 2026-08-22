@@ -1,0 +1,539 @@
+@production 03
+@book 01
+@episode 09
+@title Roosevelt
+
+@chunk 01
+This is Catastrophes. Book One, Episode Nine: Roosevelt. And if you have been listening straight through, then since we last spent an entire episode with Titanic, we have gone through three years of congressional hearings, a major maritime reform act, the partial collapse of the old Democratic coalition, the revival of the Progressive Party, two extremely unpleasant elections, and more Robert La Follette Junior than anyone except Robert La Follette Junior probably wanted.
+
+If you have not been listening straight through, the important point is simpler. By nineteen twenty-eight, Columbia had stopped being primarily a shipping story.
+
+It had become a political language.
+
+The phrase competitive catastrophe had moved from maritime hearings into newspapers, universities, state legislatures, and eventually campaign speeches. The basic idea was not especially complicated. A system could reward individually reasonable behavior while producing an outcome none of the participants actually wanted. If every shipping line benefited from carrying fewer lifeboats, no one company had much incentive to solve the problem alone. If every company was required to carry them, the competitive disadvantage disappeared.
+
+This did not mean everyone suddenly became a Progressive.
+
+Business organizations warned that almost any regulation could now be justified by inventing some hypothetical future catastrophe. Republicans argued that federal agencies were already using Columbia to expand authority far beyond maritime safety. Southern Democrats objected to almost everything involving federal authority on general principle. Progressives responded that nobody had objected to the old arrangement until two thousand people were dead.
+
+This was the political argument of nineteen twenty-eight.
+
+And then, in October nineteen twenty-nine, the stock market crashed.
+
+Now, the stock market crash did not cause the Great Depression by itself. Economists have spent more than a century explaining this, usually immediately before showing you a graph of the stock market crash. Banking weakness, debt, falling demand, international financial problems, agricultural distress, monetary policy, and several other factors all mattered.
+
+But politically, October mattered because Americans had just spent four years learning a particular way of describing failure.
+
+And suddenly they were looking at another system in which everyone seemed to be making individually reasonable decisions.
+
+Investors sold because prices were falling.
+
+Banks called loans because they needed cash.
+
+Depositors withdrew money because banks looked weak.
+
+Businesses cut production because customers were disappearing.
+
+Employers laid off workers because sales were falling.
+
+Workers spent less because they had lost their jobs.
+
+Every action made sense.
+
+Together, they made everything worse.
+
+And this is where a maritime disaster began changing American economic politics.
+
+@chunk 02
+The first politician to make the comparison explicitly was not Franklin Roosevelt.
+
+This annoyed later Roosevelt biographers.
+
+It was Senator Robert La Follette Junior.
+
+In December nineteen twenty-nine, La Follette gave a speech in Milwaukee arguing that the banking panic was Columbia again, only larger. He did not mean that bankers were comparable to shipping executives. He meant that the structure was familiar. Everyone had an incentive to protect themselves, and the combined act of self-protection was destroying the thing everyone depended upon.
+
+The phrase was effective.
+
+Possibly too effective.
+
+Soon practically everything was Columbia.
+
+Bank failures were Columbia.
+
+Farm foreclosures were Columbia.
+
+Unemployment was Columbia.
+
+A Wisconsin Progressive legislator apparently compared municipal bond financing to Columbia, and nobody has ever been able to determine what he meant.
+
+Political metaphors are like this.
+
+But beneath the rhetoric, something important was happening. The Progressive revival no longer depended on one catastrophe.
+
+The Depression seemed to validate the method.
+
+This matters because the political landscape Franklin Roosevelt entered was already different from the one his name usually suggests.
+
+Franklin Delano Roosevelt was governor of New York. He was fifty years old in nineteen thirty-two, a member of one of the most famous political families in the country, a former assistant secretary of the Navy, a vice-presidential candidate, and a politician who had spent years rebuilding a career after polio.
+
+He was also a Democrat.
+
+This was increasingly inconvenient.
+
+The Democratic Party of the early nineteen thirties was a coalition held together mostly by the fact that it had existed for a long time. Southern conservatives, urban machines, western populists, labor voters, immigrant communities, and reformers all used the same party label while disagreeing about an impressive number of things.
+
+Columbia made those disagreements worse.
+
+Northern reform Democrats increasingly cooperated with Progressives.
+
+Southern Democrats increasingly viewed the Progressive Party as a threat to state sovereignty.
+
+Urban machines liked federal spending but disliked reformers who wanted to know where the money went.
+
+Labor wanted stronger protections.
+
+Business Democrats wanted everyone to calm down.
+
+Roosevelt's political skill was not inventing a new ideology.
+
+It was recognizing that there was a coalition available if somebody could hold it together.
+
+And Franklin Roosevelt was very good at holding incompatible people together.
+
+@chunk 03
+The nineteen thirty-two election is often described as the beginning of the Progressive Era in American politics.
+
+This is convenient.
+
+It is also wrong.
+
+The Progressive Era had already begun in the sense that mattered. Columbia had changed the language of regulation. The Depression had expanded that language into economics. Progressive candidates had won governorships and congressional seats. The old parties were already reorganizing.
+
+What Roosevelt did was turn this unstable movement into a governing coalition.
+
+The election itself involved three major political forces.
+
+The Republicans nominated President Herbert Hoover.
+
+The Democrats nominated Roosevelt.
+
+And the Progressive Party nominated Wisconsin Governor Philip La Follette, Robert Junior's younger brother.
+
+Yes, there were two La Follettes.
+
+No, they did not make this easier for historians.
+
+The Progressive platform called for federal deposit insurance, stronger financial regulation, public works, unemployment relief, agricultural support, and permanent federal authority to identify what it called systemic industrial hazards.
+
+Roosevelt agreed with much of this.
+
+Not all of it.
+
+More importantly, he understood that if Democrats and Progressives divided the reform vote, Hoover might survive.
+
+So throughout the summer, Roosevelt's people negotiated with Progressive leaders over what became known as the Madison Agreement.
+
+The Progressives would endorse Roosevelt in states where their independent candidacy risked splitting the vote. Roosevelt would support a defined package of banking, labor, and regulatory legislation after taking office. Progressive candidates would remain independent in congressional races.
+
+This was not a merger.
+
+Everyone involved insisted on this.
+
+Which is how you can usually tell that people are discussing something that may eventually become a merger.
+
+The arrangement was controversial in both parties. Conservative Democrats accused Roosevelt of surrendering to radicals. Progressives accused the La Follettes of dissolving the movement into the Democratic Party. Republicans argued that Roosevelt was attempting to construct a coalition that would give unelected reform organizations effective veto power over national policy.
+
+They were all, to varying degrees, correct.
+
+Roosevelt won comfortably.
+
+But the important result was not simply the presidency.
+
+Progressives also increased their representation in Congress.
+
+Roosevelt entered office in March nineteen thirty-three with something no Democratic president had possessed before.
+
+A governing majority that did not depend entirely on conservative Southern Democrats.
+
+That changed almost everything.
+
+@chunk 04
+The first hundred days are still recognizable. Banks closed. Congress moved quickly. Emergency banking legislation passed. Relief programs expanded. Public works began. Financial institutions came under greater federal supervision.
+
+But the argument underneath all of this had already been developing for nearly a decade.
+
+Roosevelt did not have to convince Americans from scratch that the federal government could intervene before a private system completely failed. Columbia had already established that principle in another field.
+
+The question was how far the principle extended.
+
+Deposit insurance is a good example.
+
+Banks objected that guaranteeing deposits would reward irresponsible institutions and encourage customers to ignore risk. This was not an absurd concern.
+
+Progressives responded that the point of deposit insurance was not to save bad bankers.
+
+It was to prevent rational depositors from destroying good banks because they feared everyone else would withdraw first.
+
+That argument sounded familiar.
+
+So deposit insurance passed earlier and with broader support than it otherwise might have.
+
+The same logic appeared in securities regulation.
+
+Disclosure requirements were not justified simply on the grounds that some financiers were dishonest. They were justified because markets could not function reliably if each participant had incentives to conceal risks from everyone else.
+
+Industrial regulation developed similarly.
+
+The federal government created stronger investigative bodies with authority not merely to punish violations after accidents but to collect near-miss data across entire industries.
+
+This sounds mundane.
+
+It was not.
+
+The principle that an event which harmed nobody could still justify regulatory action was politically radical.
+
+A boiler explosion that killed thirty people was obviously evidence.
+
+A boiler valve that nearly failed but did not kill anyone was beginning to become evidence too.
+
+And this is where the phrase most associated with early Progressive safety culture appears.
+
+A regulation written in blood was written too late.
+
+The exact origin is disputed.
+
+Naturally.
+
+But the idea spread quickly through engineering and labor circles.
+
+The government should not have to wait for bodies before accepting that a system was dangerous.
+
+That idea would eventually reach far beyond factories.
+
+For the moment, Roosevelt was mostly trying to keep banks open.
+
+@chunk 05
+There was also a political cost.
+
+The stronger the federal government became, the stronger the opposition became.
+
+This is where the modern Republican Party begins taking recognizable shape.
+
+Not because Republicans suddenly rejected every element of the new system. Most eventually accepted deposit insurance. Most accepted some securities regulation. Many accepted unemployment relief and infrastructure spending.
+
+The argument became one of boundaries.
+
+When did a genuine systemic risk justify federal authority?
+
+Who decided?
+
+What evidence was enough?
+
+Could an agency restrict ordinary activity because a catastrophe might happen?
+
+And what prevented every preferred policy from being described as catastrophe prevention?
+
+These were good questions.
+
+They were also questions Progressives sometimes treated as evidence that their opponents had learned nothing from Columbia.
+
+That habit would become important later.
+
+The Democratic coalition was breaking apart at the same time.
+
+Southern Democrats supported agricultural spending and federal development programs while becoming increasingly alarmed by the idea that federal responsibility extended to systemic harms generally.
+
+Black newspapers noticed the contradiction immediately.
+
+If the government had an obligation to intervene when local institutions systematically failed to protect bank deposits, factory workers, or ship passengers, why did that responsibility stop when local governments systematically failed to protect Black citizens?
+
+The federal anti-lynching fight that followed did not immediately destroy Jim Crow.
+
+It did something politically significant anyway.
+
+It connected civil rights to the same argument already transforming economics.
+
+The problem was not simply identifying individual bad actors.
+
+A sheriff might be personally decent.
+
+A judge might believe he was applying local law.
+
+A registrar might insist he followed procedure.
+
+A school board might follow its budget.
+
+And the system could still produce disenfranchisement, segregation, unequal education, and racial violence.
+
+This was a much more dangerous argument for the South than moral appeals to individual tolerance.
+
+It suggested that the system itself could be subject to federal scrutiny.
+
+Roosevelt was cautious.
+
+More cautious than later admirers liked.
+
+He needed votes.
+
+He needed Southern legislators.
+
+He needed the coalition to survive.
+
+But unlike presidents in earlier decades, he had alternatives.
+
+Progressives gave him room to maneuver.
+
+And every time he used that room, the old Democratic Party became a little less coherent.
+
+@chunk 06
+By nineteen thirty-six, the American party system was visibly changing.
+
+The Progressive Party had not replaced the Democrats.
+
+It had not disappeared either.
+
+Instead, Democrats and Progressives increasingly operated as an electoral alliance at the national level while remaining separate organizations in many states.
+
+Republicans absorbed more conservative Democrats, particularly outside the urban North.
+
+The South remained complicated.
+
+It would remain complicated for several more decades.
+
+Political scientists later called this the Progressive Realignment, which makes it sound much cleaner than it felt to the people living through it.
+
+The nineteen thirty-six election made the trend undeniable.
+
+Roosevelt ran for reelection as the head of what newspapers increasingly called the Progressive Democratic coalition.
+
+The Republicans nominated a candidate promising to preserve the reforms that worked while restraining agencies that had begun treating every economic problem as justification for permanent federal authority.
+
+The Progressives formally endorsed Roosevelt.
+
+Again.
+
+This time with considerably less argument.
+
+Roosevelt won by a landslide.
+
+And this is where the Roosevelt family's later mythology begins creating problems for historians.
+
+By the High Progressive Era, the Roosevelts would become something close to an American political dynasty. Franklin's presidency was therefore later remembered as the beginning of an almost inevitable family ascent.
+
+It was not.
+
+In nineteen thirty-six, Franklin Roosevelt was simply the most successful politician in a coalition that might easily have broken apart.
+
+His children were not destined for national office.
+
+Theodore Roosevelt's descendants were not destined to return to political prominence.
+
+Nobody was planning a century of Roosevelts.
+
+Political dynasties almost always look inevitable after several generations have already happened.
+
+At the time, they are just families with unusually good networks.
+
+Franklin himself was also not regarded as the sole architect of the political system developing around him.
+
+This is one of the largest differences between how contemporaries and later generations understood him.
+
+Roosevelt was enormously popular.
+
+He was also one Progressive leader among several.
+
+La Follette mattered.
+
+Labor mattered.
+
+Black political organizations mattered.
+
+State reform movements mattered.
+
+Federal administrators mattered.
+
+The Columbia Families still existed and remained surprisingly influential on safety policy.
+
+Roosevelt became the face of the system.
+
+He did not invent it alone.
+
+And that distinction becomes important when the system encounters something it cannot regulate with a banking commission.
+@chunk 07
+By the late nineteen thirties, Europe was becoming dangerous again.
+
+Germany had rearmed.
+
+Italy had invaded Ethiopia.
+
+Japan was expanding in China.
+
+The Spanish Civil War had become an international proxy conflict.
+
+And American politics encountered an uncomfortable problem.
+
+The Progressive lesson after Columbia had been to act before preventable danger became catastrophe.
+
+The Great War had taught almost the opposite lesson.
+
+Do not let fear, mobilization, alliance commitments, and escalating responses drag governments into a war nobody originally wanted.
+
+These two lessons were about to collide.
+
+The political vocabulary became remarkably simple.
+
+Nineteen fourteen meant acting too quickly.
+
+Nineteen thirty-eight meant waiting too long.
+
+The trouble was that nobody knew, while living through a crisis, which year they were in.
+
+Roosevelt increasingly argued for preparedness without immediate intervention.
+
+Build factories.
+
+Expand aircraft production.
+
+Modernize ports.
+
+Improve rail capacity.
+
+Increase naval readiness.
+
+Stockpile strategic materials.
+
+Train personnel.
+
+Do things that would be useful if war came without claiming war was inevitable.
+
+This was politically easier because preparedness fit comfortably inside the broader New Deal.
+
+An airfield was national defense.
+
+It was also employment.
+
+A shipyard was naval policy.
+
+It was also industrial policy.
+
+A new power station was infrastructure.
+
+It was also strategic capacity.
+
+Progressive government had already normalized the idea that unused capacity was not necessarily wasted capacity.
+
+Sometimes redundancy was the point.
+
+Critics called this militarization by accounting.
+
+There was some truth to that.
+
+But after Columbia, it was difficult to argue that an emergency plan had been unnecessary simply because the emergency did not happen.
+
+The political slogan was familiar.
+
+You do not buy the lifeboat after the ship sinks.
+
+By nineteen thirty-nine, America was still formally at peace.
+
+It was also considerably more prepared for war than the United States had been at the beginning of any previous major conflict.
+
+That preparedness was especially visible in the Pacific, where the fleet was exercising more frequently, spending more time at sea, and planning for a war that everyone still hoped would not happen.
+
+This will matter when we get to Hawaii in Book Two.
+
+For now, Germany invaded Poland.
+
+@chunk 08
+For the first year, most American newspapers called the conflict the Second World War.
+
+This made sense.
+
+There had been a first one.
+
+Then, during nineteen forty, the language began changing.
+
+Labor newspapers and Progressive organizations increasingly called it the Fascist War.
+
+The phrase was political.
+
+That was the point.
+
+Calling it the Second World War implied another catastrophe emerging from great-power rivalry.
+
+Calling it the Fascist War identified a cause and an enemy.
+
+Conservatives initially disliked the term because it seemed designed to push the United States toward intervention.
+
+Isolationists disliked it for the same reason.
+
+The Roosevelt administration avoided it officially.
+
+The public used it anyway.
+
+By the end of nineteen forty, Fascist War was becoming the ordinary American name.
+
+The government formally adopted the term later.
+
+By then, nobody particularly cared what the government called it.
+
+This is worth remembering when we eventually get to the World War.
+
+Governments can name wars.
+
+The public does not have to listen.
+
+Roosevelt was now facing the question that had been lurking underneath Progressive politics since Columbia.
+
+What does it mean to act before catastrophe?
+
+It is one thing to require lifeboats.
+
+It is another to regulate banks.
+
+It is another to close a factory until an engineer fixes a dangerous valve.
+
+It is something else entirely to tell a country that another country may eventually become dangerous enough to require war.
+
+This is where the tidy version of Progressive history starts getting less tidy.
+
+The movement that had spent fifteen years arguing that responsible government acts early also contained millions of people who remembered the Great War and believed early action was exactly how governments talked themselves into disaster.
+
+Both arguments made sense.
+
+Roosevelt's answer was preparedness.
+
+For now.
+
+The United States would build.
+
+It would supply Britain.
+
+It would increase pressure on Japan.
+
+It would expand the Navy.
+
+It would train.
+
+It would wait.
+
+The question was how long preparation could remain preparation.
+
+Because once a government begins building for a catastrophe it hopes to prevent, it also changes the calculations of every other government watching it.
+
+That problem was not unique to the Pacific.
+
+It was not even unique to war.
+
+But by nineteen forty, it had become the central problem of American foreign policy.
+
+How do you prepare early enough to prevent disaster without making the disaster more likely?
+
+There was no clean answer.
+
+There usually is not.
+
+Next time, we are going to look more closely at the machinery Roosevelt was building before the United States entered the Fascist War, and at the increasingly uncomfortable distinction between preparing for war and expecting one.
+
+Thanks for listening.

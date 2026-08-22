@@ -1,0 +1,19 @@
+{
+    "chunk":  8,
+    "generated_utc":  "2026-08-22T04:00:13.279638+00:00",
+    "provider":  "ElevenLabs",
+    "voice_id":  "qSeXEcewz7tA0Q0qk9fH",
+    "model_id":  "eleven_v3",
+    "output_format":  "mp3_44100_128",
+    "character_count":  1803,
+    "estimated_api_cost_usd":  0.1803,
+    "seed":  12345,
+    "source_episode_file":  "episode1.txt",
+    "source_text_sha256":  "55cf2d583325264d3163f21310f1b4f618dcfd9703d20befa251b27bded3952a",
+    "audio_sha256":  "98b51894fa19c8c0a4e65e3f372dde0ef83a590a882c62d522745d688df5c1fb",
+    "request_id":  "Bf2lVDO8Br7Si7JcHU0N",
+    "production_episode":  1,
+    "book_number":  1,
+    "in_universe_episode":  1,
+    "title":  "The Columbia"
+}

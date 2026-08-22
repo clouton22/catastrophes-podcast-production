@@ -1,0 +1,19 @@
+{
+    "chunk":  2,
+    "generated_utc":  "2026-08-22T16:31:08.788738+00:00",
+    "provider":  "ElevenLabs",
+    "voice_id":  "qSeXEcewz7tA0Q0qk9fH",
+    "model_id":  "eleven_v3",
+    "output_format":  "mp3_44100_128",
+    "character_count":  2729,
+    "estimated_api_cost_usd":  0.2729,
+    "seed":  12345,
+    "source_episode_file":  "episode5.txt",
+    "source_text_sha256":  "544dde6b815bf41bff69f75021d7365486b158913038a82bfa864b384110de77",
+    "audio_sha256":  "8da271e2046e335da52eb89ec8c95aad6e13c514a2e118e772c6dc485c52ccd9",
+    "request_id":  "0JexYKTJTXIkzR33i3LI",
+    "production_episode":  5,
+    "book_number":  3,
+    "in_universe_episode":  8,
+    "title":  "The Atomic Settlement"
+}

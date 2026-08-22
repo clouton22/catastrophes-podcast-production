@@ -1,0 +1,16 @@
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Local credentials and credential-bearing API experiments
+set-elevenlabs-env.ps1
+testAuth.py
+getVictoria.py
+
+# Local editor/OS files
+.DS_Store
+Thumbs.db
+
+# Audacity's transient database files (the .aup3 project itself is tracked)
+*.aup3-shm
+*.aup3-wal

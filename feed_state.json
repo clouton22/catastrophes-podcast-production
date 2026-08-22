@@ -1,0 +1,44 @@
+{
+  "episodes": {
+    "episode_01_the_columbia.mp3": {
+      "pub_date": "2026-08-22T11:25:06+00:00",
+      "guid": "catastrophes:episode_01_the_columbia",
+      "production_episode": 1,
+      "book_number": 1,
+      "in_universe_episode": 1,
+      "title": "The Columbia"
+    },
+    "episode_02_the_warning.mp3": {
+      "pub_date": "2026-08-22T11:25:07+00:00",
+      "guid": "catastrophes:episode_02_the_warning",
+      "production_episode": 2,
+      "book_number": 1,
+      "in_universe_episode": 3,
+      "title": "The Warning"
+    },
+    "episode_03_roosevelt.mp3": {
+      "pub_date": "2026-08-22T11:25:07+00:00",
+      "guid": "catastrophes:episode_03_roosevelt",
+      "production_episode": 3,
+      "book_number": 1,
+      "in_universe_episode": 9,
+      "title": "Roosevelt"
+    },
+    "episode_04_the_demonstration.mp3": {
+      "pub_date": "2026-08-22T13:33:42+00:00",
+      "guid": "catastrophes:episode_04_the_demonstration",
+      "production_episode": 4,
+      "book_number": 2,
+      "in_universe_episode": 12,
+      "title": "The Demonstration"
+    },
+    "episode_05_the_atomic_settlement.mp3": {
+      "pub_date": "2026-08-22T20:04:34+00:00",
+      "guid": "catastrophes:episode_05_the_atomic_settlement",
+      "production_episode": 5,
+      "book_number": 3,
+      "in_universe_episode": 8,
+      "title": "The Atomic Settlement"
+    }
+  }
+}

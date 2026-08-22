@@ -1,0 +1,498 @@
+@production 02
+@book 01
+@episode 03
+@title The Warning
+
+@chunk 01
+This is Catastrophes. Book One, Episode Three: The Warning. And when we left off with the Columbia Commission, a Commerce Department researcher named Helen Mercer had found an old British memorandum concerning a White Star liner that had nearly struck an iceberg in the North Atlantic in nineteen twelve. The ship was called Titanic.
+
+Now, depending on how much maritime history you know, that name may or may not mean very much to you. Titanic was one of the three Olympic-class liners built for the White Star Line in the years immediately before the Great War. Her older sister Olympic had already been in service for nearly a year. Britannic was still under construction. Titanic was the middle ship, although nobody at the time thought of her that way because people generally do not organize ships according to which sister will later have the most interesting biography.
+
+She was enormous. Not uniquely enormous for very long, because this was an era when shipping companies kept building larger ocean liners and then advertising whatever happened to be largest that Tuesday as a permanent triumph of human engineering. But in April nineteen twelve, Titanic was one of the largest moving objects human beings had ever built. She was eight hundred eighty-two feet long, displaced tens of thousands of tons, carried more than two thousand passengers and crew on her maiden voyage, and contained the sort of interiors that generated several hundred pages of newspaper copy before she had transported anyone anywhere.
+
+The name Titanic would later acquire an odd cultural significance because of what happened on the fourth night of that maiden voyage. But that significance came later. In April nineteen twelve, she was mostly a very expensive ship trying to get from Southampton to New York.
+
+She departed Southampton on April tenth, stopped at Cherbourg and Queenstown, and then headed west. The voyage was almost entirely normal. Passengers ate. They walked the decks. They wrote letters. The wireless operators transmitted an enormous quantity of private traffic on behalf of wealthy passengers who had apparently discovered that crossing the Atlantic did not relieve them of the need to send messages to people they had just left.
+
+And the ship received ice warnings.
+
+This is where Columbia investigators became interested. Not because Titanic had received one extraordinary warning. She had not. She received several reports from ships operating farther west and north. Some described ice fields. Others gave positions for individual bergs. One particularly detailed warning never reached Captain Edward Smith because the wireless operators were dealing with commercial traffic and other messages. This later became famous. It also became somewhat misleading.
+
+The problem was not that one crucial telegram had gone missing.
+
+The problem was that everyone aboard understood there was ice ahead.
+
+And nobody believed that fact required the ship to stop.
+
+@chunk 02
+This was not considered irresponsible in nineteen twelve. That point matters because the easiest way to misunderstand a historical accident is to begin by assuming that everyone involved already understood the lessons later extracted from it.
+
+North Atlantic liners routinely encountered ice warnings. Captains adjusted courses. Lookouts watched ahead. Officers judged visibility and sea conditions. Ships continued moving. The idea that every report of ice should bring a modern liner nearly to a halt would have sounded excessive to many experienced captains, particularly in clear weather.
+
+Captain Edward Smith was among the most experienced officers in the White Star Line. He was sixty-two years old and nearing the end of a long career. He had commanded Olympic. He had crossed the Atlantic repeatedly. He was not reckless by reputation. Nor was he unusually cautious. He was, which is usually more dangerous for historians, normal.
+
+The evening of April fourteenth was cold and extraordinarily clear. The sea was almost completely calm. There was no moon.
+
+The calm sea mattered. Breaking waves around the base of an iceberg can make it easier to see at night. There were no waves.
+
+The lack of moonlight mattered too. There was very little contrast ahead of the ship.
+
+At ten o'clock that night, Frederick Fleet and Reginald Lee took their places in the crow's nest. Fleet was twenty-four years old. He had been at sea since he was sixteen. The two men were there for precisely the reason everyone believed the system could continue functioning safely despite the ice warnings.
+
+They were looking.
+
+At eleven thirty-nine, Fleet saw something dark ahead.
+
+He rang the lookout bell three times and telephoned the bridge. Sixth Officer James Moody answered.
+
+Fleet said, iceberg, right ahead.
+
+Moody thanked him.
+
+This response has amused people for almost two centuries. It is also exactly what Moody was supposed to say. He had received the report. He acknowledged it. Then First Officer William Murdoch had to do something about it.
+
+Murdoch ordered evasive action. The precise sequence of helm and engine orders later became a subject of considerable argument, because of course it did. What matters for us is that Titanic began turning.
+
+Twenty-six thousand tons of ship does not turn quickly.
+
+The iceberg came closer.
+
+Passengers who happened to be awake felt vibration beneath their feet. A few people later reported seeing ice pass their windows. Small fragments fell onto the forward well deck. Some passengers apparently picked them up.
+
+And then the iceberg passed down the starboard side.
+
+Titanic did not hit it.
+
+Exactly how close she came is impossible to establish. Estimates ranged from tens of feet to something closer to sixty yards. Later officers remembered the distance differently. Passengers remembered it differently. Frederick Fleet himself gave different impressions at different times.
+
+This is normal. Human beings are not surveying equipment.
+
+The important measurement is simpler.
+
+Zero feet of Titanic struck the iceberg.
+
+@chunk 03
+Captain Smith came to the bridge. The ship slowed. Officers inspected the forward compartments. The carpenter checked for flooding. Engineers checked machinery and steering systems. Nothing significant was found.
+
+For perhaps an hour, the incident remained unusual enough to keep senior officers awake.
+
+Then it became a story.
+
+By breakfast, passengers were talking about the iceberg. Some claimed to have seen it. Many clearly had not. One story has a first-class passenger carrying a piece of ice into the smoking room and putting it in a drink. There are several versions of this story, none especially well documented, and it has survived mostly because it is exactly the kind of thing everyone wants to imagine an Edwardian millionaire doing after nearly being killed by an iceberg.
+
+Titanic resumed normal speed.
+
+On April seventeenth, she arrived in New York.
+
+There were reporters.
+
+There were photographs.
+
+There were interviews.
+
+There were stories about the world's largest liner successfully completing its maiden voyage. And there were smaller stories about the iceberg.
+
+Captain Smith described the encounter as serious but competently handled. White Star officials praised the crew. Several newspapers turned the event into evidence of Titanic's maneuverability. One paper described the near collision as a demonstration that the ship's officers could respond quickly even at night.
+
+If you know where this series is going, all of that sounds ominous.
+
+It did not sound ominous at the time.
+
+It sounded reassuring.
+
+A hazard had appeared. Lookouts had seen it. Officers had responded. The ship had turned. Everyone arrived safely.
+
+The system had been tested.
+
+The system had worked.
+
+And this is where the Titanic story becomes important, because after nineteen twenty-five people would repeatedly say that the world had received a warning in nineteen twelve and ignored it.
+
+That is true.
+
+But it is also not how warnings usually look while you are receiving them.
+
+A warning does not necessarily arrive as a small version of the catastrophe.
+
+Sometimes it arrives as success.
+
+The lookout saw the iceberg.
+
+The officer turned the ship.
+
+Nobody died.
+
+If you were White Star Line, what exactly was the lesson?
+
+There were several possible answers.
+
+One was that North Atlantic procedures were dangerous and Titanic had been lucky.
+
+Another was that established procedures had worked exactly as intended.
+
+White Star chose something much closer to the second answer.
+
+And there were reasons for that choice.
+
+@chunk 04
+The company did conduct a review. Captain Smith submitted reports. Harland and Wolff engineers examined the ship. The British Board of Trade asked questions. White Star discussed lookout equipment, wireless procedures, emergency drills, and lifeboats.
+
+None of this was secret.
+
+This is another detail later mythology tends to distort. There was no room somewhere in Liverpool containing one sinister memorandum labeled HOW TITANIC ALMOST SANK AND WHY WE SHOULD IGNORE IT.
+
+There were ordinary reports.
+
+There were recommendations.
+
+There were costs.
+
+And there were competing interpretations.
+
+Take the lifeboats.
+
+Titanic carried twenty conventional lifeboats and collapsible boats. That was more than British law required. It was also nowhere close to enough space for everyone aboard.
+
+Nobody had to discover this.
+
+The arithmetic was available.
+
+The underlying assumption was that lifeboats were not intended to serve as an independent evacuation system for every person aboard a huge liner. The ship itself was expected to remain afloat. Watertight compartments would contain flooding. Wireless communication would summon nearby vessels. Boats could transfer passengers if necessary.
+
+This was not entirely irrational.
+
+Modern liners really were safer than their predecessors. Wireless really did improve rescue prospects. Watertight compartments really did limit flooding. Titanic herself had just encountered an iceberg and remained perfectly safe.
+
+So when some White Star officials discussed adding additional boats, they were not comparing the expense against a known future disaster.
+
+They were comparing the expense against a problem that had just failed to materialize.
+
+Additional boats occupied deck space. They required maintenance. They interfered with passenger promenades. They complicated handling. And White Star's competitors operated under the same regulations.
+
+This last point became particularly important after Columbia.
+
+If White Star voluntarily added expensive safety equipment that Cunard and German competitors were not required to carry, White Star absorbed the cost while its competitors did not.
+
+If the Board of Trade changed the regulation, everyone absorbed the cost.
+
+So White Star had an incentive to wait for regulation.
+
+The Board of Trade, meanwhile, had an incentive to avoid imposing expensive new requirements without clear evidence they were necessary.
+
+Titanic had provided evidence of danger.
+
+She had also provided evidence that the danger could be managed.
+
+Everyone could look at the same incident and derive a different lesson from it.
+
+Which is generally how history works right up until something removes the ambiguity.
+
+In nineteen twenty-five, Columbia removed the ambiguity.
+
+@chunk 05
+Helen Mercer did not discover all of this in one memorandum. That is worth clarifying because the simplified version of the story eventually became much cleaner than the documentary record.
+
+The document she found in December nineteen twenty-five was a Board of Trade summary of correspondence relating to the Titanic incident. It referenced White Star reports, testimony from officers, and internal discussion of possible regulatory changes. Mercer then requested the underlying files.
+
+Those files led to other files.
+
+By January, Columbia Commission investigators had identified a chain of reports stretching from Titanic's bridge to White Star headquarters, Harland and Wolff, the Board of Trade, insurers, and maritime-safety officials on both sides of the Atlantic.
+
+And the more they read, the worse it looked.
+
+Not because they found evidence that someone knew Columbia would eventually sink.
+
+They found something much more politically damaging.
+
+People had identified nearly every category of failure later exposed by Columbia.
+
+Insufficient boat capacity.
+
+Weak emergency-drill requirements.
+
+Inconsistent handling of wireless warnings.
+
+Confusion about whether radio operators worked primarily for passenger communications or ship safety.
+
+The possibility that increasing liner size had made old regulatory formulas obsolete.
+
+The danger that watertight construction was encouraging a degree of confidence not entirely justified by actual flooding limits.
+
+The Titanic incident had not proven any one of those concerns beyond dispute.
+
+But it had put them in the same room.
+
+Then everyone left the room.
+
+The first major press leak came in February nineteen twenty-six. The New York Chronicle published excerpts under a headline that would be reproduced for decades.
+
+THIRTEEN YEARS OF WARNING.
+
+This was good newspaper writing.
+
+It was not particularly good history.
+
+But it worked.
+
+Suddenly the Columbia disaster had a prehistory.
+
+The question was no longer why regulators had failed to anticipate an unprecedented tragedy.
+
+The question became why regulators had failed to act after a remarkably similar tragedy had nearly occurred already.
+
+The answer everyone wanted was corruption.
+
+This would have been politically convenient.
+
+It was also difficult to prove.
+
+White Star had lobbied.
+
+So had other shipping companies.
+
+Companies preferred cheaper regulations.
+
+This was not surprising.
+
+But investigators did not uncover a straightforward transaction in which an executive bribed a regulator to keep lifeboat rules weak.
+
+What they found instead was something harder to prosecute.
+
+Delay.
+
+Uncertainty.
+
+Competing priorities.
+
+Reasonable objections.
+
+Requests for additional study.
+
+Committees waiting for more information.
+
+Agencies assuming another agency would eventually act.
+
+Companies waiting for regulators.
+
+Regulators waiting for clearer evidence.
+
+And thirteen years in which everyone involved had more urgent things to do.
+
+@chunk 06
+There had, to be fair, been several urgent things.
+
+The Great War began two years after Titanic's near miss. Shipping priorities changed completely. Merchant fleets were requisitioned. Ships were sunk. Governments were fighting a war. Maritime regulation understandably became less important than keeping maritime traffic moving at all.
+
+Titanic herself was pulled into wartime service.
+
+This is one of the stranger parts of her later history because photographs of Titanic in wartime paint still surprise people who know her primarily from the nineteen twelve incident. White Star had built her to carry wealthy passengers, immigrants, mail, and freight across the Atlantic. The war turned her into a transport.
+
+She carried troops.
+
+She carried supplies.
+
+She survived submarine threats.
+
+She returned to civilian service afterward.
+
+By the early nineteen twenties, Titanic was no longer particularly new. She remained large and comfortable, but newer ships had appeared. Her interiors were remodeled. Safety equipment was upgraded in several rounds. She became more ordinary every year.
+
+And this mattered after Columbia because Titanic was still there.
+
+Investigators could inspect her.
+
+Reporters could photograph her.
+
+Former officers could testify.
+
+Passengers from the maiden voyage were still alive.
+
+The warning was not buried in some ancient archive.
+
+The ship that had delivered it was still crossing the Atlantic.
+
+Charles Lightoller, who had served as Titanic's second officer in nineteen twelve, became one of the most prominent witnesses before the Columbia Commission. He was now an older man with the unfortunate combination of genuine experience and an instinct for storytelling.
+
+Lightoller testified that the nineteen twelve incident had been closer than White Star publicly admitted.
+
+White Star disputed parts of his account.
+
+Other officers disputed other parts.
+
+For several weeks newspapers argued about whether Titanic had missed the iceberg by thirty feet, forty feet, or sixty yards.
+
+This was extremely interesting.
+
+It was also not particularly important.
+
+Senator Robert La Follette Junior eventually became irritated enough to say so.
+
+The question, he argued, was not whether Titanic missed the iceberg by thirty feet or three hundred.
+
+The question was why a near collision involving the largest liner in the world had produced recommendations that were still recommendations thirteen years later.
+
+This was where the politics began changing.
+
+Because La Follette was starting to argue that the problem was not a bad decision.
+
+It was the absence of a decision.
+
+@chunk 07
+This distinction became central to the Progressive revival of the late nineteen twenties.
+
+The old Progressive movement had spent years talking about monopolies, political corruption, railroad power, unsafe factories, public health, and concentrated wealth. Its political language tended to assume that powerful private interests needed public counterweights.
+
+Columbia added something slightly different.
+
+What if the dangerous outcome did not require anyone to be malicious?
+
+What if the shipping executive really was trying to run a safe company?
+
+What if the regulator really was trying to write sensible rules?
+
+What if the captain really was experienced?
+
+What if everyone had reasons for what they did?
+
+And what if the final result was still two thousand dead people?
+
+This was not entirely new political thought. Economists, reformers, engineers, and social scientists had been circling around versions of it for years.
+
+But Columbia made it understandable to people who had never read any of them.
+
+White Star had wanted regulation to apply equally to its competitors.
+
+Reasonable.
+
+The Board of Trade had wanted stronger evidence before imposing expensive requirements.
+
+Reasonable.
+
+Captains believed slowing too drastically for every ice warning was unnecessary given existing navigation practice.
+
+Reasonable.
+
+Passengers preferred open promenades to rows of emergency boats.
+
+Reasonable.
+
+Wireless operators handled commercial passenger traffic because the equipment was expensive and passenger messages helped pay for it.
+
+Reasonable.
+
+And the collective result was a system that repeatedly rewarded people for waiting.
+
+This is when the phrase competitive catastrophe begins appearing in the record.
+
+Not everywhere.
+
+Not all at once.
+
+And historians have spent far too much time arguing about who used it first.
+
+But by nineteen twenty-seven, Progressive newspapers were using it regularly.
+
+The concept was simple.
+
+Competition could produce outcomes that none of the competitors actually wanted.
+
+A shipping company could not individually solve a safety problem if solving it made the company substantially less competitive and its rivals did nothing.
+
+The regulation was not merely restraining the company.
+
+The regulation could make it possible for every company to do something all of them might prefer in a world where everyone had to do it.
+
+That was a powerful idea.
+
+It was also an idea that would soon escape maritime safety entirely.
+
+But before we get there, we need to finish with Titanic.
+
+Because after nineteen twenty-six, Titanic became famous for something that had not happened.
+
+@chunk 08
+Tourists began booking passage specifically because of the iceberg story. Newspapers ran anniversary pieces. Passengers asked crew members where the iceberg had passed. White Star initially disliked this and then, once it became obvious people would pay for it, disliked it less.
+
+Titanic acquired a peculiar reputation as the ship that had almost been lost.
+
+Then the Great Liner reforms changed her again.
+
+Additional lifeboats appeared.
+
+Radio procedures changed.
+
+Emergency drills became mandatory.
+
+Ice reporting became more systematic.
+
+International standards slowly replaced the patchwork of national rules that had governed the North Atlantic before Columbia.
+
+Titanic continued sailing.
+
+There is something almost frustrating about this part of the story because history conditioned by catastrophe tends to make survival feel narratively incomplete.
+
+People expect the ship to sink eventually.
+
+It did not.
+
+There was no second iceberg.
+
+No dramatic wartime torpedo.
+
+No mysterious disappearance.
+
+Titanic crossed the Atlantic for another decade.
+
+Then another.
+
+By the nineteen thirties she was expensive to operate, increasingly obsolete, and struggling in the Depression-era passenger market.
+
+In nineteen thirty-six, she was withdrawn from service and sold for scrap.
+
+There is a photograph taken during dismantling that later became one of the standard images of twentieth-century safety history. The forward funnel is gone. Sections of the upper deck have been opened. Workers are standing inside rooms that had once carried some of the wealthiest passengers in the world.
+
+For decades that photograph appeared in engineering textbooks.
+
+The caption usually said some variation of the same thing.
+
+SUCCESSFUL SYSTEMS PRODUCE UNEVENTFUL HISTORIES.
+
+This was not actually what people believed in nineteen thirty-six.
+
+The philosophy came later.
+
+At the time, Titanic was simply an old ship being cut apart because keeping her in service no longer made economic sense.
+
+And that may be the most important thing about her.
+
+She nearly struck an iceberg in nineteen twelve.
+
+People investigated.
+
+They learned some things.
+
+They changed a few procedures.
+
+Then they moved on.
+
+Thirteen years later, Columbia sank.
+
+Afterward, generations of historians turned Titanic into the warning the world ignored.
+
+But the people living in nineteen twelve did not know they were ignoring a warning.
+
+They thought they had survived a test.
+
+That difference matters.
+
+Because warnings are easy to recognize after the catastrophe.
+
+The harder problem is recognizing them before you know what they are warnings of.
+
+Next time, we are going to leave the North Atlantic and return to American politics, because by nineteen twenty-eight the Columbia investigations had done something much larger than change maritime law.
+
+They had revived a political movement.
+
+And then Wall Street crashed.
+
+Thanks for listening.

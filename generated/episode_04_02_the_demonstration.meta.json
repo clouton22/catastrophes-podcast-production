@@ -1,0 +1,19 @@
+{
+    "chunk":  2,
+    "generated_utc":  "2026-08-22T13:25:58.346928+00:00",
+    "provider":  "ElevenLabs",
+    "voice_id":  "qSeXEcewz7tA0Q0qk9fH",
+    "model_id":  "eleven_v3",
+    "output_format":  "mp3_44100_128",
+    "character_count":  2928,
+    "estimated_api_cost_usd":  0.2928,
+    "seed":  12345,
+    "source_episode_file":  "episode4.txt",
+    "source_text_sha256":  "bfe6ff445bb8879f1eecfda4ab55bcfdc44cb5ed99abd6767338ecece11c9e02",
+    "audio_sha256":  "0488909481bf879c2bc5736eeec19b2d10de3b67992e7ef9b13d2047e273e4fb",
+    "request_id":  "v4MA6ZVUEglWbqWo8H7l",
+    "production_episode":  4,
+    "book_number":  2,
+    "in_universe_episode":  12,
+    "title":  "The Demonstration"
+}

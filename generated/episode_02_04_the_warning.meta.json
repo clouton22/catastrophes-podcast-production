@@ -1,0 +1,19 @@
+{
+    "chunk":  4,
+    "generated_utc":  "2026-08-22T05:56:42.905874+00:00",
+    "provider":  "ElevenLabs",
+    "voice_id":  "qSeXEcewz7tA0Q0qk9fH",
+    "model_id":  "eleven_v3",
+    "output_format":  "mp3_44100_128",
+    "character_count":  2733,
+    "estimated_api_cost_usd":  0.2733,
+    "seed":  12345,
+    "source_episode_file":  "episode2.text",
+    "source_text_sha256":  "099c503f523909f9ee9ddfea6a627d529c4d74b84adc1cbdb3b4021581032976",
+    "audio_sha256":  "b55a0b9554010ed7ebf31e79a98c799b986a3ea5f92b158b71d10ff1537cf42f",
+    "request_id":  "8w5y1eQsCAhyah5fKGGU",
+    "production_episode":  2,
+    "book_number":  1,
+    "in_universe_episode":  3,
+    "title":  "The Warning"
+}

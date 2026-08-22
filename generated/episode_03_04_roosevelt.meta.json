@@ -1,0 +1,19 @@
+{
+    "chunk":  4,
+    "generated_utc":  "2026-08-22T06:42:52.742159+00:00",
+    "provider":  "ElevenLabs",
+    "voice_id":  "qSeXEcewz7tA0Q0qk9fH",
+    "model_id":  "eleven_v3",
+    "output_format":  "mp3_44100_128",
+    "character_count":  2416,
+    "estimated_api_cost_usd":  0.2416,
+    "seed":  12345,
+    "source_episode_file":  "episode3.txt",
+    "source_text_sha256":  "f361ccfa143059e1dabeb22163f42cde12ea11dce74db5793928cd03e16fd6bd",
+    "audio_sha256":  "be2eee9c2e2270e8042347ab75f3b418b863659f61bbd38425ad6d54d67be1a1",
+    "request_id":  "gyfkhhvjNQVZSd4UgozA",
+    "production_episode":  3,
+    "book_number":  1,
+    "in_universe_episode":  9,
+    "title":  "Roosevelt"
+}

@@ -1,0 +1,882 @@
+# *Catastrophes*
+
+### Episode 1.1 — *The Columbia*
+
+### Production Script
+
+## BLOCK 1 — FLASH
+
+Before we start, we need a definition.
+
+When historians talk about the Catastrophes, they mean four wars: the Great War, the Fascist War, the Coalition War, and the World War.
+
+You will occasionally encounter arguments that the term is too broad, too moralizing, or simply too convenient. Those arguments are not entirely wrong.
+
+We are going to use it anyway.
+
+This is Catastrophes. And before we get to the wars, we need to talk about a passenger liner.And before we get to the wars, we need to talk about a passenger liner.
+
+At 4:23 in the morning on May 20, 1925, the American passenger liner *Columbia* sent a wireless message into the North Atlantic. The message was six words long.
+
+**STRUCK ICE. TAKING WATER. STANDING BY.**
+
+There were 2,847 people aboard.
+
+By sunrise, more than two thousand of them were dead.
+
+---
+
+## BLOCK 2 — FLASH
+
+Now, before we sink the *Columbia*, we should probably establish what the *Columbia* was, because if you grew up in the United States, you have probably seen the photographs.
+
+The four funnels. The enormous white superstructure. The famous photograph taken from the Southampton pier on the morning of May 18, with passengers leaning over the rail and waving at people on the dock.
+
+You have probably also seen the other photograph. The one taken two days later. There is almost no ship in that one, just lifeboats, wreckage, ice, and several hundred people standing on the deck of the *Baltic Star* looking back toward where *Columbia* had been.
+
+That second photograph is the one that ended up in textbooks. But in 1925, the first photograph was considerably more representative of what people thought about the ship.
+
+*Columbia* was new. Large. Fast. American. And expensive.
+
+Very expensive.
+
+She had entered service in 1923 for the Atlantic-American Line, which was then attempting to compete directly with the British and German transatlantic companies. The American government had spent much of the period after the Great War worrying that the country which had emerged as the world's largest industrial power still relied disproportionately on foreign ships to carry passengers and high-value freight across the Atlantic.
+
+There were arguments about subsidies, arguments about tariffs, and arguments about whether a government should be subsidizing luxury passenger service in the first place. There were, because this was Congress, several investigations.
+
+Eventually the Atlantic-American Line received a mixture of mail contracts, favorable financing, and federal guarantees that made construction of *Columbia* possible.
+
+And the company did not build a modest ship.
+
+She was advertised as **America's Atlantic capital**.
+
+This was the 1920s. Advertising had not yet developed shame.
+
+*Columbia* could carry nearly three thousand passengers and crew. She had electric elevators, a swimming pool, a gymnasium, a motion-picture theater, and a radio room capable of maintaining contact with both continents for most of the crossing. She also had an enormous dining room decorated in a style contemporary advertisements described as "Federal Revival," which appears to have meant that somebody had put an eagle on almost everything.
+
+First class was extremely luxurious. Third class was considerably less so. But even the third-class accommodations were marketed aggressively to immigrants and working families as cleaner, safer, and more modern than the steerage compartments of the previous generation.
+
+The ship also possessed watertight compartments, wireless communication, modern pumps, emergency generators, and lifeboats.
+
+Just not enough lifeboats.
+
+We will come back to that.
+
+---
+
+## BLOCK 3 — FLASH
+
+*Columbia* departed Southampton shortly after noon on May 18, 1925. She stopped briefly at Cherbourg and then turned west.
+
+The passenger list was a cross-section of the transatlantic world: businessmen, tourists, immigrants, diplomats, students, families returning from visits to Europe, a touring orchestra, three members of Congress, a former governor of Pennsylvania, and sixteen schoolteachers traveling together from Ohio.
+
+And a twenty-three-year-old railway employee from Chicago named **Samuel Thomas Ward**.
+
+Ward will matter later. Much later. At the time, he was not important.
+
+He worked for the Great Lakes & Western Railway and had spent several months in Britain assisting with negotiations over imported signaling equipment. He had written his mother from London on May 15.
+
+The letter survived because it arrived after he died.
+
+There is nothing prophetic in it. This is worth mentioning because family histories have a tendency to turn the last letter somebody writes into a prediction of their own death.
+
+Samuel complains about English coffee. He says he is looking forward to baseball. He asks whether Margaret, his two-year-old sister, has stopped throwing food at dinner.
+
+Apparently she had not.
+
+Then he says he will be home soon.
+
+He was not.
+
+The first thirty-six hours of the crossing were almost completely uneventful. Weather reports were good. The sea was calm. Passenger activities continued normally.
+
+The ship received ice reports. This was not unusual either. It was May. Ice came south. Ships reported it to one another. Wireless operators passed positions to the bridge. Officers plotted them. Courses were adjusted when necessary.
+
+And here we need to start being careful, because later accounts of the *Columbia* disaster often present the ice warnings as if the ship was receiving a steady stream of messages saying:
+
+**YOU ARE GOING TO HIT AN ICEBERG. PLEASE STOP.**
+
+That is not what an ice report was.
+
+An ice report was information about conditions in an ocean covering millions of square kilometers. Some reports were recent. Some were hours old. Positions could be uncertain. Ice moved. Ships moved.
+
+And nobody aboard *Columbia* lacked awareness that ice existed.
+
+The problem was not that they did not know there was ice.
+
+The problem was what they believed that knowledge required them to do.
+
+---
+
+## BLOCK 4 — FLASH
+
+At 7:40 PM on May 19, the bridge received a report from the British freighter *Caledonia* describing heavy field ice and several large bergs approximately sixty miles north of *Columbia's* projected track.
+
+Captain **Edward Harlan** ordered the ship's course altered six degrees south.
+
+This was prudent.
+
+At 10:15, another message reported scattered bergs farther south. Harlan reduced speed, not dramatically, from about twenty-two knots to eighteen.
+
+This was also prudent by the standards of the time.
+
+At 12:40 in the morning, the temperature began dropping rapidly. At 1:17, the sea-water intake temperature showed a similar decline. At 2:05, officers reported increasing haze near the surface. At 2:40, the ship changed course again. At 3:12, speed was reduced to sixteen knots.
+
+You can see the problem historians immediately encounter here.
+
+This does not look like reckless behavior.
+
+The captain did not ignore the warnings. He responded to them. The ship slowed. It moved south. Lookouts were doubled. The wireless room continued collecting reports.
+
+Everyone involved could truthfully say:
+
+**We were taking precautions.**
+
+And they were.
+
+## OVERLAP 1 — FLASH + v3
+
+At 4:19 in the morning, one of the forward lookouts saw ice directly ahead.
+
+Four minutes later, *Columbia* struck it.
+
+---
+
+## BLOCK 5 — v3
+
+The collision itself was not especially violent. This surprised survivors.
+
+There was no enormous crash. People were not thrown out of beds. A number of passengers later described something closer to prolonged vibration, a scraping, a series of impacts.
+
+One woman in second class thought the ship had dropped an anchor.
+
+Several passengers did not wake up at all.
+
+What had happened below the waterline was considerably more serious.
+
+The iceberg damaged the forward starboard hull across multiple compartments. Exactly how many became one of the first subjects of the later inquiries. The earliest estimate was five. Then six. The final Columbia Commission concluded that at least seven compartments experienced significant flooding within the first twenty minutes.
+
+That was beyond the ship's design assumptions.
+
+And here's another place where the popular story gets simplified.
+
+The watertight compartments did work.
+
+Mostly.
+
+The doors closed. Bulkheads held. Pumps started. Crew responded.
+
+The problem was that the system had been designed around a limited flooding scenario. Once enough adjacent compartments filled, the bow settled. As the bow settled, water eventually found paths over or through structures that had never been expected to remain submerged.
+
+The ship was not penetrated by one catastrophic hole.
+
+It was defeated by accumulation.
+
+This will become a recurring theme.
+
+At 4:23, the first wireless message went out.
+
+**STRUCK ICE. TAKING WATER. STANDING BY.**
+
+
+There were 2,847 people aboard. By sunrise, more than two thousand of them were dead.
+
+---
+
+## BLOCK 2 — FLASH
+
+Now, before we sink the *Columbia*, we should probably establish what the *Columbia* was. Because if you grew up in the United States, you have probably seen the photographs.
+
+The four funnels. The enormous white superstructure. The famous photograph taken from the Southampton pier on the morning of May 18, with passengers leaning over the rail and waving at people on the dock.
+
+You have probably also seen the other photograph. The one taken two days later. There is almost no ship in that one. Just lifeboats, wreckage, ice, and several hundred people standing on the deck of the *Baltic Star* looking back toward where *Columbia* had been.
+
+That second photograph is the one that ended up in textbooks. But in 1925, the first photograph was considerably more representative of what people thought about the ship.
+
+*Columbia* was new. Large. Fast. American. And expensive.
+
+Very expensive.
+
+She had entered service in 1923 for the Atlantic-American Line, which was then attempting to compete directly with the British and German transatlantic companies. The American government had spent much of the period after the Great War worrying that the country which had emerged as the world's largest industrial power still relied disproportionately on foreign ships to carry passengers and high-value freight across the Atlantic.
+
+There were arguments about subsidies. There were arguments about tariffs. There were arguments about whether a government should be subsidizing luxury passenger service in the first place.
+
+There were, because this was Congress, several investigations.
+
+Eventually the Atlantic-American Line received a mixture of mail contracts, favorable financing, and federal guarantees that made construction of *Columbia* possible.
+
+And the company did not build a modest ship.
+
+She was advertised as **America's Atlantic capital**.
+
+This was the 1920s. Advertising had not yet developed shame.
+
+*Columbia* could carry nearly three thousand passengers and crew. She had electric elevators, a swimming pool, a gymnasium, a motion-picture theater, and a radio room capable of maintaining contact with both continents for most of the crossing. And an enormous dining room decorated in a style contemporary advertisements described as "Federal Revival," which appears to have meant that somebody had put an eagle on almost everything.
+
+First class was extremely luxurious. Third class was considerably less so. But even the third-class accommodations were marketed aggressively to immigrants and working families as cleaner, safer, and more modern than the steerage compartments of the previous generation.
+
+The ship also possessed watertight compartments. Wireless communication. Modern pumps. Emergency generators.
+
+And lifeboats.
+
+Just not enough lifeboats.
+
+We will come back to that.
+
+---
+
+## BLOCK 3 — FLASH
+
+*Columbia* departed Southampton shortly after noon on May 18, 1925. She stopped briefly at Cherbourg. Then she turned west.
+
+The passenger list was a cross-section of the transatlantic world. Businessmen. Tourists. Immigrants. Diplomats. Students. Families returning from visits to Europe. A touring orchestra. Three members of Congress. A former governor of Pennsylvania. Sixteen schoolteachers traveling together from Ohio.
+
+And a twenty-three-year-old railway employee from Chicago named **Samuel Thomas Ward**.
+
+Ward will matter later. Much later. At the time, he was not important.
+
+He worked for the Great Lakes & Western Railway and had spent several months in Britain assisting with negotiations over imported signaling equipment. He had written his mother from London on May 15.
+
+The letter survived because it arrived after he died.
+
+There is nothing prophetic in it. This is worth mentioning because family histories have a tendency to turn the last letter somebody writes into a prediction of their own death.
+
+Samuel complains about English coffee. He says he is looking forward to baseball. He asks whether Margaret—his two-year-old sister—has stopped throwing food at dinner.
+
+Apparently she had not.
+
+Then he says he will be home soon.
+
+He was not.
+
+---
+
+The first thirty-six hours of the crossing were almost completely uneventful. Weather reports were good. The sea was calm. Passenger activities continued normally.
+
+The ship received ice reports. This was not unusual either. It was May. Ice came south. Ships reported it to one another. Wireless operators passed positions to the bridge. Officers plotted them. Courses were adjusted when necessary.
+
+And here we need to start being careful.
+
+Because later accounts of the *Columbia* disaster often present the ice warnings as if the ship was receiving a steady stream of messages saying:
+
+**YOU ARE GOING TO HIT AN ICEBERG. PLEASE STOP.**
+
+That is not what an ice report was.
+
+An ice report was information about conditions in an ocean covering millions of square kilometers. Some reports were recent. Some were hours old. Positions could be uncertain. Ice moved. Ships moved.
+
+And nobody aboard *Columbia* lacked awareness that ice existed.
+
+The problem was not that they did not know there was ice.
+
+The problem was what they believed that knowledge required them to do.
+
+---
+
+## BLOCK 4 — FLASH
+
+At 7:40 PM on May 19, the bridge received a report from the British freighter *Caledonia* describing heavy field ice and several large bergs approximately sixty miles north of *Columbia's* projected track.
+
+Captain **Edward Harlan** ordered the ship's course altered six degrees south.
+
+This was prudent.
+
+At 10:15, another message reported scattered bergs farther south. Harlan reduced speed. Not dramatically. From about twenty-two knots to eighteen.
+
+This was also prudent by the standards of the time.
+
+At 12:40 in the morning, the temperature began dropping rapidly. At 1:17, the sea-water intake temperature showed a similar decline. At 2:05, officers reported increasing haze near the surface. At 2:40, the ship changed course again. At 3:12, speed was reduced to sixteen knots.
+
+You can see the problem historians immediately encounter here.
+
+This does not look like reckless behavior.
+
+The captain did not ignore the warnings. He responded to them. The ship slowed. It moved south. Lookouts were doubled. The wireless room continued collecting reports.
+
+Everyone involved could truthfully say:
+
+**We were taking precautions.**
+
+And they were.
+
+## OVERLAP 2 — FLASH + v3
+
+At 4:19 in the morning, one of the forward lookouts saw ice directly ahead.
+
+Four minutes later, *Columbia* struck it.
+
+---
+
+## BLOCK 5 — v3
+
+The collision itself was not especially violent.
+
+This surprised survivors.
+
+There was no enormous crash. People were not thrown out of beds. A number of passengers later described something closer to prolonged vibration. A scraping. A series of impacts.
+
+One woman in second class thought the ship had dropped an anchor.
+
+Several passengers did not wake up at all.
+
+What had happened below the waterline was considerably more serious.
+
+The iceberg damaged the forward starboard hull across multiple compartments. Exactly how many became one of the first subjects of the later inquiries. The earliest estimate was five. Then six. The final Columbia Commission concluded that at least seven compartments experienced significant flooding within the first twenty minutes.
+
+That was beyond the ship's design assumptions.
+
+And here's another place where the popular story gets simplified.
+
+The watertight compartments did work.
+
+Mostly.
+
+The doors closed. Bulkheads held. Pumps started. Crew responded.
+
+The problem was that the system had been designed around a limited flooding scenario. Once enough adjacent compartments filled, the bow settled. As the bow settled, water eventually found paths over or through structures that had never been expected to remain submerged.
+
+The ship was not penetrated by one catastrophic hole.
+
+It was defeated by accumulation.
+
+This will become a recurring theme.
+
+---
+
+At 4:23, the first wireless message went out.
+
+**STRUCK ICE. TAKING WATER. STANDING BY.**
+
+At that moment, nobody on the bridge believed the ship was going to sink.
+
+This matters.
+
+The message did not say **SOS**. It did not say **IMMEDIATE ASSISTANCE REQUIRED**.
+
+It said **standing by**.
+
+---
+
+## BLOCK 6 — FLASH
+
+The officers were still determining the extent of damage. Engineers were reporting flooding. Pumps were operating. Watertight doors were closed. The ship remained powered. Passengers were mostly still in their cabins.
+
+At 4:31, another message went out requesting that nearby vessels report their positions. At 4:36, Captain Harlan ordered the engines stopped. At 4:41, the chief engineer reported that flooding in Boiler Room Four was increasing faster than the pumps could handle. At 4:47, the carpenter reported water in a compartment that should not yet have been flooding.
+
+At 4:52, Harlan ordered passengers awakened.
+
+At 4:56, he ordered the lifeboats prepared.
+
+At 5:02, *Columbia* transmitted its first distress call.
+
+Thirty-nine minutes had passed since the collision.
+
+Later critics would focus obsessively on those thirty-nine minutes.
+
+Why did they wait? Why were passengers not immediately put into boats? Why wasn't the first message an SOS?
+
+The answers are not satisfying.
+
+Because the crew did not know yet. Because evacuating nearly three thousand people into lifeboats in the dark beside ice fields was itself dangerous. Because the ship was designed to survive serious flooding. Because every minute initially produced information suggesting the emergency was serious but potentially manageable.
+
+And because nothing in the system required the captain to assume that the worst plausible interpretation of incomplete information was the correct one.
+
+## OVERLAP 3 — FLASH + v3
+
+At 4:23, waiting seemed reasonable.
+
+At 4:41, waiting still seemed defensible.
+
+At 4:52, the argument was becoming harder.
+
+At 5:02, it was too late.
+
+---
+
+## BLOCK 7 — FLASH
+
+The lifeboat problem was straightforward.
+
+There were not enough.
+
+*Columbia* carried twenty-four conventional boats and several collapsible emergency craft. Even if every boat had been filled perfectly, they could not carry everyone aboard.
+
+This was legal.
+
+That sentence did more political damage than perhaps any other fact to emerge from the disaster.
+
+It was legal.
+
+The ship had passed inspection. Her lifesaving equipment complied with federal regulations. In several categories, it exceeded them.
+
+The regulations were inadequate.
+
+The reason was mostly historical. Lifeboat requirements had developed when passenger ships were much smaller. As liners grew, regulators increasingly treated the ship itself as the primary survival vessel.
+
+A modern liner had compartments. Pumps. Wireless. Nearby shipping. The boats could shuttle passengers from a damaged vessel to rescue ships.
+
+The assumption was not completely foolish.
+
+The problem was that the assumption had slowly turned into a regulation, and the regulation had slowly turned into a fact.
+
+By 1925, people could say:
+
+> *Columbia carries the legally required number of boats.*
+
+And that sounded reassuring.
+
+It was not the same sentence as:
+
+> *Columbia carries enough boats for everyone aboard.*
+
+But the difference did not become politically important until May 20.
+
+---
+
+## BLOCK 8 — v3
+
+The evacuation was chaotic almost immediately.
+
+Some officers interpreted "prepare the boats" as an evacuation order. Others waited. Passengers arrived on deck without life jackets. Others remained in cabins because crew members told them there was no immediate danger.
+
+Language barriers became a serious problem in third class.
+
+Several lifeboats launched partially filled.
+
+This later became one of the most emotionally explosive elements of the disaster. Photographs and testimony made it appear that wealthy passengers had deliberately escaped in half-empty boats while poorer passengers were trapped below.
+
+There were cases where class absolutely affected access.
+
+There were also boats leaving half empty because officers feared the davits would fail under full load. Others launched because passengers refused to get into them. And some left because officers believed they had minutes rather than an hour.
+
+All of those things happened simultaneously.
+
+This is why disaster inquiries take so long.
+
+A catastrophe is rarely considerate enough to have one cause.
+
+At 5:16, the *Columbia* developed a noticeable list. At 5:23, electrical failures began in forward sections. At 5:29, a second distress call reported that the ship was "in grave condition."
+
+At 5:34, the British liner *Baltic Star* answered that it was approximately twenty-seven miles away and proceeding at maximum speed.
+
+Twenty-seven miles.
+
+At normal cruising speed, not very far.
+
+In an emergency, an eternity.
+
+---
+
+At approximately 5:41, Captain Harlan ordered all remaining boats launched.
+
+By then there were hundreds of passengers on the boat deck.
+
+There were not hundreds of spaces remaining.
+
+This is the moment where survivor accounts become difficult to read.
+
+People understood.
+
+Not everyone. Not immediately.
+
+But enough.
+
+There would not be room.
+
+---
+
+## BLOCK 9 — v3
+
+Some crew members began trying to construct rafts from deck furniture and spare timber. Others cut loose collapsible boats. Passengers tried climbing into boats as they lowered. Several people fell. One lifeboat overturned. Another was damaged against the hull.
+
+At least one officer fired a pistol into the air.
+
+Later newspapers reported that officers had shot passengers. The Columbia Commission found no reliable evidence that anyone was deliberately shot, although that conclusion remains controversial among people who have spent the last hundred and seventy-five years arguing about it on the network.
+
+Some things apparently survive every political order.
+
+At 5:52, the bow was low enough that water began washing across the forward deck. At 5:57, *Baltic Star* reported that she could see distress rockets.
+
+At 6:01, *Columbia's* wireless operator sent:
+
+**ENGINE ROOM FLOODING. CANNOT LAST LONG.**
+
+At 6:07:
+
+**COME QUICKLY.**
+
+That was the final complete transmission.
+
+---
+
+The ship did not break in half.
+
+This is another thing movies later enjoyed doing to it.
+
+The hull remained largely intact. The bow simply continued down. As it did, the stern rose.
+
+People moved aft.
+
+Some jumped.
+
+Others climbed.
+
+The lights flickered and then failed.
+
+At around 6:14, witnesses aboard the approaching *Baltic Star* reported that *Columbia's* forward superstructure disappeared beneath the surface.
+
+The stern remained visible for perhaps three more minutes.
+
+Then it went under.
+
+The entire sinking, from collision to disappearance, had taken just under two hours.
+
+The water temperature was approximately thirty-one degrees Fahrenheit.
+
+The cold killed quickly.
+
+---
+
+## BLOCK 10 — FLASH
+
+*Baltic Star* reached the debris field minutes later.
+
+This is one of the terrible accidents of timing that later defined the story.
+
+Had she been ten miles closer, hundreds more might have survived.
+
+Twenty miles farther away, hundreds fewer.
+
+Her crew began pulling people from the water. Other ships arrived over the next several hours.
+
+By afternoon, the count stabilized.
+
+744 survivors.
+
+2,103 dead or missing.
+
+At the time, it was the worst peacetime maritime disaster in American history. It remains one of the deadliest.
+
+---
+
+News reached New York shortly after dawn.
+
+Initially the reports were confused.
+
+*Columbia* had struck ice. *Columbia* was damaged. *Columbia* was being assisted. *Columbia* was sinking.
+
+*Columbia* had sunk.
+
+There was no single moment when Americans learned what had happened.
+
+Telephones rang. Newsboys appeared. Radio stations interrupted programming. Crowds gathered outside the Atlantic-American Line offices in New York.
+
+Families arrived looking for passenger lists.
+
+The company did not yet know who had survived.
+
+This became another scandal later.
+
+For several hours, Atlantic-American posted lists that mixed confirmed survivors, presumed survivors, and passengers whose status was simply unknown.
+
+Names appeared and disappeared.
+
+## OVERLAP 4 — FLASH + v3
+
+Samuel Ward's name was initially listed as rescued.
+
+Thomas Ward saw it.
+
+So did Eleanor Ward.
+
+Several hours later, it was removed.
+
+Samuel's body was never recovered.
+
+Margaret Ward was two years old.
+
+She would later say she had no memory of any of this.
+
+Her father remembered all of it.
+
+---
+
+## BLOCK 11 — FLASH
+
+The political response began almost immediately.
+
+President **Calvin Coolidge** issued a statement expressing sympathy and promising a full investigation.
+
+Congress did what Congress does when two thousand people die in a highly visible way.
+
+It announced several investigations at once.
+
+The Department of Commerce began one. The Senate Committee on Interstate and Foreign Commerce announced hearings. The House announced its own inquiry until somebody persuaded enough members that three simultaneous federal investigations might be excessive.
+
+The Atlantic-American Line announced an internal review.
+
+The unions representing crew announced that the company's review could not be trusted.
+
+The company responded that the unions were politicizing a tragedy.
+
+The unions responded that the company had already done that by describing the sinking as "an unforeseeable natural disaster."
+
+This was May 21.
+
+The bodies were still being recovered.
+
+Everyone was moving quickly.
+
+Partly because the disaster was enormous.
+
+Partly because there was an election next year.
+
+And partly because several people immediately recognized that the official explanation—
+
+**a modern ship encountered an unexpectedly dangerous iceberg**
+
+—was probably not going to survive contact with the evidence.
+
+---
+
+## BLOCK 12 — FLASH
+
+The first hearings opened in Washington on May 27.
+
+Captain Harlan had died, which meant responsibility immediately began flowing toward people who were still alive.
+
+The surviving second officer testified. So did engineers. Wireless operators. Inspectors. Executives. Naval architects. Passengers.
+
+The first few days focused heavily on the evacuation.
+
+This made sense.
+
+The lack of lifeboats was obvious, horrifying, and easily understood.
+
+Senators could hold up the ship's capacity figures and ask why a vessel carrying nearly three thousand people had fewer than two thousand spaces in boats.
+
+Executives responded that the vessel complied with regulations.
+
+This did not help.
+
+Then the senators asked the regulators why the regulations allowed it.
+
+The regulators explained the historical assumptions behind the rules.
+
+This helped even less.
+
+And then the hearings became more interesting.
+
+Because investigators started asking about warnings.
+
+Not just the ice warnings on May 19.
+
+Earlier warnings.
+
+Engineering studies. Company correspondence. Insurance recommendations. Passenger-safety proposals. Reports about evacuation times. Reports about radio staffing. Reports about boat capacity.
+
+And investigators began discovering something unsettling.
+
+Nearly every major weakness exposed by the *Columbia* had been discussed before.
+
+Not necessarily together. Not necessarily by the same people.
+
+But discussed.
+
+Someone had warned that modern ships carried too few boats. Someone had warned that radio rooms could become overloaded with commercial traffic. Someone had warned that evacuation drills were inadequate. Someone had warned that ship sizes had outrun existing regulatory formulas. Someone had warned that watertight designs encouraged captains and companies to treat sinking as essentially impossible.
+
+Nobody had written:
+
+**THE COLUMBIA WILL SINK ON MAY 20, 1925.**
+
+History rarely provides this level of customer service.
+
+What existed instead were fragments.
+
+And nobody had been responsible for assembling the fragments.
+
+---
+
+## BLOCK 13 — FLASH
+
+This is where the Columbia Families enter the story.
+
+At first, they were not an organization.
+
+They were families.
+
+People who had lost husbands. Wives. Parents. Children. Brothers. Sisters.
+
+They wanted bodies.
+
+Then they wanted explanations.
+
+Then they wanted records.
+
+Thomas Ward went to Washington in June because he wanted to know why his son had been listed as rescued and then disappeared from the survivor lists.
+
+This had almost nothing to do with maritime regulation.
+
+He met other families.
+
+Then he came back in August.
+
+Then October.
+
+By the following year, he was secretary of the Illinois Columbia Families Committee.
+
+The Columbia Families did not initially think of themselves as Progressives. Many were Republicans. Many were Democrats. Some were socialists. Quite a few did not particularly care about politics.
+
+What they had in common was that somebody they loved had died in an event that increasingly appeared less like an act of nature and more like a collection of decisions.
+
+They became very good at requesting documents.
+
+They became even better at giving those documents to reporters.
+
+And reporters discovered that regulatory correspondence is much more interesting when you can put a dead person's photograph next to it.
+
+---
+
+One of the first major discoveries came in September 1925.
+
+The Department of Commerce had reviewed lifeboat capacity standards in 1919. The review concluded that existing formulas were outdated. The report recommended revised requirements based on passenger capacity rather than ship tonnage.
+
+Nothing happened.
+
+Why?
+
+Shipping companies objected to the cost. Inspectors worried that rapidly changing ship designs made a fixed rule difficult. Congress had other priorities. The Department intended to revisit the issue after collecting more data.
+
+All of these explanations were true.
+
+Then somebody asked why the Department had not revisited it.
+
+There was no particularly good answer.
+
+---
+
+## BLOCK 14 — FLASH
+
+Another document appeared.
+
+Then another.
+
+By autumn, the story had changed.
+
+The original political question had been:
+
+> **Who caused the Columbia disaster?**
+
+Increasingly, investigators were asking:
+
+> **Why did a system containing so many people who knew about individual problems fail to produce action?**
+
+That is a different question.
+
+It is also much harder to answer.
+
+You cannot fire a system.
+
+---
+
+One senator was particularly interested in this distinction.
+
+His name was **Robert La Follette Jr.**
+
+His father had died earlier that year, only weeks before the *Columbia* disaster. The elder Robert La Follette had spent decades fighting railroads, monopolies, political machines, and concentrated corporate power.
+
+The Progressive movement associated with him had seemed to many Americans like something left over from before the Great War.
+
+A political language from another age.
+
+Then *Columbia* sank.
+
+La Follette Jr. was not his father.
+
+This is a point his enemies made frequently and his friends occasionally admitted.
+
+But he understood what the disaster offered.
+
+Not politically, at first.
+
+Conceptually.
+
+The shipping companies kept saying:
+
+**We followed the law.**
+
+The regulators kept saying:
+
+**We enforced the law.**
+
+The officers kept saying:
+
+**We responded to the information available.**
+
+And the result was 2,103 dead people.
+
+La Follette began asking whether the political system had become too focused on identifying individual wrongdoing.
+
+What if nobody broke the rule?
+
+What if the rule was the problem?
+
+What if every participant pursued a reasonable local interest and the combined result was dangerous?
+
+Those questions were not entirely new.
+
+But the *Columbia* made them legible.
+
+## OVERLAP 5 — FLASH + v3
+
+And then investigators found the older file.
+
+---
+
+## BLOCK 15 — v3
+
+It happened in December.
+
+A Commerce Department researcher named **Helen Mercer** was reviewing British and American correspondence concerning North Atlantic ice reporting.
+
+This was not glamorous work.
+
+Mercer was trying to determine whether American regulators had ever formally considered requiring shipping companies to maintain continuous radio monitoring during ice season.
+
+She found a reference to a British Board of Trade memorandum from 1912.
+
+The memorandum itself was not attached.
+
+So she requested it.
+
+The British sent a copy.
+
+It concerned an incident thirteen years earlier involving a large White Star liner.
+
+The ship had encountered an iceberg at night in the North Atlantic.
+
+There had been ice warnings.
+
+There had been questions about lookout equipment.
+
+There had been discussion of lifeboat capacity.
+
+There had been an internal review.
+
+Several recommendations had been proposed.
+
+Most had not been adopted.
+
+Nobody had died.
+
+Mercer read the report.
+
+Then she read it again.
+
+And on December 14, 1925, she carried it into the office of the Columbia Commission's chief counsel.
+
+The ship was called **Titanic**.
+
+And that is where we are going next.
+
+Thanks for listening.

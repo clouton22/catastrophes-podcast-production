@@ -1,0 +1,4 @@
+[submodule "catastrophes-podcast"]
+	path = catastrophes-podcast
+	url = https://github.com/clouton22/catastrophes-podcast.git
+

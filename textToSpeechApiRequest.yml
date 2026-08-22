@@ -1,0 +1,25 @@
+from elevenlabs import ElevenLabs
+import os
+
+client = ElevenLabs(
+    api_key=os.environ["ELEVENLABS_API_KEY"]
+)
+
+VOICE_ID = "YOUR_VICTORIA_VOICE_ID"
+
+text = """
+Paste one Catastrophes production block here.
+"""
+
+audio = client.text_to_speech.convert(
+    voice_id=VOICE_ID,
+    model_id="eleven_flash_v2_5",   # or "eleven_v3"
+    text=text,
+    output_format="mp3_44100_128",
+)
+
+with open("block_01_flash.mp3", "wb") as f:
+    for chunk in audio:
+        f.write(chunk)
+
+print("Saved block_01_flash.mp3")
