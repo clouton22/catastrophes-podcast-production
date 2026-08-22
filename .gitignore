@@ -14,3 +14,10 @@ Thumbs.db
 # Audacity's transient database files (the .aup3 project itself is tracked)
 *.aup3-shm
 *.aup3-wal
+
+# Rebuildable assembly outputs. Keep adjacent metadata and reports tracked.
+assembled/*.mp3
+assembled/*_master.wav
+
+# One-off voice/model experiments are retained locally, not versioned.
+First mixed model test/
