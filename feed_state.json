@@ -47,6 +47,14 @@
       "book_number": 4,
       "in_universe_episode": 3,
       "title": "Margaret Helen Ward"
+    },
+    "episode_7_what_is_the_last_decision.mp3": {
+      "pub_date": "2026-08-23T04:33:40+00:00",
+      "guid": "catastrophes:episode_7_what_is_the_last_decision",
+      "production_episode": 7,
+      "book_number": 4,
+      "in_universe_episode": 10,
+      "title": "What Is the Last Decision?"
     }
   }
 }
