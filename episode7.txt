@@ -1,0 +1,984 @@
+```text
+@production 7
+@book 4
+@episode 10
+@title What Is the Last Decision?
+
+@chunk 01
+This is Catastrophes. Book Four, Episode Ten: What Is the Last Decision?
+
+By the time we get here, the Coalition War has been going on long enough that almost every argument from the opening crisis has become embarrassing.
+
+The temporary mobilizations were not temporary.
+
+The limited border fighting was not limited.
+
+The governments that insisted escalation could still be controlled were now sending entire generations into a war none of them had expected to fight at this scale.
+
+We spent the last six episodes getting here, so I am not going to reconstruct every offensive again.
+
+You remember the important parts.
+
+The first Soviet counteroffensive failed.
+
+The Chinese armies recovered faster than American planners expected.
+
+The United States entered the war openly.
+
+Rail networks became military targets.
+
+Ports became military targets.
+
+Electrical grids became military targets.
+
+Cities became logistics problems, and logistics problems have a way of becoming civilian problems very quickly.
+
+By nineteen seventy, the photographs from Harbin had become unavoidable.
+
+The blackened rail yards.
+
+Apartment blocks with entire walls missing.
+
+Columns of civilians moving south along roads already being used by military traffic.
+
+Children wearing red emergency tags because somebody needed a system for identifying them when their parents could not be found.
+
+There were other photographs.
+
+There were always other photographs.
+
+Harbin was simply the place where the public stopped being able to pretend the war looked cleaner from a distance.
+
+The war had its songs by then.
+
+Its slogans.
+
+Its jokes.
+
+Its photographs everyone recognized before reading the caption.
+
+The first novels had started appearing too, written by people who had been home from the front for six months and were already being asked to explain what the war meant.
+
+Most of them sensibly refused.
+
+One of the best-known songs from the winter of nineteen seventy was written around a convoy radio operator waiting for a bridge to reopen.
+
+There is no battle in it.
+
+Nobody charges anything.
+
+The singer spends three verses listening to static while the trucks run out of fuel behind him.
+
+Soldiers loved it.
+
+After the war, most of them never wanted to hear it again.
+
+This was not a culture looking for heroic war.
+
+It was a culture trying to understand how a system built to prevent catastrophe had produced one anyway.
+
+And by the spring of nineteen seventy, another question had begun moving from classified memoranda into ordinary political argument.
+
+If the system had failed this badly, why were atomic weapons still the one thing everyone was pretending remained unthinkable?
+
+That question did not begin with Margaret Ward.
+
+It began in military planning rooms.
+
+Then congressional hearings.
+
+Then newspapers.
+
+Then families who had already buried people.
+
+The argument was brutally simple.
+
+The war was already killing enormous numbers of people.
+
+If one atomic weapon could destroy a military concentration, break an offensive, or force negotiations, refusing to build it might not be restraint.
+
+It might be another way of choosing casualties.
+
+That was the argument Margaret Ward had to answer.
+
+And unlike the atomic debates of the nineteen forties and fifties, nobody in the room could pretend the alternative was peace.
+
+@chunk 02
+The proposal that reached the White House in June was not a proposal to bomb a city.
+
+That distinction mattered enormously to the people who wrote it.
+
+The plan called for reconstruction of a small national atomic capability.
+
+A limited capability.
+
+Temporary.
+
+Defensive.
+
+The words appear repeatedly in the memorandum.
+
+The United States would produce a small number of weapons.
+
+They would remain under direct presidential authority.
+
+They would not be deployed automatically.
+
+They would exist primarily to deter Chinese escalation and to provide an option against concentrated military targets if the conventional front collapsed.
+
+The authors believed they had designed restraint into the system.
+
+That is why the memorandum is so important.
+
+It was not written by madmen.
+
+It was written by careful people.
+
+People who understood the Atomic Settlement.
+
+People who knew what national arsenals had once meant.
+
+People who had spent their careers inside institutions built to prevent exactly this decision.
+
+And they had reasons.
+
+The Chinese offensives were getting larger.
+
+American and Soviet conventional stockpiles were being consumed faster than replacement schedules predicted.
+
+Industrial production was expanding, but not fast enough everywhere.
+
+Several commanders believed a major breakthrough in Manchuria could force withdrawals on a scale that would make the political coalition supporting the war difficult to hold together.
+
+The bomb offered concentration.
+
+One aircraft.
+
+One weapon.
+
+One target.
+
+One decision.
+
+That last phrase appears in the briefing slides.
+
+Margaret circled it.
+
+The meeting took place in the Cabinet Room.
+
+This is the photograph I mentioned last time.
+
+Margaret is sitting near the end of the table with one hand across her face.
+
+Behind her, a general is standing beside a map.
+
+The photograph has been reproduced so often that people tend to imagine they know what was being said when it was taken.
+
+They do not.
+
+The official transcript places the photograph somewhere in the middle of a forty-minute presentation.
+
+The general had been explaining the command structure for release authority.
+
+The weapons would be built under civilian control.
+
+Storage would remain centralized.
+
+Deployment would require presidential authorization.
+
+Field commanders would not possess independent release authority.
+
+Additional safeguards would prevent accidental use.
+
+The plan was careful.
+
+Margaret asked how many weapons would be built.
+
+The answer was initially twelve.
+
+Possibly fewer.
+
+She asked what would happen if China began building its own.
+
+The general said the United States would reassess.
+
+She asked whether the Soviet Union would be permitted to build weapons too.
+
+Nobody answered immediately.
+
+That pause mattered.
+
+Because the proposal had been written as though the decision existed inside the United States.
+
+Margaret was asking what the decision did to everybody else.
+
+If America built twelve, Moscow would want twelve.
+
+If Moscow built twelve, Beijing would not assume both arsenals were temporary.
+
+If Beijing began building, American planners would not stop at twelve.
+
+None of this required anyone to lie.
+
+None of it required anyone to break the rules.
+
+Margaret looked back at the briefing slide.
+
+One weapon.
+
+One target.
+
+One decision.
+
+Then she asked:
+
+“We know what the first decision is. We build one weapon. What is the last decision?”
+
+The transcript records eleven seconds before anyone answered.
+
+The answer, when it came, was that there was no way to know.
+
+Margaret nodded.
+
+“Then what you have described is not an option.”
+
+She looked toward the map.
+
+“It is a system.”
+
+@chunk 03
+The meeting did not end the argument.
+
+That is important.
+
+Margaret had identified the problem with the proposal.
+
+She had not solved the war.
+
+The generals went back to their staffs.
+
+The physicists went back to the laboratories.
+
+Congressional leaders asked for new casualty estimates.
+
+The Soviet government wanted to know whether the Americans were preparing something they had not been told about.
+
+Chinese intelligence wanted to know the same thing.
+
+And the front continued moving.
+
+That summer produced some of the worst fighting of the war.
+
+The offensive north of Harbin failed.
+
+Then the counteroffensive failed.
+
+Then both sides reinforced the same sector because neither could afford to let the other side believe it had succeeded.
+
+For several weeks, casualty lists arrived faster than newspapers could print them.
+
+The argument for rebuilding atomic weapons changed with the fighting.
+
+It became less theoretical.
+
+Less about deterrence.
+
+More about ending something people could no longer bear to watch continue.
+
+That distinction made Margaret's position harder to defend.
+
+A senator who had supported the Atomic Settlement twenty years earlier asked during a closed briefing whether preserving an old principle was worth another hundred thousand dead soldiers.
+
+Margaret answered that she did not know.
+
+That answer leaked.
+
+Her opponents called it weakness.
+
+Her supporters spent several days explaining that uncertainty was a sign of seriousness.
+
+Margaret was furious with both groups.
+
+This is one of those moments where later political mythology becomes particularly unhelpful.
+
+The famous version has Ward standing alone against the generals, certain from the beginning that rebuilding the bomb would be a mistake.
+
+The documents do not show that.
+
+She asked for military options.
+
+She asked for target studies.
+
+She asked how quickly weapons could be produced.
+
+She asked whether a demonstration could still have strategic value.
+
+She asked whether Soviet participation in a temporary international stockpile might prevent national rearmament.
+
+She even asked what conditions would have to exist before atomic use became the least destructive option available.
+
+Those are not the questions of someone who had already decided.
+
+They are the questions of someone trying very hard not to make the decision by refusing to look at it.
+
+The pressure increased after the August encirclement at Qiqihar.
+
+Three allied divisions were cut off.
+
+Air supply was intermittent.
+
+The Chinese command began moving additional artillery into range.
+
+For six days, Washington believed the pocket might collapse.
+
+Nobody proposed building an atomic weapon for Qiqihar.
+
+They could not have built one in time.
+
+That was part of the argument.
+
+The Atomic Settlement had done exactly what it was designed to do. There was no national stockpile waiting in a bunker. No military production line that could be restarted with a telephone call. The fissile material was accounted for. The facilities were monitored. Reconstructing a weapon would take time, involve several institutions, and become very difficult to conceal from either the Authority or the Soviet Union.
+
+The generals knew this.
+
+What returned during the Qiqihar meetings was a different question.
+
+What happens the next time?
+
+The immediate briefings concerned airlift, relief corridors, artillery, and whether the divisions could break out.
+
+But underneath those discussions was another argument.
+
+If an atomic weapon already existed, a rail junction east of the encirclement would have been an obvious target.
+
+Military.
+
+Operationally important.
+
+Relatively isolated from major population centers.
+
+Exactly the kind of target advocates of a limited atomic capability had been talking about.
+
+Nobody had to say this very often.
+
+Margaret understood the point.
+
+One briefing included projected effects for destroying the junction by conventional bombing.
+
+Margaret looked at the numbers and asked how many aircraft it would require.
+
+Then how many sorties.
+
+Then how many days.
+
+The general answered.
+
+There was a pause.
+
+Margaret said, “And this is the part where I am supposed to notice what one weapon could do.”
+
+Nobody answered.
+
+That was answer enough.
+
+She asked how many civilians lived within the area that would have been affected by an atomic strike.
+
+The estimate was uncertain.
+
+She asked how uncertain.
+
+The answer changed twice during the meeting.
+
+Then she asked the question that mattered more.
+
+“If it worked, what happens next?”
+
+Because success would prove the weapon useful.
+
+And a useful weapon is much harder to put back in a box.
+
+@chunk 04
+The encircled divisions escaped without an atomic strike.
+
+Not cleanly.
+
+Not cheaply.
+
+But they escaped.
+
+A combination of airlift, night movement, Soviet pressure farther west, and a Chinese command decision to redirect forces opened a corridor long enough for most of the pocket to withdraw.
+
+The rail junction survived.
+
+So did the people living around it.
+
+For a few weeks, the atomic debate receded.
+
+This is where later accounts sometimes become too comfortable.
+
+The crisis passed.
+
+Therefore Ward had been right.
+
+That is not what happened.
+
+The crisis passed.
+
+That was all.
+
+The next crisis could have been worse.
+
+And Margaret knew it.
+
+By autumn, she had stopped arguing that the United States should simply refuse to rebuild atomic weapons.
+
+That position depended too much on everything continuing to go reasonably well.
+
+Instead, she began pushing for a different structure.
+
+If the war reached a point where atomic weapons had to be recreated, they could not return as ordinary national military assets.
+
+No standing arsenal.
+
+No permanent production line.
+
+No field deployment.
+
+No automatic retaliation plan.
+
+No national decision made in isolation.
+
+Any reconstruction would require joint consultation with the Soviet Union and the International Atomic Authority, with material accounting beginning before the first weapon existed.
+
+Military planners hated this.
+
+Some of them reasonably.
+
+If atomic use became necessary during a rapidly collapsing front, an international consultation process was not designed for speed.
+
+Margaret's answer was that this was partly the point.
+
+A process slow enough to be frustrating might also be slow enough to prevent panic from becoming doctrine.
+
+The Soviets were skeptical too.
+
+Morozov supported the principle.
+
+Several Soviet generals did not.
+
+One reportedly asked whether Ward intended to defeat China by committee.
+
+Morozov's answer survives only in an American diplomatic cable.
+
+He is supposed to have said:
+
+“No. We are trying not to defeat ourselves by procedure.”
+
+The wording is suspiciously good.
+
+Keep that in mind.
+
+The proposal never became a finished atomic reconstruction system because the immediate military need never crossed the threshold required to activate it.
+
+But the negotiations produced something else.
+
+A set of emergency rules for institutions operating under extreme systemic stress.
+
+Rules about reporting failures.
+
+Rules about independent review.
+
+Rules about how much authority could be concentrated before another institution had to be able to interrupt it.
+
+Rules about what happened when speed itself became dangerous.
+
+We are not going to do the whole thing here.
+
+You remember the Ward-Morozov Protocols.
+
+The basic rule was simple enough.
+
+The institution responsible for succeeding could not also be the only institution allowed to decide whether it had failed.
+
+That principle would matter far beyond atomic weapons.
+
+For the moment, it gave Margaret something she had been looking for since the first briefing.
+
+Not certainty.
+
+A brake.
+
+And by the winter of nineteen seventy, the war desperately needed one.
+
+@chunk 05
+By nineteen seventy-one, the atomic argument had changed again.
+
+Not because anyone had solved it.
+
+Because the war had become worse.
+
+The Harbin photographs were old news by then.
+
+There were new cities.
+
+New offensives.
+
+New names for places most Americans had never expected to learn.
+
+The casualty estimates were no longer discussed as temporary spikes.
+
+They had become part of planning.
+
+That mattered politically.
+
+A government can ask people to accept extraordinary losses for a while if it can plausibly describe those losses as the price of getting through a crisis.
+
+It becomes much harder when the crisis starts looking like the normal condition.
+
+Congressional support for the war remained intact, but the arguments had sharpened.
+
+Some Progressives insisted that rebuilding atomic weapons would destroy the central achievement of the postwar order.
+
+Others answered that an institution which could not adapt to the conditions it actually faced had confused consistency with principle.
+
+Conservatives were divided too.
+
+Some wanted an immediate national arsenal.
+
+Others distrusted giving any president that much destructive power.
+
+The old categories were becoming less useful.
+
+War does that.
+
+Margaret's position also changed.
+
+She stopped saying that atomic reconstruction should never happen.
+
+Instead, she began insisting that nobody should be able to reach that decision alone.
+
+This frustrated almost everyone.
+
+People who wanted the bomb thought she was hiding refusal inside procedure.
+
+People who opposed the bomb thought she was making its return thinkable.
+
+Both criticisms were reasonable.
+
+Margaret knew that too.
+
+The decisive meeting came after a Chinese offensive broke through near the Amur and threatened to isolate a major Soviet formation.
+
+The military situation was serious.
+
+Not hopeless.
+
+Serious.
+
+An American general presented three conventional responses.
+
+All were expensive.
+
+All required time.
+
+None guaranteed success.
+
+Then he presented a fourth option.
+
+He did not call it atomic.
+
+There was no atomic weapon to use.
+
+He called it a capability requirement.
+
+The United States, he argued, needed the ability to destroy a hardened concentration of forces within hours rather than days, without committing hundreds of aircraft and without assuming control of the air.
+
+Everyone in the room understood what kind of capability could eventually satisfy that requirement.
+
+Margaret let him finish.
+
+Then she asked whether the requirement would disappear if the current offensive failed.
+
+The general said no.
+
+Would it disappear if negotiations began?
+
+Probably not.
+
+Would it disappear if China withdrew fifty miles?
+
+No.
+
+Would it disappear after the war?
+
+That produced a longer pause.
+
+The general said the military would still consider the capability useful.
+
+Margaret nodded.
+
+This was the answer she had been waiting for.
+
+The proposal was no longer about this battle.
+
+Or even this war.
+
+It was about creating a permanent military requirement.
+
+And once a requirement existed, somebody would eventually build a system to satisfy it.
+
+Margaret looked around the table.
+
+“General, what you have described is not retaliation.”
+
+She tapped the briefing paper.
+
+“It is a system.”
+
+The sentence became famous.
+
+The rest of the meeting did not.
+
+But the rest matters more.
+
+Margaret did not reject the requirement.
+
+She ordered the military to keep studying it.
+
+She also ordered the State Department, the International Atomic Authority, and the Soviet government brought formally into the discussion.
+
+If the problem was going to become permanent, then the decision about it could not remain temporary.
+
+@chunk 06
+The response from Moscow arrived two days later.
+
+Morozov agreed.
+
+Several Soviet generals did not.
+
+One of them sent a memorandum arguing that Ward's proposal effectively gave foreign governments influence over Soviet survival.
+
+The objection was difficult to dismiss.
+
+If a Soviet army were collapsing, should American lawyers have a vote?
+
+If an American city were threatened, should Soviet officials be able to delay action?
+
+If the International Atomic Authority objected, did that objection matter more than a government's responsibility to its own citizens?
+
+These were not rhetorical questions.
+
+They were the questions.
+
+The Ward-Morozov Protocols had created ways for institutions to report failure outside their own chains of command.
+
+They had not created a world in which governments stopped being governments.
+
+That distinction became the center of the debate.
+
+Margaret wanted enough external review to prevent panic from turning into automatic escalation.
+
+She did not want to create an international veto over national survival.
+
+Nobody could agree exactly where the line belonged.
+
+So they began drawing one.
+
+The proposal that emerged was deliberately awkward.
+
+If atomic reconstruction became necessary, no country would begin by building a national arsenal.
+
+The International Atomic Authority would certify the material.
+
+American and Soviet teams would observe production.
+
+Each government would retain control over its own final decision.
+
+But the existence of the program, the number of weapons, and the conditions under which they could be used would no longer be secret from the other side.
+
+This was not disarmament.
+
+It was not deterrence in the usual sense.
+
+It was an attempt to prevent reconstruction from becoming a race.
+
+Critics immediately pointed out the obvious problem.
+
+China was not part of the arrangement.
+
+If China began building secretly, the system could fail before the first American or Soviet weapon was finished.
+
+Margaret's answer was that secrecy was exactly what the Authority had been designed to make difficult.
+
+That did not mean impossible.
+
+Nothing in her career had ever depended on impossible.
+
+The proposal remained unfinished through the winter.
+
+Then something unexpected happened.
+
+The front stabilized.
+
+Not because anyone had solved the strategic problem.
+
+Because everyone was exhausted.
+
+Chinese advances slowed.
+
+Soviet defenses hardened.
+
+American production finally began catching up with consumption.
+
+The military case for immediate atomic reconstruction weakened.
+
+Not disappeared.
+
+Weakened.
+
+And for the first time in months, diplomats had enough room to work without every conversation being overtaken by tomorrow morning's casualty report.
+
+Margaret did not celebrate.
+
+She had learned too much about near misses for that.
+
+A crisis that passes without catastrophe does not prove the system was safe.
+
+Sometimes it only means you were lucky.
+
+What it can give you is time.
+
+Margaret had spent most of her life trying to create exactly that.
+
+Time for another inspection.
+
+Another route.
+
+Another meeting.
+
+Another decision.
+
+By early nineteen seventy-two, the question was no longer whether the Coalition War could be won.
+
+It was whether anyone could define an ending all sides could survive.
+
+And that is where the atomic debate finally began to turn into a peace debate.
+
+@chunk 07
+By the spring of nineteen seventy-two, the war had become strangely easier to describe and harder to explain.
+
+The fronts moved less.
+
+The casualties did not stop.
+
+Supply traffic through the frozen Chosin Reservoir slowed badly that winter, but that was mostly an engineering problem.
+
+The strategic problem was farther north.
+
+The coalition still could not force a reliable crossing of the Yalu.
+
+If the Korean front could cross in strength and link with the Soviet armies fighting through Manchuria, the war would look very different.
+
+Everyone knew that.
+
+China knew it too.
+
+By nineteen seventy-two, the Yalu had become less a boundary than a locked door.
+
+And every month it stayed closed made the arguments for atomic reconstruction a little easier to make.
+
+American and Soviet commanders could point to sectors where another offensive might gain territory.
+
+Chinese commanders could do the same.
+
+Every plan required more men, more ammunition, more rail capacity, more time.
+
+None offered an ending.
+
+Margaret became increasingly impatient with briefings that described military success without describing the political condition that success was supposed to create.
+
+At one meeting, an officer explained that a proposed offensive could improve the allied negotiating position.
+
+Margaret asked what negotiating position they wanted.
+
+The officer began describing the offensive again.
+
+She stopped him.
+
+“No. After we win it.”
+
+The room was quiet.
+
+“What do we ask for?”
+
+That question sounds obvious.
+
+It was not.
+
+For most of the war, strategy had been organized around preventing defeat.
+
+Prevent the Soviet position from collapsing.
+
+Prevent Chinese control of Manchuria.
+
+Prevent allied withdrawal.
+
+Prevent escalation.
+
+Prevent atomic rearmament.
+
+Prevention had kept the coalition alive.
+
+It had not defined peace.
+
+That required a different kind of decision.
+
+Margaret asked the State Department to produce a settlement that did not begin with the assumption that China would admit defeat.
+
+The first draft was terrible.
+
+The second was worse.
+
+The third required China to accept language no Chinese government could plausibly sign and remain a government afterward.
+
+Margaret sent it back.
+
+This irritated people who believed the purpose of winning a war was to make the other side admit that it had lost.
+
+Margaret's answer was that the purpose of ending a war was to end it.
+
+That sounds like one of the famous Ward quotations.
+
+It is not.
+
+It comes from meeting notes and is probably just what she said.
+
+The diplomatic problem was becoming familiar.
+
+The United States wanted guarantees.
+
+The Soviet Union wanted security along its eastern frontier.
+
+China wanted to avoid a settlement that permanently encoded humiliation.
+
+American allies wanted proof that the war had produced something worth the cost.
+
+Everyone needed something they could describe at home as success.
+
+Not necessarily the same thing.
+
+That distinction had helped end the Fascist War.
+
+It was beginning to matter again.
+
+And for the first time since the Coalition crisis began, Margaret was spending more time asking what could be signed than what could be survived.
+
+@chunk 08
+The atomic question never disappeared.
+
+It simply stopped being the only question in the room.
+
+That may have been Margaret's real victory in nineteen seventy-two.
+
+Not proving that atomic weapons were unnecessary.
+
+She could not prove that.
+
+Not proving that restraint would always work.
+
+It would not.
+
+What she had done was keep the decision open long enough for another possibility to appear.
+
+Diplomacy.
+
+The word sounds inadequate after a war like this.
+
+It usually does.
+
+Diplomacy is paperwork conducted after artillery has made everyone more flexible.
+
+By summer, exploratory contacts were underway.
+
+Neutral governments carried messages.
+
+The Soviet and American positions moved closer.
+
+Chinese intermediaries began asking questions that were not quite proposals.
+
+The first discussions about Geneva were deliberately deniable.
+
+Nobody wanted to be the government that had asked for peace first.
+
+Margaret understood this perfectly well.
+
+She had grown up in a political tradition that distrusted systems built around appearances.
+
+She had also spent enough time in politics to understand that appearances were sometimes part of the system.
+
+The question was whether they could be used to create room for a decision rather than close it.
+
+The famous photograph from Geneva comes later.
+
+So does Zhou Enlai.
+
+So does the sentence everyone quotes.
+
+We are not there yet.
+
+For now, Margaret Ward was still in Washington.
+
+The maps were still on the walls.
+
+The casualty reports were still arriving.
+
+The atomic reconstruction plans still existed in locked files.
+
+And nobody knew whether the negotiations would succeed.
+
+That uncertainty matters.
+
+Later generations knew Geneva worked.
+
+The people beginning those negotiations did not.
+
+They were not choosing between war and peace.
+
+They were choosing between continuing a war they understood and attempting a settlement they did not.
+
+Margaret had spent most of her life arguing that institutions should preserve the possibility of another decision.
+
+Now she had one.
+
+Not a good decision.
+
+Not a safe one.
+
+Another one.
+
+That was enough.
+
+The Coalition War continued.
+
+But the question had changed.
+
+For three years, governments had asked how much more they could do without losing control.
+
+Now they were beginning to ask how much less they could demand without losing everything they believed they were fighting for.
+
+And underneath that question was another one.
+
+Could a war this large end without somebody being forced to destroy the system in order to prove that the system had failed?
+
+They did not know yet.
+
+They were about to test that theory.
+
+That is where we leave Margaret for now.
+
+Next time, we follow the people trying to turn that question into terms on paper.
+
+Book Four, Episode Eleven: Terms.
+
+Thanks for listening.
+```

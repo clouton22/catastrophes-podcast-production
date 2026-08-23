@@ -1,0 +1,19 @@
+{
+  "production_episode": 7,
+  "book_number": 4,
+  "in_universe_episode": 10,
+  "title": "What Is the Last Decision?",
+  "chunk": 6,
+  "generated_utc": "2026-08-23T03:52:06.266042+00:00",
+  "provider": "ElevenLabs",
+  "voice_id": "qSeXEcewz7tA0Q0qk9fH",
+  "model_id": "eleven_v3",
+  "output_format": "mp3_44100_128",
+  "character_count": 3351,
+  "estimated_api_cost_usd": 0.3351,
+  "seed": 12345,
+  "source_episode_file": "episode7.txt",
+  "source_text_sha256": "0815a2bc90ef156d86f4043c02969a2b194a0f8a59badde2e186f3b26017b5d6",
+  "audio_sha256": "4ea15d92843b6621eb37e7d7e72ecb4adc4328c68c04cad85e21712747f0dae3",
+  "request_id": "roptQAiEGzE5roLYyIZU"
+}
