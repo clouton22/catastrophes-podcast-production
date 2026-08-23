@@ -1,0 +1,850 @@
+```text
+@production 6
+@book 4
+@episode 3
+@title Margaret Helen Ward
+
+@chunk 01
+This is Catastrophes. Book Four, Episode Three: Margaret Helen Ward.
+
+I should probably tell you something before we start.
+
+Margaret Helen Ward was my great-great-grandmother.
+
+Yes. That Margaret Ward.
+
+No, I did not know her. She died thirty-seven years before I was born.
+
+And no, this will not make the next thirty-seven episodes shorter.
+
+I have avoided mentioning this until now for a reason.
+
+We have already used the Ward family papers several times. Thomas Ward's correspondence appeared when we talked about Columbia. His notes turned up again during the Atomic Settlement. Margaret herself has been appearing in this story for most of the last book, first at the edges of wartime logistics, then in the legal machinery of atomic control, and increasingly in places where the decisions became difficult.
+
+None of that requires explanation. Margaret Ward is one of the most heavily documented political figures of the middle twentieth century. Her papers fill archives. Her speeches are assigned in schools. There are schools named after her, which she would have hated, and at least one airport, which I think she would have tolerated.
+
+Some historians have called her one of the greatest presidents of the High Progressive era.
+
+I will leave that judgment to historians with fewer family photographs.
+
+Her name is attached to the Coalition settlement, the Ward-Morozov Protocols, three federal buildings, one airport, and a truly unreasonable number of doctoral dissertations.
+
+My problem is narrower.
+
+I have access to things other historians do not.
+
+Not secret things, mostly. Family things.
+
+Letters people kept because somebody thought they might matter. Notes written in margins. Christmas cards. A grocery list from nineteen fifty-two that has somehow survived three archival moves and is now stored in an acid-free folder because nobody wants to be the person who throws away Margaret Ward's grocery list.
+
+But I will tell you one family story.
+
+Samuel's name survived.
+
+I have three cousins named Sam.
+
+None of us knew why when we were children. Eventually someone had to explain it.
+
+There had been another Samuel.
+
+He went to Britain for work.
+
+He came home on Columbia.
+
+Except he didn't.
+
+That kind of material is useful.
+
+It is also dangerous.
+
+Family memory has a way of converting ordinary people into characters. It smooths motives. It explains contradictions. It remembers the good story.
+
+Historians do this too, of course. We just footnote it.
+
+So for the last several episodes, whenever I used something from the Ward family papers, I tried to use it only when I could confirm the important part somewhere else.
+
+That remains the rule today.
+
+Because this episode is not about my great-great-grandmother.
+
+It is about Margaret Helen Ward.
+
+And before she became the woman whose name is attached to all of those things, she was a two-year-old girl in Chicago whose brother did not come home.
+
+We have already met Samuel.
+
+Now we need to meet the sister who grew up in the house he left behind.
+
+@chunk 02
+Margaret Helen Ward was born on February seventeenth, nineteen twenty-three, in Chicago, Illinois.
+
+Margaret was two when Columbia sank.
+
+That is old enough for a family to say you were there, and young enough that memory becomes almost useless.
+
+She later said she remembered nothing of Samuel himself.
+
+No voice.
+
+No face.
+
+No particular room with him standing in it.
+
+What she remembered was the shape of his absence.
+
+Her father, Thomas Ward, kept boxes.
+
+Newspaper clippings. Letters from Washington. Shipping records. Copies of testimony. Lists of names. Notes from other Columbia families. Receipts for train tickets. Carbon copies of correspondence. Documents that had been folded, reopened, annotated, and filed again.
+
+This was partly activism.
+
+It was also grief behaving like an accountant.
+
+Margaret grew up with those boxes in the house.
+
+She knew Samuel first as a photograph, then as a name people lowered their voices around, and eventually as the reason her father sometimes disappeared into the dining room after dinner with a stack of papers and stayed there until midnight.
+
+There is a temptation to turn this into destiny.
+
+A dead brother. An accountant father. A future president who would spend her career thinking about systems, records, and preventable failure.
+
+That is exactly the kind of family story I warned you about.
+
+Children do not become historical arguments at age six.
+
+Margaret liked arithmetic.
+
+She hated piano lessons.
+
+She was competitive about card games.
+
+She once broke a neighbor's window with a baseball and spent the next week insisting the trajectory proved the ball had been hit by someone else.
+
+The surviving evidence does not support her conclusion.
+
+What the household did give her was a particular relationship to explanation.
+
+Thomas Ward did not talk about Columbia as a murder.
+
+He did not believe anyone had killed Samuel.
+
+He believed that everyone had done his job.
+
+That sentence appears in a letter Thomas wrote in nineteen thirty-one, and Margaret quoted it decades later.
+
+It is probably the most important thing she inherited from him.
+
+Not anger at one villain.
+
+Suspicion of a system in which everybody could be responsible for one part and nobody responsible for the result.
+
+By the time Margaret was old enough to understand the Columbia investigations, the political argument they had helped create was already becoming ordinary American language.
+
+Banks could fail systemically.
+
+Factories could fail systemically.
+
+Markets could fail systemically.
+
+Governments could create rules that rewarded individually reasonable behavior and still produce collectively disastrous outcomes.
+
+For Margaret, these were not abstract lessons she encountered at university.
+
+They were also the answer adults had eventually given a little girl when she asked why there were three boys named Sam at family gatherings.
+
+The answer was that there had been another one.
+
+And the people responsible had mostly followed the rules.
+
+Margaret never seems to have forgotten either part.
+
+@chunk 03
+Margaret left Chicago for the University of Wisconsin in nineteen forty.
+
+She, of course, studied mathematics.
+
+Later biographies sometimes present this as the obvious beginning of everything that followed. Mathematics led to logistics, logistics led to systems analysis, systems analysis led to administrative law, and eventually all roads lead neatly to Geneva.
+
+History is not that simple.
+
+Margaret studied mathematics because she was good at it.
+
+She also seems to have enjoyed the fact that answers could be wrong.
+
+This is one of those details that appears repeatedly in accounts from people who knew her when she was young. Margaret liked arguments, but she liked arguments with constraints. A proof either held together or it did not. A bridge could carry a stated load or it could not. A supply calculation eventually encountered a train, a truck, a warehouse, and a number of gallons of fuel that actually existed.
+
+Politics, she later complained, was much less considerate.
+
+As it did for millions of people and families, the Fascist War interrupted Margaret's life.
+
+We spent quite a bit of Book Two on what mobilization did to ordinary plans, so I will not repeat all of that here. Universities emptied unevenly. Careers began early, ended early, or changed direction entirely. People trained for one profession and discovered that the country urgently needed them to do something else.
+
+Margaret was one of them.
+
+By nineteen forty-two, the United States was expanding the military faster than its administrative systems could comfortably absorb.
+
+Margaret entered military logistics.
+
+There is a photograph from this period that appears in almost every biography.
+
+Margaret is standing beside a stack of fuel drums in Britain, wearing an oversized field jacket and holding a clipboard under one arm. She is twenty years old and looks annoyed at whoever is taking the picture.
+
+Later captions usually describe it as the first recognizable image of the future president.
+
+At the time, it was a photograph of a junior logistics officer who wanted the photographer to get out of the way.
+
+Not because anyone had identified a future president hiding in a mathematics department.
+
+The Army needed people who could count.
+
+Her first assignments were profoundly unglamorous.
+
+Rail schedules.
+
+Warehouse capacity.
+
+Fuel consumption.
+
+Truck availability.
+
+Replacement parts.
+
+How many tons could move through a port in a day.
+
+How many days of ammunition could be kept forward without blocking the road needed to deliver tomorrow's ammunition.
+
+The war taught her something mathematics had not.
+
+A calculation could be correct and still fail.
+
+The train arrived exactly when scheduled, but the siding was occupied.
+
+The trucks existed, but the tires did not.
+
+Two warehouses contained enough fuel, but both depended on the same bridge.
+
+Three independent supply routes turned out to use the same rail junction.
+
+This is where Margaret began using the phrase common dependence.
+
+Later engineers would usually call the problem common-mode failure.
+
+The idea was simple.
+
+Two systems are not redundant if the same event can break both of them.
+
+During preparations for the Allied landing in France, Margaret worked on fuel distribution planning in Britain.
+
+One surviving planning memorandum identifies three routes for moving fuel from ports toward forward depots.
+
+A senior officer questioned why the third route was necessary.
+
+The first two already had enough theoretical capacity.
+
+Margaret's answer survives in the meeting notes.
+
+“Because we only have two.”
+
+That line has followed her around ever since.
+
+It appears on engineering posters, emergency-management manuals, and one particularly ugly statue outside a logistics school in Virginia.
+
+The meeting notes make it considerably less dramatic.
+
+Nobody pauses.
+
+Nobody records that the room suddenly understood the future of systems engineering.
+
+They move to the next agenda item.
+
+Which is usually what happens when somebody says something important.
+
+The third route was approved.
+
+During the nineteen forty-three landings in France, the first route was disrupted by bombing.
+
+The second became overloaded.
+
+The third carried fuel.
+
+No army was saved by Margaret Ward.
+
+No campaign turned on one junior logistics officer.
+
+But something happened that she would remember for the rest of her life.
+
+The unnecessary route became necessary.
+
+And because somebody had built it before anyone could prove they needed it, nothing particularly dramatic happened.
+
+@chunk 04
+The war did not turn Margaret Ward into a lawyer.
+
+It did convince her that being right about a failure was not the same thing as having the authority to prevent it.
+
+That distinction began bothering her before the Fascist War ended.
+
+Logistics officers could identify a vulnerable bridge.
+
+Engineers could calculate how much weight it could carry.
+
+Planners could design an alternate route.
+
+But somebody still had to decide whether the third route would actually be built, who would pay for it, whose authority crossed which jurisdiction, and what happened when two agencies both believed the decision belonged to the other one.
+
+Margaret later described this period with a line that appears in several versions.
+
+“Mathematics could tell me when the structure would fail. I wanted to know who was allowed to reinforce it.”
+
+That is probably too elegant to have been said exactly that way at age twenty-two.
+
+The earliest version I can find is from a speech she gave almost fifteen years later.
+
+The idea, however, is visible much earlier.
+
+After the Fascist War, Margaret returned to the United States and completed her undergraduate work.
+
+Then she studied law.
+
+Again, later biographies make this look inevitable.
+
+History is still not that simple.
+
+She considered returning to mathematics.
+
+She briefly considered economics.
+
+There is even a letter to a friend in which she complains that law school seemed to combine the worst features of politics with the worst features of homework.
+
+She went anyway.
+
+What interested her was administrative law.
+
+Not courtroom drama.
+
+Not criminal prosecution.
+
+Not the constitutional questions that eventually made her famous.
+
+Administrative law.
+
+Who had authority.
+
+Who had responsibility.
+
+What evidence an agency could require.
+
+When a regulator could intervene.
+
+When it had to wait.
+
+What happened when a rule written for one technology was applied to another.
+
+And, increasingly, what happened when everybody involved could point to a document proving that somebody else was responsible.
+
+This was the same problem Thomas Ward had been carrying around in boxes since nineteen twenty-five.
+
+Margaret was simply learning the vocabulary governments used for it.
+
+Her first major postwar work involved the Federal Commission on Industrial Hazards.
+
+The Commission is mostly remembered now for what came afterward, so it is worth remembering what it actually did.
+
+It collected failures that had not become disasters.
+
+Boiler pressure excursions.
+
+Chemical leaks contained before evacuation became necessary.
+
+Structural cracks discovered during inspection.
+
+Electrical faults that disabled backup systems but happened to occur while the primary system was still working.
+
+Incidents in which nobody died.
+
+Sometimes nobody was even injured.
+
+The Commission treated them as evidence anyway.
+
+That sounds ordinary now.
+
+It was not ordinary then.
+
+Companies objected that regulators were treating hypothetical accidents as actual ones.
+
+Margaret's answer was usually that the distinction mattered rather less to the dead.
+
+That line is probably authentic.
+
+The more important argument was quieter.
+
+If government waited until a failure produced casualties, then casualties had become part of the evidence standard.
+
+Margaret thought that was a very strange way to run a safety system.
+
+And this is where I need to correct myself.
+
+A few minutes ago I told you that Margaret grew up with Thomas Ward's boxes, that she watched him work late in the dining room, and that those boxes helped shape how she understood responsibility.
+
+That is a family story.
+
+Not evidence.
+
+I will keep them separate.
+
+What the evidence shows is that by the late nineteen forties Margaret Ward had independently arrived at a position her father would have recognized immediately.
+
+You do not need a body before you are allowed to learn something.
+
+@chunk 05
+Margaret did not stay at the Commission.
+
+By the early nineteen fifties, atomic policy was absorbing anyone in Washington who knew enough law to be useful and enough mathematics not to become frightened when the physicists started writing on the board.
+
+We covered most of that in Book Three.
+
+Margaret joined the legal staff working on international atomic control, spent several years arguing about inspection authority, material accounting, and the precise difference between access and permission, and eventually became one of the officials whose signatures appear underneath the International Atomic Authority agreements.
+
+If you remember the photograph of the empty American and Soviet weapon cases, Margaret is in the second row.
+
+You have to know where to look.
+
+She is partially obscured by Kurchatov.
+
+This is probably appropriate.
+
+Later biographies have a habit of moving her toward the center of photographs she did not actually stand in.
+
+The Atomic Settlement made Margaret nationally visible, but it did not make her famous.
+
+Not yet.
+
+What it gave her was a reputation inside government.
+
+If a problem crossed several agencies, involved rules written for different purposes, and had reached the point where everyone could explain why somebody else possessed the necessary authority, people started asking for Ward.
+
+That is not a particularly efficient route to elected office.
+
+It is, however, an excellent route to being invited to congressional hearings.
+
+Margaret testified frequently during the nineteen fifties.
+
+Industrial safety.
+
+Atomic regulation.
+
+Transportation.
+
+Emergency planning.
+
+Federal-state jurisdiction.
+
+She was very good at hearings.
+
+Not because she was especially theatrical.
+
+She was not.
+
+Margaret had an irritating habit of answering the question she had actually been asked.
+
+Senators discovered that this made it difficult to manufacture an argument with her.
+
+One exchange from nineteen fifty-eight became unexpectedly popular.
+
+A senator asked whether a proposed industrial-safety rule represented an expansion of federal power.
+
+Margaret said yes.
+
+There was a pause.
+
+The senator, apparently expecting resistance, asked whether that concerned her.
+
+Margaret said, “Of course.”
+
+Another pause.
+
+Then she added, “That is why we should decide exactly how much power we are granting before we grant it.”
+
+The exchange circulated widely because both supporters and opponents thought she had agreed with them.
+
+She probably had.
+
+Margaret's politics were becoming clearer.
+
+She believed government sometimes needed substantial power to control systemic hazards.
+
+She also believed power created its own systemic hazards.
+
+Those two ideas were not contradictory to her.
+
+They were the same problem viewed from opposite sides.
+
+A regulator could fail because it lacked authority.
+
+A regulator could also fail because nobody could challenge it.
+
+A safety institution that could not be questioned eventually became another system whose failures were difficult to report.
+
+That argument placed Margaret somewhat awkwardly inside the increasingly confident Progressive establishment.
+
+She was one of its products.
+
+She believed in most of what it had built.
+
+She had helped build some of it.
+
+And she kept asking what happened when the institution designed to catch mistakes made one of its own.
+
+Morozov was asking much the same question in Moscow.
+
+We have reached the beginning of what would later become the Ward-Morozov problem.
+
+Not the protocols yet.
+
+That comes later.
+
+For now, it was just an uncomfortable observation shared by two people working in very different governments.
+
+A system capable of correcting everyone else also needed a way to correct itself.
+
+Margaret carried that argument into electoral politics.
+
+In nineteen sixty, she ran for the United States Senate from Illinois.
+
+The newspapers called her an atomic lawyer.
+
+Her opponents called her a bureaucrat.
+
+Her father called her twice on election day to ask whether she had eaten.
+
+She won.
+
+@chunk 06
+Margaret Ward entered the Senate in January nineteen sixty-one.
+
+She arrived with an unusual political identity.
+
+She was a Progressive, but not quite an institutional loyalist.
+
+She was a regulator who worried about regulators.
+
+She had helped build international authority and then spent years asking who was allowed to inspect the inspectors.
+
+And she was a veteran of the Fascist War, although she disliked being described that way because, as she pointed out repeatedly, nobody had ever shot at her on purpose.
+
+The distinction did not survive campaign literature.
+
+Her first years in the Senate coincided with the period when the Progressive coalition began applying its systemic language much more aggressively to civil rights.
+
+We covered that fight earlier in this book, and I am not going to turn Margaret into the center of a movement she did not lead.
+
+She was not.
+
+Black organizers, lawyers, ministers, students, local politicians, labor groups, and generations of people who had been living inside the system did that work.
+
+Margaret's contribution was narrower.
+
+She understood the argument immediately.
+
+If a sheriff could claim he had followed local procedure, a registrar could claim she had applied the rule as written, a school board could point to its budget, and the combined result was still systematic exclusion, then describing each decision separately did not explain what the system was doing.
+
+Margaret supported the major federal civil-rights measures of the early nineteen sixties.
+
+She also became associated with a phrase that was becoming common among Progressive lawyers by then.
+
+Responsibility without guilt.
+
+The idea was that institutions could inherit obligations without requiring every living person to inherit personal blame.
+
+A government did not have to prove that a particular official hated a particular citizen before correcting a structure that predictably harmed that citizen.
+
+Margaret liked the formulation because it separated responsibility from confession.
+
+She would use that distinction repeatedly later.
+
+Her Senate career was otherwise an impressive collection of things that sound boring until they fail.
+
+Transportation networks.
+
+Port capacity.
+
+Emergency communications.
+
+Nuclear inspection funding.
+
+Industrial insurance.
+
+Interstate power transmission.
+
+Continuity of government.
+
+There are politicians who build careers by attaching their names to large ideas.
+
+Margaret spent much of the nineteen sixties attaching herself to maintenance schedules.
+
+This should not have produced a presidential candidate.
+
+Then the Coalition crisis began.
+
+We will spend most of Episode Four on how a border dispute became a mobilization crisis, so I will only give you the part that matters for Margaret here.
+
+Relations between China and the Soviet Union had been deteriorating for years.
+
+Border incidents became artillery exchanges.
+
+Artillery exchanges became mobilization.
+
+Mobilization created commitments.
+
+Commitments created expectations.
+
+By nineteen sixty-eight, several governments were making decisions they described as temporary precautions and treating other governments' temporary precautions as evidence of hostile intent.
+
+If that sentence sounds familiar, it should.
+
+Margaret was serving on the Senate committees responsible for defense readiness and international security when the first serious mobilization reports arrived.
+
+A staff memorandum from that summer contains a handwritten note in the margin.
+
+We do not know whether Margaret wrote it during the meeting or afterward.
+
+The handwriting is hers.
+
+It says:
+
+“Everyone is being careful.”
+
+Then, underneath:
+
+“That may be the problem.”
+
+The Coalition War had not begun yet.
+
+But Margaret Ward had seen this kind of system before.
+
+@chunk 07
+The Coalition crisis changed Margaret Ward's political career almost as quickly as the Fascist War had changed her university career.
+
+Until nineteen sixty-eight, she was usually discussed as a cabinet possibility.
+
+Defense.
+
+Commerce.
+
+Possibly State, although several diplomats thought that was a terrible idea and several others thought this was evidence in her favor.
+
+The presidency was different.
+
+Margaret had never organized her career around it.
+
+That is not the same thing as saying she had never thought about it.
+
+Politicians who later insist they had never once imagined becoming president are generally asking us to believe too much.
+
+But there was no long Ward campaign waiting for its moment.
+
+Then the Coalition crisis made the questions Margaret had spent twenty-five years asking suddenly look like presidential questions.
+
+How much preparation creates safety?
+
+When does preparation become escalation?
+
+How much authority should an executive possess during an emergency?
+
+How do you maintain redundancy without creating competing chains of command?
+
+And what happens when every government involved is making decisions that make sense on its own side of the border?
+
+We will get into the election itself in Episode Five. It was close, unpleasant, and conducted while military planners were revising casualty estimates often enough that newspapers stopped putting the numbers above the fold.
+
+There is one family artifact from that winter I probably should not use.
+
+It is a scrap of yellow legal paper, folded twice, found among Thomas Ward's things years after his death. Margaret's handwriting is on it.
+
+There are only four lines.
+
+Senate.
+
+Cabinet.
+
+President.
+
+And underneath them: “Which one lets me stop this?”
+
+There is no date. No context. No proof that “this” meant the Coalition crisis, or even that Margaret wrote it while deciding whether to run.
+
+I know.
+
+I said I would keep family stories and evidence separate.
+
+So: this is a family artifact, not evidence.
+
+But I could not quite bring myself to leave it out.
+
+For our purposes, the important thing is that Margaret ran.
+
+Her opponents attacked her from two directions.
+
+One side argued that she was too cautious.
+
+China was mobilizing. Soviet forces were moving. American allies wanted guarantees. This was not the moment, they said, for a president who regarded every decision as the beginning of a flowchart.
+
+The other side argued that she was not cautious enough.
+
+Margaret had spent her career building federal and international institutions. She had supported intervention before failure became catastrophe. She had helped create inspection powers that previous generations would have considered extraordinary.
+
+Both criticisms contained some truth.
+
+Margaret's answer was that caution was not the same thing as inaction.
+
+She had learned that during the Fascist War.
+
+A third fuel route was caution.
+
+Building it was action.
+
+What she distrusted was action whose purpose was proving that action had been taken.
+
+That distinction became central to the campaign.
+
+So did something else.
+
+Margaret Ward was a woman running for president.
+
+There is a temptation here to turn nineteen sixty-eight into a referendum on whether Americans were ready for a woman in the White House.
+
+It was not.
+
+Sex mattered.
+
+Of course it mattered.
+
+There were voters who would not support her because she was a woman. There were donors who doubted she could win. Editorial cartoons did things with handbags that stopped being clever before the third one was published.
+
+But by nineteen sixty-eight, as we all know, women had already spent more than twenty-five years moving through wartime logistics, engineering, law, medicine, administration, and elected office in numbers that would have seemed remarkable before the Fascist War.
+
+Margaret was unusual.
+
+She was not unimaginable.
+
+And the Coalition crisis had a way of making arguments about symbolism feel less important than arguments about mobilization orders.
+
+She won.
+
+On January twentieth, nineteen sixty-nine, Margaret Helen Ward took the oath of office as President of the United States.
+
+Thomas Ward was there.
+
+He was an old man by then.
+
+There is a photograph of him watching from several rows back.
+
+Margaret is facing the Chief Justice.
+
+Thomas is not looking at her.
+
+He is looking down at the program.
+
+Family tradition says he was crying.
+
+The photographs do not prove that.
+
+What they do prove is that forty-four years after he went to Washington because the government had mistakenly told him his son was alive, Thomas Ward watched his daughter become responsible for one of the governments he had spent most of his life asking to do better.
+
+He died the following year.
+
+And Margaret did not have very long to mourn him.
+
+The Coalition crisis was becoming the Coalition War.
+
+@chunk 08
+Most of the photographs people know come later.
+
+Ward at the emergency desk after the first Chinese offensive.
+
+Ward in the Cabinet Room during the atomic debate, one hand over her face while a general points at a map.
+
+Ward walking into Geneva beside Zhou Enlai.
+
+Ward at the settlement table, looking much older than she had four years earlier.
+
+We will get to all of those.
+
+But they are not the beginning of the story.
+
+The photograph I keep coming back to is still the earlier one.
+
+Britain.
+
+Fuel drums.
+
+Oversized field jacket.
+
+Clipboard under one arm.
+
+Twenty years old and visibly annoyed at the photographer.
+
+Nothing in that photograph says president.
+
+Nothing says war.
+
+Nothing says Geneva.
+
+It is just Margaret Ward trying to make sure the third route exists before somebody needs it.
+
+That is probably the cleanest way to understand the person she had become by nineteen sixty-nine.
+
+Not as someone who believed catastrophe could always be prevented.
+
+She did not.
+
+Not as someone who believed sufficiently intelligent people could design a system that never failed.
+
+She had spent too much of her life studying failures to believe that.
+
+What she believed was that systems could be built with room for another decision.
+
+A second route.
+
+An independent inspector.
+
+A regulator that could be challenged.
+
+An institution capable of reporting its own mistakes.
+
+A negotiation in which nobody had to trust the other side quite as much as the old system required.
+
+And, when possible, enough time to notice that something was going wrong before the only choices left were bad ones.
+
+That philosophy had worked remarkably well for most of Margaret's adult life.
+
+It had helped change industrial regulation.
+
+It had helped dismantle the atomic arsenals.
+
+It had helped create institutions that people increasingly regarded as ordinary parts of government.
+
+Now she was president.
+
+And the problem in front of her was not a bridge, or a reactor, or an inspection regime.
+
+It was several governments, several armies, several alliances, and several million people making decisions at the same time.
+
+Each decision had reasons behind it.
+
+Most of them were defensible.
+
+Some were necessary.
+
+Together, they were becoming a war.
+
+The Coalition Crisis changed Margaret Ward's political career almost as quickly as the Fascist War had changed her university career.
+
+The Coalition War would change almost everything else.
+
+Next time, we go back to the border.
+
+Book Four, Episode Four: The Coalition Crisis.
+
+Thanks for listening.
+```

@@ -1,0 +1,19 @@
+{
+  "production_episode": 6,
+  "book_number": 4,
+  "in_universe_episode": 3,
+  "title": "Margaret Helen Ward",
+  "chunk": 4,
+  "generated_utc": "2026-08-23T01:43:27.358297+00:00",
+  "provider": "ElevenLabs",
+  "voice_id": "qSeXEcewz7tA0Q0qk9fH",
+  "model_id": "eleven_v3",
+  "output_format": "mp3_44100_128",
+  "character_count": 3867,
+  "estimated_api_cost_usd": 0.3867,
+  "seed": 12345,
+  "source_episode_file": "episode6.txt",
+  "source_text_sha256": "8205e7238779e270378bf5180b5e1f4ddcaa702350dd97337dfd0c559cae4eb2",
+  "audio_sha256": "0cdf518bffd81730e5240caed8484646ff7d21e17c610eadb0e0f64c0fd0d020",
+  "request_id": "aLEh9hO2RqfkYC8Afnm0"
+}

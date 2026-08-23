@@ -39,6 +39,14 @@
       "book_number": 3,
       "in_universe_episode": 8,
       "title": "The Atomic Settlement"
+    },
+    "episode_6_margaret_helen_ward.mp3": {
+      "pub_date": "2026-08-23T01:51:24+00:00",
+      "guid": "catastrophes:episode_6_margaret_helen_ward",
+      "production_episode": 6,
+      "book_number": 4,
+      "in_universe_episode": 3,
+      "title": "Margaret Helen Ward"
     }
   }
 }
