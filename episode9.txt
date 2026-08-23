@@ -1,0 +1,710 @@
+@production 9
+@book 5
+@episode 6
+@title Common Mode
+
+@chunk 01
+This is Catastrophes. Book Five, Episode Six: Common Mode.
+
+By nineteen eighty-one, the High Progressive order had acquired one of the strangest properties a political system can have.
+
+It was becoming boring.
+
+That is not criticism.
+
+Boring is often what successful safety systems look like from the outside.
+
+President McGovern was in his second term, the Coalition settlement was nearly a decade old, and most Americans had begun treating institutions created in emergency as ordinary parts of government.
+
+The Atomic Settlement was almost thirty years old.
+
+Civilian nuclear power had expanded rapidly.
+
+International inspection was routine.
+
+Emergency reporting systems existed in industries that had once considered an accident something worth documenting only after somebody had been injured.
+
+There were arguments about all of this.
+
+Budgets.
+
+Jurisdiction.
+
+Inspection authority.
+
+Whether regulators were too cautious.
+
+Whether engineers had become too dependent on checklists.
+
+Whether the International Atomic Authority had started requiring paperwork because it had forgotten what the paperwork was for.
+
+Those arguments were normal too.
+
+Then, shortly after two in the morning on March fourteenth, an operator at the Lake Erie Number Three generating station noticed that two temperature readings disagreed.
+
+Not dramatically.
+
+One instrument said a coolant loop was warming.
+
+Another said it was not.
+
+The difference was small enough that the first assumption was instrumentation error.
+
+This was reasonable.
+
+The operator checked a third reading.
+
+It agreed with the second.
+
+Then a fourth.
+
+Also normal.
+
+So he logged the discrepancy.
+
+That is almost the entire beginning of the story.
+
+No explosion.
+
+No alarm across the station.
+
+No engineer running down a corridor.
+
+A technician wrote down a number that did not agree with another number.
+
+Twenty-three minutes later, the temperature difference had widened.
+
+The control system automatically increased coolant flow.
+
+The indicated temperature stabilized.
+
+The actual temperature did not.
+
+At three eleven, a maintenance engineer noticed something more troubling.
+
+The three instruments that agreed with one another were not independent.
+
+They were different sensors.
+
+Different cables.
+
+Different displays.
+
+But during a modernization project four years earlier, all three had been moved onto the same signal-conditioning unit.
+
+The fourth sensor had not.
+
+Three instruments were reporting the same wrong answer because they shared the same hidden dependency.
+
+The plant did not have three confirmations.
+
+It had one confirmation repeated three times.
+
+The engineer called the shift supervisor.
+
+The supervisor ordered the reactor down.
+
+By four in the morning, Lake Erie Number Three was offline.
+
+Nobody was injured.
+
+No radioactive material escaped.
+
+The cooling system continued functioning.
+
+Most people living nearby slept through the entire event.
+
+By breakfast, the reactor was stable.
+
+That should have been the end of it.
+
+Instead, somebody filed the near-miss report.
+
+And that is why we are talking about it.
+
+@chunk 02
+The first investigation found the obvious problem.
+
+Three supposedly independent instruments shared one signal-conditioning unit.
+
+The second investigation found the important problem.
+
+So did twenty-eight other reactors.
+
+Not exactly the same hardware.
+
+That would have been easier.
+
+The same design logic.
+
+Engineers had added redundancy at the sensor level while leaving a shared dependency farther down the chain.
+
+Each instrument could survive the failure of another instrument.
+
+None could survive the failure of the thing they all depended upon.
+
+If you have been listening for a while, you already know what everyone called this.
+
+Common mode.
+
+Margaret Ward had been describing the same problem with fuel routes almost forty years earlier.
+
+Two systems are not redundant if the same event can break both of them.
+
+The difference was scale.
+
+Lake Erie Number Three was connected to a national reactor design family, an international fuel program, standardized instrumentation practices, shared contractors, and an inspection regime that had spent decades encouraging operators to report incidents that had harmed nobody.
+
+That meant the report moved quickly.
+
+Within forty-eight hours, the International Atomic Authority had requested design records from every reactor using related equipment.
+
+Within a week, several plants were operating under temporary restrictions.
+
+Within a month, engineers had identified additional dependencies nobody had noticed because no single failure had yet revealed them.
+
+And this is where the story becomes slightly unusual.
+
+Because the Lake Erie incident became famous almost immediately.
+
+Not because of what happened.
+
+Because of what did not.
+
+By the early nineteen eighties, High Progressive culture had spent decades learning how to tell stories about prevention.
+
+It had become surprisingly good at it.
+
+There were television dramas about inspectors.
+
+Popular novels about infrastructure failures that never quite occurred.
+
+Children's science programs in which the exciting part was discovering why the backup system was not actually a backup.
+
+And historians had become minor celebrities in a way historians should probably never be encouraged to become.
+
+John Kennedy was one of them.
+
+Kennedy had served a single term in the Massachusetts Senate in the nineteen fifties before deciding, by his own later account, that elected politics involved far too many meetings with people who had not read the material.
+
+He returned to academic history instead.
+
+By nineteen eighty-one, his studies of the Fascist War and the early Progressive presidency were standard reading.
+
+Kennedy was serious.
+
+Usually.
+
+He also wrote humorous essays, appeared on public television, and in nineteen seventy-nine produced a six-issue comic-book series that almost everybody involved later pretended had been somebody else's idea.
+
+It was called The Second Inspector.
+
+The premise was very High Progressive.
+
+A superhero discovers that every disaster he prevents creates a city increasingly dependent on him preventing the next one.
+
+So he spends most of the series trying to build institutions capable of functioning when he is not there.
+
+There is considerably less punching than the publisher had been promised.
+
+The series sold badly.
+
+Historians loved it.
+
+This tells you quite a lot about historians.
+
+Two years later, when Lake Erie Number Three became national news, Kennedy wrote an essay arguing that the most important person in the story was not the engineer who shut down the reactor.
+
+It was whoever had written the rule requiring the engineer to report why.
+
+That was the kind of heroic argument the High Progressive era understood immediately.
+
+@chunk 03
+The reactor investigation widened faster than the public story did.
+
+That was probably inevitable.
+
+Technical systems tend to become more complicated as you understand them.
+
+Public stories tend to become simpler.
+
+By April, engineers had identified several different ways the same hidden dependency could appear.
+
+Shared signal-conditioning units.
+
+Common power supplies.
+
+Control cabinets built to the same specification.
+
+Backup pumps whose electrical protection ultimately depended on the same relay family.
+
+The specific Lake Erie fault had not repeated anywhere else.
+
+That was reassuring.
+
+The design pattern had.
+
+That was not.
+
+The International Atomic Authority ordered accelerated inspections across the affected reactor families.
+
+Plants remained online where operators could demonstrate genuinely independent monitoring.
+
+Others reduced output.
+
+A few shut down temporarily.
+
+Utilities complained.
+
+Governors complained.
+
+Industrial customers complained.
+
+The Authority published the complaints.
+
+That was normal by then too.
+
+The interesting part, culturally, was what happened next.
+
+People paid attention.
+
+Not just engineers.
+
+The Lake Erie report became one of those technical documents that somehow escaped into ordinary conversation.
+
+Newspapers printed diagrams.
+
+Television programs brought engineers onto evening panels and discovered, briefly, that engineers could be ratings material.
+
+School science programs built little demonstration circuits showing how three lights could all depend on one hidden switch.
+
+A cartoonist drew three safety inspectors standing on the same trapdoor.
+
+It was not subtle.
+
+People clipped it anyway.
+
+This was the High Progressive era at its most recognizable.
+
+A near miss was not embarrassing evidence to be hidden until somebody could determine who was at fault.
+
+It was material.
+
+For regulators.
+
+For engineers.
+
+For teachers.
+
+And, increasingly, for artists.
+
+The first major dramatization was not a film.
+
+It was television.
+
+A public broadcasting anthology series called Failure Report devoted ninety minutes to Lake Erie the following year.
+
+The title sounds severe.
+
+The program was not.
+
+Most of the episode consisted of people in control rooms arguing about instrumentation, followed by investigators drawing boxes on a board.
+
+It was enormously popular.
+
+The famous scene comes near the end.
+
+An investigator points to three separate sensors.
+
+Then to the shared signal unit.
+
+Then she erases two of the three lines.
+
+“We thought we had three answers.”
+
+She looks at the remaining line.
+
+“We had one answer three times.”
+
+That sentence is fictional.
+
+The underlying design problem was not.
+
+The episode won awards.
+
+Engineers complained about several technical details.
+
+This is also normal.
+
+John Kennedy wrote one of the more interesting reviews.
+
+By then Kennedy was best known as a historian of the Fascist War and the early Progressive presidency.
+
+His interpretation of Roosevelt remained influential for years.
+
+Arthur Schlesinger Junior generally thought Kennedy underestimated Roosevelt's political instincts.
+
+Elaine Mercer argued that both men gave Roosevelt too much credit for a movement already underway.
+
+A younger generation of late Progressive historians would revisit the argument again, including Doris Kearns Goodwin and Daniel Reyes.
+
+Their nineteen ninety-three book, Inherited, argued that Roosevelt's real achievement had been less inventing the Progressive state than teaching Americans to trust institutions they had already begun building.
+
+Kennedy had opinions about television too.
+
+He thought Failure Report made the investigators too heroic.
+
+His complaint was that the system had worked precisely because no single person had to be heroic.
+
+That was very Kennedy.
+
+It was also slightly funny coming from a man who had written six issues of The Second Inspector two years earlier.
+
+@chunk 04
+The comic deserves a brief detour.
+
+Not a long one.
+
+John Kennedy had served one term in the Massachusetts Senate before leaving politics for academic history.
+
+He later claimed that elected office involved too many meetings with people who had not read the material.
+
+This was probably unfair.
+
+It was also one of his better lines.
+
+By the nineteen seventies, Kennedy had become the sort of public historian who appeared on television, wrote essays for general audiences, and occasionally agreed to projects his colleagues wished he had declined.
+
+The Second Inspector was one of those projects.
+
+The premise was simple.
+
+A superhero named Sentinel spends years preventing disasters.
+
+Bridge collapses.
+
+Industrial explosions.
+
+Terror attacks.
+
+Blackouts.
+
+Every time he succeeds, the city becomes more dependent on him succeeding again.
+
+By the fourth issue, Sentinel realizes he has become a single point of failure.
+
+So the second half of the series is mostly about him trying to build institutions that can function when he is not there.
+
+There are committees.
+
+There are training manuals.
+
+There is an argument about insurance.
+
+The publisher had apparently expected more punching.
+
+The series sold badly.
+
+Historians loved it.
+
+This tells you quite a lot about historians.
+
+It also tells you something about High Progressive popular culture.
+
+The heroic question had changed.
+
+Not entirely.
+
+People still liked courage.
+
+They still liked rescues.
+
+They still liked somebody arriving at the last moment and stopping the terrible thing.
+
+But increasingly, stories asked what happened the morning after the rescue.
+
+Who repaired the bridge?
+
+Who changed the rule?
+
+Who checked the backup?
+
+Who made sure the city did not need Sentinel next time?
+
+That idea appeared everywhere.
+
+Science fiction treated international institutions as survival technology.
+
+Medical dramas increasingly focused on reporting systems, staffing failures, and mistakes created by process rather than one incompetent doctor.
+
+War films spent unusual amounts of time on logistics, communications, and decisions nobody noticed because the disaster never happened.
+
+Even children's adventure stories developed a suspicious interest in checklists.
+
+Not every artist liked this.
+
+There was a substantial countercurrent arguing that High Progressive culture had become afraid of spontaneity.
+
+Critics complained that every hero had acquired a committee.
+
+Every disaster had become a systems diagram.
+
+Every villain turned out to be an incentive structure.
+
+The jokes were good because there was some truth in them.
+
+By the late nineteen eighties, the band Open Circuit had become moderately famous for songs about school rules, bad jobs, boring adults, and the general suspicion that somebody somewhere was always filling out a form about you.
+
+Their biggest record was Nothing Needs Permission.
+
+Critics later found considerably more political theory in it than the band members remembered putting there.
+
+At the time, it was mostly loud.
+
+That distinction matters.
+
+Most of this counterculture was not a coherent political movement.
+
+It was irritation.
+
+A healthy culture usually produces some.
+
+The mistake later historians sometimes make is assuming every joke made in nineteen eighty-eight was secretly predicting the next forty years.
+
+It was not.
+
+Sometimes a song about adults being annoying is a song about adults being annoying.
+
+But Lake Erie Number Three gave the dominant culture an almost perfect story.
+
+A reactor had developed a real fault.
+
+The backup logic was flawed.
+
+Nobody died.
+
+The report exposed the hidden dependency.
+
+Other reactors were inspected.
+
+Designs changed.
+
+The catastrophe never arrived.
+
+And because people had spent decades learning how to recognize that kind of outcome, the public could see the drama in it.
+
+That is harder than it sounds.
+
+A culture trained to celebrate the person who runs into the burning building has an obvious image of heroism.
+
+A culture trying to celebrate the person who notices the wiring problem three years before the fire needs better writers.
+
+For a while, it had them.
+
+@chunk 05
+The technical response to Lake Erie Number Three was almost disappointingly effective.
+
+That is one reason the incident became so important later.
+
+The Authority issued temporary operating requirements.
+
+Utilities replaced shared signal-conditioning equipment.
+
+Designers traced other hidden common dependencies through cooling systems, emergency power, control logic, and maintenance procedures.
+
+Several reactor families were modified before the next refueling cycle.
+
+A handful of older plants were judged too expensive to redesign and were retired early.
+
+There were lawsuits.
+
+There were hearings.
+
+There were arguments over who should pay.
+
+Nobody died.
+
+This was exactly the sort of outcome High Progressive institutions had been built to produce.
+
+And because the culture had learned how to recognize prevention as an event, Lake Erie did not simply disappear into an engineering archive.
+
+It became a reference point.
+
+“Do we have three answers, or one answer three times?” entered safety training.
+
+The phrase showed up in hospitals.
+
+Air-traffic systems.
+
+Rail signaling.
+
+Financial regulation.
+
+Software engineering, once software engineers became sufficiently important to require regulation and sufficiently regulated to complain about it.
+
+The television adaptation was rerun for years.
+
+Kennedy's essay ended up in undergraduate readers.
+
+The Second Inspector was reprinted in a much nicer edition than the original sales figures justified.
+
+And not everybody enjoyed any of this.
+
+By the late nineteen eighties, the institutions had become normal enough to be mocked.
+
+Teenagers complained about being supervised.
+
+Artists complained that every institution had discovered a committee.
+
+Writers mocked safety language.
+
+Musicians made fun of adults who could turn a broken vending machine into a report on systemic resilience.
+
+Again, most of this was not a coherent political movement.
+
+It was irritation.
+
+And irritation is not ideology.
+
+But the complaints reveal something.
+
+A generation born after the Coalition War did not remember what those institutions had replaced.
+
+They remembered forms.
+
+Inspections.
+
+Review boards.
+
+Emergency drills.
+
+Warning labels.
+
+People explaining that a rule existed because of an accident that had happened before they were born.
+
+Or, increasingly, because of an accident that had never happened at all.
+
+That is the paradox Lake Erie represents so neatly.
+
+The system worked.
+
+And because it worked, the evidence for why anyone needed the system became harder to see.
+
+@chunk 06
+Lake Erie Number Three returned to service after eighteen months.
+
+The redesigned monitoring system had genuinely independent channels.
+
+The new inspection standard required engineers to trace common dependencies beyond the component being described as redundant.
+
+Other countries adopted the rule.
+
+Reactor incidents declined.
+
+Civilian nuclear construction accelerated.
+
+Electricity from nuclear plants became so ordinary that newspapers eventually stopped describing every new reactor as a technological achievement.
+
+By the time Elena Vasquez entered the White House in nineteen eighty-five, Lake Erie was already being taught as an example of how the system was supposed to work.
+
+For the people who had built the High Progressive order, this was success.
+
+For the people who grew up inside it, it was infrastructure.
+
+That difference is easy to underestimate.
+
+Nobody wakes up grateful that the bridge did not collapse.
+
+Nobody writes a song because the emergency coolant pump started when it was supposed to.
+
+Usually.
+
+The High Progressive era became very good at producing outcomes that were difficult to celebrate precisely because the desired result was uneventful.
+
+That was its strength.
+
+It was also beginning to become a political problem.
+
+By the end of the nineteen eighties, the phrase “nothing happened” could be heard in two very different tones.
+
+From an engineer:
+
+Nothing happened.
+
+Good.
+
+From a taxpayer:
+
+Nothing happened.
+
+Why are we paying for this?
+
+Those two sentences contain a surprising amount of the next book.
+
+But there was another problem developing farther away from Lake Erie.
+
+The people who designed the High Progressive system had spent decades asking how institutions could detect failure early.
+
+A pressure excursion.
+
+A missing inventory cylinder.
+
+A suspicious mobilization order.
+
+A sensor disagreement.
+
+A near miss.
+
+The system became extremely sensitive to events that looked like warnings.
+
+What it was less prepared for was an actor who understood the warning thresholds.
+
+Chinese officials had spent years studying the institutions created after the Coalition War.
+
+They understood inspection.
+
+Consultation.
+
+Escalation procedures.
+
+The political cost of overreaction.
+
+The requirement that extraordinary action be justified by extraordinary evidence.
+
+None of this was secret.
+
+It was the system.
+
+And by the early nineteen nineties, a younger generation of Chinese strategists had begun asking a question that sounded, at first, almost academic.
+
+How much could you change before the system was required to admit that something had changed?
+
+Not enough to trigger a crisis.
+
+Not enough to justify mobilization.
+
+Not enough to make everyone agree that the threshold had been crossed.
+
+Just enough.
+
+Then, perhaps, enough again.
+
+At Lake Erie, a tiny discrepancy had been reported because someone understood that a small signal might reveal a large hidden failure.
+
+The coming problem would be almost the reverse.
+
+What happens when somebody deliberately makes each signal small enough to ignore?
+
+That question did not have a name yet.
+
+It would.
+
+And when it did, the High Progressive order would discover that preventing catastrophe and preventing change were not the same thing.
+
+Next time, we are going to stay with the High Progressive era a little longer.
+
+There are still a few things worth seeing while the machinery is working.
+
+But the machinery is no longer the only thing being studied.
+
+Thanks for listening.

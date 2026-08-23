@@ -55,6 +55,14 @@
       "book_number": 4,
       "in_universe_episode": 10,
       "title": "What Is the Last Decision?"
+    },
+    "episode_8_the_peace_part_i.mp3": {
+      "pub_date": "2026-08-23T14:16:27+00:00",
+      "guid": "catastrophes:episode_8_the_peace_part_i",
+      "production_episode": 8,
+      "book_number": 4,
+      "in_universe_episode": 16,
+      "title": "The Peace, Part I"
     }
   }
 }

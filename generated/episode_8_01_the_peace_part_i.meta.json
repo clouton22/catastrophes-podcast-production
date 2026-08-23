@@ -1,0 +1,19 @@
+{
+  "production_episode": 8,
+  "book_number": 4,
+  "in_universe_episode": 16,
+  "title": "The Peace, Part I",
+  "chunk": 1,
+  "generated_utc": "2026-08-23T14:05:15.536524+00:00",
+  "provider": "ElevenLabs",
+  "voice_id": "qSeXEcewz7tA0Q0qk9fH",
+  "model_id": "eleven_v3",
+  "output_format": "mp3_44100_128",
+  "character_count": 3378,
+  "estimated_api_cost_usd": 0.3378,
+  "seed": 12345,
+  "source_episode_file": "episode8.txt",
+  "source_text_sha256": "c490bc47f08d640ced385eac8414cc56a6fb196a5d4323b31255d95b823eb5f4",
+  "audio_sha256": "b76e251d2c732e7daafc142142f4b97ed3689c93896b190e5e1485fb9c15d6ad",
+  "request_id": "RlP4uBlWQkl4BG7fgTZ3"
+}

@@ -1,0 +1,686 @@
+```text
+@production 8
+@book 4
+@episode 16
+@title The Peace, Part I
+
+@chunk 01
+This is Catastrophes. Book Four, Episode Sixteen: The Peace, Part One.
+
+The Coalition War did not end when somebody won.
+
+That sounds obvious now.
+
+It was considerably less obvious in nineteen seventy-two.
+
+We have spent five episodes in Geneva, so I am going to assume you remember the drafts, the walkouts, the argument over the eastern security zone, the three different definitions of withdrawal, Zhou Enlai's extremely creative use of the phrase temporary administrative arrangement, and the afternoon when the Soviet delegation left the building and made it almost all the way to the airport before deciding they had proved whatever it was they were trying to prove.
+
+The important thing is that by November, there was finally a document everybody disliked in approximately the right proportions.
+
+This is harder to achieve than it sounds.
+
+The United States wanted an end to major Chinese offensive operations and guarantees that the Korean front would not simply reopen six months later.
+
+The Soviet Union wanted security along its eastern frontier and recognition that the territorial situation before the war could not simply be restored as though several years of fighting had not happened.
+
+China wanted foreign forces out of territory it considered Chinese, protection against permanent encirclement, and a settlement that could not be presented at home as a document signed by a defeated government.
+
+Korea and Japan had their own requirements.
+
+So did Mongolia.
+
+So did several governments whose troops had fought in the coalition and whose publics had developed strong opinions about being described in other countries' newspapers as supporting actors.
+
+Nobody was going to get everything.
+
+By then, that was almost the point.
+
+The negotiations had changed once everyone stopped asking what peace would look like if their side had won.
+
+They began asking what each government absolutely required in order to stop fighting.
+
+Those are different questions.
+
+Margaret Ward understood the difference because she had been trying to force Washington to answer it for most of the year.
+
+Zhou Enlai understood it for reasons that were considerably more dangerous.
+
+He had to construct a peace that the Chinese leadership could survive signing.
+
+Morozov had to persuade Soviet commanders that security did not require humiliation.
+
+And the smaller coalition governments had to explain why hundreds of thousands of casualties had produced a settlement containing phrases like phased adjustment and mutually supervised transition.
+
+Nobody particularly liked the language.
+
+The language was doing work.
+
+We saw something similar at the end of the Fascist War.
+
+Japan preserved the Emperor.
+
+The United States preserved unconditional surrender.
+
+Both statements could be true if everyone was sufficiently careful about the nouns.
+
+Geneva required the same diplomatic skill at much greater scale.
+
+The parties were not merely negotiating territory.
+
+They were negotiating the stories they would be allowed to tell afterward.
+
+That is not a cynical observation.
+
+Sometimes the story a government can tell afterward is part of the price of getting it to stop shooting now.
+
+By November tenth, almost every major substantive issue had an answer.
+
+Not necessarily a good answer.
+
+An answer.
+
+One problem remained.
+
+Nobody wanted to be the first person to say that this was enough.
+
+@chunk 02
+The final dispute concerned the Yalu.
+
+Of course it did.
+
+The coalition had spent years trying to force a reliable crossing and link the Korean front with Soviet armies in Manchuria.
+
+China had spent years preventing exactly that.
+
+By nineteen seventy-two, neither side controlled enough of the river system to turn the old military objective into a clean diplomatic fact.
+
+The negotiators therefore invented one.
+
+The proposed settlement created a monitored transition zone around selected crossings and rail corridors.
+
+Chinese civil administration would return in some areas.
+
+Coalition forces would withdraw from others.
+
+International observers would monitor specified routes.
+
+Heavy forces would move back according to separate schedules that were deliberately not identical.
+
+The arrangement satisfied nobody's map.
+
+That was one of its advantages.
+
+Chinese negotiators could say the coalition had accepted Chinese sovereignty.
+
+The coalition could say China had accepted international monitoring and military restrictions.
+
+The Soviet Union could say the eastern frontier had acquired verified depth.
+
+Korea could say the northern route would no longer be available for another sudden offensive.
+
+Everyone could point to a different paragraph.
+
+This was intentional.
+
+The final meeting began shortly after nine in the morning.
+
+Margaret Ward was there.
+
+So was Zhou Enlai.
+
+Morozov sat with the Soviet delegation.
+
+The famous photograph was taken before anyone signed anything.
+
+Margaret and Zhou are walking toward the conference room beside one another.
+
+Neither is smiling.
+
+Margaret is carrying a folder under her left arm.
+
+Zhou has one hand behind his back.
+
+They look exhausted.
+
+Later generations turned that photograph into a symbol of statesmanship.
+
+At the time, they were two people going into another meeting.
+
+The session lasted almost six hours.
+
+Most of it was not dramatic.
+
+There were arguments over implementation dates.
+
+Translation questions.
+
+A dispute over whether one annex contradicted another annex.
+
+At one point the Chinese delegation discovered that the English and Russian texts used slightly different verbs for the movement of artillery.
+
+Everything stopped for forty-three minutes.
+
+This is what peace looks like before somebody photographs the signing.
+
+Late in the afternoon, one final question remained.
+
+The Chinese delegation wanted language making clear that the settlement did not constitute an admission of responsibility for beginning the war.
+
+The Soviet delegation objected.
+
+Several Americans objected more loudly.
+
+Margaret did not.
+
+She asked what the sentence changed operationally.
+
+Nothing.
+
+Did it alter the borders?
+
+No.
+
+The withdrawal schedule?
+
+No.
+
+Inspection?
+
+No.
+
+Prisoner exchange?
+
+No.
+
+Then, she asked, why were they still arguing about it?
+
+The answer was obvious.
+
+Because after several million dead, people wanted the document to tell them who had been right.
+
+Margaret looked across the table at Zhou.
+
+This is where the famous quotation is usually inserted.
+
+“Nobody at this table is going to get the peace they deserve. We are here to get the peace our children require.”
+
+It is a very good line.
+
+There is also no contemporary transcript containing it.
+
+The earliest version appears several years later in the memoir of an American diplomat who was sitting three chairs away and had already demonstrated elsewhere in the book that his memory improved substantially when quotation marks were involved.
+
+Margaret may have said something like it.
+
+Zhou later said he remembered the sentiment, not the sentence.
+
+What the transcript actually records is less elegant.
+
+Ward said:
+
+“We are not going to settle the war in the preamble.”
+
+That worked.
+
+The disputed language was moved into separate national statements.
+
+Each government could say what it believed had happened.
+
+The agreement would say what everyone had agreed to do next.
+
+And suddenly there was nothing left to negotiate.
+
+@chunk 03
+There is a tendency, in retrospect, to imagine that the moment negotiations ended everyone knew the war was over.
+
+They did not.
+
+A document can exist before a peace does.
+
+The delegations still had to initial the text.
+
+Governments had to approve it.
+
+Commanders had to receive orders.
+
+Units had to stop moving.
+
+Prisoner exchanges had to begin.
+
+Observation teams had to get to places that had spent four years being shelled.
+
+And, most dangerously, millions of people with weapons had to believe that the people on the other side were actually going to stop too.
+
+The first ceasefire instructions went out that evening.
+
+They were intentionally redundant.
+
+Radio.
+
+Telephone.
+
+Military courier.
+
+Diplomatic channel.
+
+Broadcast.
+
+Written orders repeated through subordinate commands.
+
+Margaret had spent too much of her life worrying about common dependence to trust a peace to one communications system.
+
+The first reports were encouraging.
+
+Then they were not.
+
+A Soviet artillery battery near the Amur fired after the ceasefire hour.
+
+Chinese guns answered.
+
+For twenty-three minutes, nobody in Geneva knew whether the agreement had just failed.
+
+The Soviet explanation was that the battery had not received the final order.
+
+The Chinese explanation was that they had responded to incoming fire.
+
+Both explanations were probably true.
+
+That was the frightening part.
+
+Nobody had violated the agreement deliberately.
+
+Nobody needed to.
+
+The old mechanism was still there.
+
+One unit fired because it did not know the war had stopped.
+
+Another fired because the first one had.
+
+A third command saw the exchange and began requesting authorization to respond.
+
+The system could restart itself.
+
+The Ward-Morozov Protocols had been written for exactly this kind of moment.
+
+Independent channels reported the firing before the military chains had finished deciding what it meant.
+
+Observers compared timestamps.
+
+Soviet headquarters confirmed the missing order.
+
+Chinese commanders received confirmation through a separate channel.
+
+The guns stopped.
+
+Twenty-three minutes.
+
+No famous speech.
+
+No heroic intervention.
+
+Mostly telephone calls.
+
+Later, one of the international observers described it as the most important half hour of the negotiations.
+
+He was probably exaggerating.
+
+But not by much.
+
+Because the ceasefire had just encountered its first failure.
+
+And instead of treating the failure as proof that the other side had cheated, the system treated it as information.
+
+That distinction had taken almost fifty years to become ordinary.
+
+By midnight, firing had fallen sharply across most of the front.
+
+Not everywhere.
+
+Some units took longer.
+
+Some commanders did not trust the orders.
+
+Some soldiers did not trust the commanders.
+
+A few local fights continued into the next morning.
+
+But the war was stopping.
+
+Not all at once.
+
+Piece by piece.
+
+Which was perhaps appropriate.
+
+The Coalition War had begun through thousands of decisions accumulating in the same direction.
+
+The peace began the same way.
+
+@chunk 04
+The formal signing took place the next day.
+
+And this is the other Geneva photograph everybody knows.
+
+The Geneva Table.
+
+Margaret Ward seated beside Zhou Enlai.
+
+Morozov farther down the table.
+
+Stacks of documents.
+
+Flags.
+
+Interpreters.
+
+Officials pretending not to look exhausted.
+
+The room itself was smaller than later paintings make it appear.
+
+There were too many chairs.
+
+The lighting was bad.
+
+One microphone failed ten minutes before the ceremony and had to be replaced.
+
+History generally looks better after somebody paints it.
+
+Margaret signed for the United States.
+
+The Soviet representative signed.
+
+Zhou signed for China.
+
+Korean, Japanese, Mongolian, and other coalition representatives signed the relevant instruments and annexes.
+
+The applause afterward was hesitant.
+
+People were not sure whether applause was appropriate.
+
+Then somebody started.
+
+Everyone else joined.
+
+Margaret did not make a long speech.
+
+This surprised journalists who had been given several pages of background material and therefore expected to use it.
+
+She thanked the delegations.
+
+She acknowledged the dead.
+
+She said implementation would matter more than signatures.
+
+And then she said:
+
+“This agreement does not prove that we were wise.”
+
+There was a pause.
+
+“It proves that we stopped.”
+
+That line is authentic.
+
+We have the recording.
+
+It is less triumphant than later generations usually remember the peace.
+
+That matters.
+
+Nobody at Geneva believed the agreement had justified the war.
+
+Nobody believed four years of catastrophe had become worthwhile because the final document was clever.
+
+The achievement was narrower.
+
+The war had reached a point where every government still possessed reasons to continue.
+
+They stopped anyway.
+
+That was new enough to feel extraordinary.
+
+Outside the conference hall, crowds had gathered.
+
+Some celebrated.
+
+Some protested.
+
+Some held photographs of people who were still missing.
+
+Chinese demonstrators accused Zhou of surrendering Chinese interests.
+
+Soviet veterans shouted that the settlement had left too much unresolved.
+
+American families wanted prisoners returned immediately.
+
+Korean demonstrators wanted stronger guarantees.
+
+There were arguments before the ink was dry.
+
+That too was part of the peace.
+
+A settlement did not require everyone to agree about what the war had meant.
+
+It required them to stop using artillery to settle the disagreement.
+
+By evening, newspapers were already searching for a phrase large enough to describe what had happened.
+
+Peace with honor.
+
+Peace without victory.
+
+The Geneva compromise.
+
+The exhausted peace.
+
+None lasted.
+
+The phrase that survived came later.
+
+Much later than people usually remember.
+
+It referred to more than Geneva.
+
+The coalition had fought a major war without rebuilding national atomic arsenals, and had still found a way to stop.
+
+Margaret Ward almost certainly did not say it first.
+
+We tested the theory.
+
+It worked.
+
+@chunk 05
+The slogan spread because it compressed several arguments into five words.
+
+That is usually what slogans do.
+
+It did not mean everyone agreed on what the theory had been.
+
+For some people, the theory was atomic restraint.
+
+A war between great powers had become catastrophic without becoming atomic.
+
+The pressure to rebuild weapons had been real.
+
+The military arguments had been serious.
+
+The weapons had not returned.
+
+And the war had still ended.
+
+For others, the theory was institutional.
+
+The International Atomic Authority had survived the conflict.
+
+The Ward-Morozov Protocols had survived it.
+
+Inspection continued.
+
+Reporting continued.
+
+Governments that were actively fighting one another through alliances and proxies had still accepted limits on what they could do alone.
+
+For still others, the theory was diplomatic.
+
+A peace did not require one government to accept another government's explanation of the war.
+
+It required enough agreement about what happened next.
+
+These ideas blurred together very quickly.
+
+By nineteen seventy-three, “we tested the theory” appeared in speeches about nuclear control, industrial regulation, international law, transportation safety, education, and at least one municipal sewage project.
+
+That last one may have been excessive.
+
+Success has a way of attracting relatives.
+
+Margaret was more cautious.
+
+When reporters asked whether Geneva had vindicated the Progressive approach, she usually answered with some variation of the same objection.
+
+One success did not prove a system could not fail.
+
+This irritated people who wanted a victory speech.
+
+It also irritated people who wanted her to admit the system had failed because the war happened at all.
+
+Margaret rejected both conclusions.
+
+The system had failed to prevent the war.
+
+It had succeeded in limiting some of what the war became.
+
+Then it had helped create enough room to stop.
+
+All three things could be true.
+
+That distinction would become harder to maintain later.
+
+For the moment, though, it mattered enormously.
+
+The Coalition War had been the first great catastrophe fought by a generation raised inside the Atomic Settlement.
+
+They had grown up believing national atomic arsenals were a solved problem.
+
+Then the war arrived and gave them every reason to reconsider.
+
+They reconsidered.
+
+That part is important too.
+
+Restraint was not preserved because nobody challenged it.
+
+It survived because people challenged it repeatedly and still chose not to reopen the old system.
+
+That made Geneva feel different from the peace after the Fascist War.
+
+In nineteen forty-four, atomic restraint had been an uncertain beginning.
+
+In nineteen seventy-two, it had survived a test.
+
+That was the claim.
+
+And for the next twenty years, people would build a great deal on top of it.
+
+@chunk 06
+The political consequences appeared almost immediately.
+
+The Coalition governments created permanent consultation mechanisms out of institutions that had originally been wartime improvisations.
+
+Inspection authority expanded.
+
+Joint military reporting became routine.
+
+Emergency communications that had been designed to stop accidental escalation were retained after demobilization.
+
+International observers remained along sections of the former front long after most soldiers went home.
+
+There were arguments about every one of these decisions.
+
+There should have been.
+
+Margaret's generation had learned to become suspicious when important institutions stopped producing arguments.
+
+The most consequential change was cultural.
+
+Before the Coalition War, international institutions had generally been defended as useful.
+
+Afterward, they increasingly came to be described as necessary.
+
+That is a much stronger word.
+
+A generation of officials, engineers, lawyers, officers, and voters came away from the war believing that international rules were not merely restraints placed on national power.
+
+They were part of the machinery that allowed national power to exist without eventually destroying itself.
+
+The phrase common security became ordinary political language.
+
+Security was not something one country possessed while another lacked it.
+
+A system in which one government became safer by making every other government more frightened was not stable security.
+
+That argument had existed before the war.
+
+After Geneva, it had photographs.
+
+It had casualty lists.
+
+It had the Cabinet Room.
+
+It had twenty-three minutes of artillery fire after the ceasefire.
+
+It had empty atomic weapon cases that were still empty.
+
+And it had Margaret Ward and Zhou Enlai sitting at the same table signing a document neither side particularly liked.
+
+This is the beginning of what historians usually mean by the High Progressive era.
+
+Not the beginning of Progressivism.
+
+We are several books too late for that.
+
+Not even the beginning of Progressive internationalism.
+
+The Atomic Settlement had already done that.
+
+What changes after the Coalition War is confidence.
+
+The belief that systemic institutions could survive contact with the worst pressures governments could place on them stopped being mostly theoretical.
+
+People thought they had seen the proof.
+
+That confidence produced extraordinary things.
+
+We will spend the next book talking about some of them.
+
+Safer reactors.
+
+More aggressive near-miss reporting.
+
+International engineering standards.
+
+Civilian nuclear expansion.
+
+Inspection systems that treated an accident prevented as seriously as an accident survived.
+
+And, eventually, institutions so successful that people began forgetting why anyone had built them.
+
+But that is getting ahead of us.
+
+Geneva still had unfinished business.
+
+Prisoners were still coming home.
+
+Borders still had to be monitored.
+
+Millions of civilians still had to return to places that no longer looked the way they remembered them.
+
+And peace treaties have an inconvenient habit of creating problems the war postponed.
+
+Next time, we deal with those.
+
+Book Four, Episode Seventeen: The Peace, Part Two.
+
+Thanks for listening.
+```
