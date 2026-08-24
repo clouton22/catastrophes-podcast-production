@@ -1,0 +1,542 @@
+@production 10
+@book 6
+@episode 4
+@title Three Islands
+
+@chunk 1
+
+Book Six, Episode Four: Three Islands.
+
+A few episodes ago, we talked about thresholds.
+
+Before that, we talked about common-mode failure: the unpleasant discovery that three apparently independent answers might really be one answer repeated three times.
+
+By the opening years of the twenty-first century, the institutions built during the High Progressive era had become very good at finding problems like that. A bridge inspection that found a crack was evidence that bridge inspection worked. A bank audit that discovered dangerous exposure was evidence that the rules worked. An international inspection that produced an argument was often evidence that the inspection regime worked.
+
+Nobody had to remember Lake Erie Number Three specifically to understand the principle.
+
+Problems were supposed to announce themselves.
+
+Or, more precisely, institutions were supposed to make them announce themselves.
+
+This distinction matters.
+
+Because Chinese planners had begun asking a somewhat different question.
+
+Not: how do you defeat the international system?
+
+How much can you change before the international system is required to admit that anything has changed?
+
+The answer, initially, was: quite a lot.
+
+Later historians have attached several names to what followed. Threshold revisionism is the one you will encounter most often in diplomatic histories. Catastrophic incrementalism came later, and was originally an insult. Chinese documents from the period generally use neither term.
+
+At the time, most of the individual disputes seemed considerably less impressive.
+
+A fishing restriction.
+
+A customs station.
+
+A temporary security deployment.
+
+A navigation inspection.
+
+An election in a territory most Americans could not have located on a map.
+
+And, eventually, three islands.
+
+The islands themselves were not particularly important.
+
+This is one of those sentences historians write immediately before spending six hours explaining why everybody behaved as though they were.
+
+They were small. Two were inhabited. One was barely more than rock above the waterline at high tide. None possessed resources worth fighting over. None controlled a route that could not, with inconvenience, be routed around.
+
+What they possessed was a guarantee.
+
+The guarantee was older than the dispute, slightly ambiguous, and had never been written with three islands specifically in mind.
+
+For nearly seventy years, the international order had become very good at answering large questions.
+
+Was a country invading another country?
+
+Was a government secretly producing atomic material?
+
+Had an army crossed a recognized frontier?
+
+Was an inspection being obstructed?
+
+These were difficult problems. But they were legible problems.
+
+The islands presented a smaller one.
+
+If no army crossed the border, if no government formally annexed anything, if local authorities continued issuing the same stamps and collecting the same taxes, and if everyone involved continued insisting that nothing permanent had happened—
+
+then exactly what was the system supposed to stop?
+
+That question would eventually help destroy it.
+
+But in the beginning, it looked very much like another problem that sensible people could manage.
+
+@chunk 2
+
+The first island did not fall.
+
+That word appears constantly in later accounts, and it gives the wrong impression.
+
+There was no landing under fire. No surrender ceremony. No flag pulled down while another went up.
+
+There was a dispute over fishing licenses.
+
+Chinese patrol vessels began stopping boats operating inside waters claimed by the island government. Beijing described the patrols as enforcement against illegal commercial fishing. The island government called them harassment. The international maritime commission noted that the boundary had never been formally settled.
+
+All three statements were true.
+
+A few months later, Chinese authorities announced a temporary inspection zone intended, according to the notice, to reduce smuggling and improve maritime safety. Ships were not prohibited from approaching the island. They were merely required to report their movements.
+
+Most did.
+
+Insurance companies noticed before governments did. Routes that required repeated inspection became slower and more expensive. Several shipping firms quietly shifted their traffic elsewhere.
+
+Nothing had been closed.
+
+Traffic simply stopped coming.
+
+Then came the customs office.
+
+Not a Chinese customs office. That would have been obvious.
+
+A joint customs office, staffed mostly by local employees, operating under an agreement negotiated after six weeks of extremely successful diplomacy.
+
+The settlement was widely praised.
+
+Chinese patrol vessels withdrew several kilometers. The island government retained its own police. Local elections continued. International observers were admitted. Beijing explicitly stated that the arrangement did not prejudice the island's final political status.
+
+The crisis was over.
+
+The next year, almost all commercial freight entering the island passed through the joint customs office.
+
+Two years after that, Chinese inspectors were permanently stationed there.
+
+Three years after that, the island government could not import fuel without their approval.
+
+Nobody had annexed anything.
+
+This distinction mattered very much to the lawyers, and increasingly little to the people who lived there.
+
+The second island went differently.
+
+There the issue was an election.
+
+A local party favoring closer economic relations with China won a narrow parliamentary majority. International observers found irregularities, but not enough to invalidate the result. Beijing offered development loans. The new government accepted them. A Chinese engineering mission arrived to rebuild the harbor.
+
+The harbor needed rebuilding.
+
+That is worth emphasizing.
+
+One of the enduring problems with accounts of this period is the temptation to make every Chinese action secretly fraudulent. Many of the roads were genuinely bad. The electrical grid genuinely failed. The harbor really was silting up.
+
+The loans built useful things.
+
+They also financed a new deep-water pier capable of handling Chinese naval auxiliaries.
+
+When foreign governments objected, Beijing pointed out that no naval base had been constructed.
+
+This was also true.
+
+The first Chinese naval vessel arrived eighteen months later to deliver disaster relief after a typhoon.
+
+The second arrived for a goodwill visit.
+
+The third needed repairs.
+
+By the time anyone proposed limiting future visits, the argument was no longer about whether Chinese ships could enter the harbor.
+
+It was about why ships that had already entered repeatedly should suddenly be prohibited.
+
+That was the pattern.
+
+Each individual change arrived with its own explanation.
+
+Each explanation was plausible.
+
+Each dispute ended with a compromise.
+
+And each compromise began the next dispute from a slightly different starting point.
+
+There were people who saw the pattern early.
+
+John Bolton was one of them.
+
+Bolton was already known as a combative legalist with very little patience for diplomatic ambiguity. He believed international guarantees should be treated as actual guarantees, not as statements of aspiration to be reconsidered whenever enforcing them became inconvenient.
+
+His objection was not that the international system had too much authority.
+
+It was that it had accumulated obligations it was increasingly unwilling to enforce.
+
+In a committee hearing in nineteen ninety-eight, Bolton put the problem more sharply.
+
+“If a guarantee requires a new political debate every time it is invoked, then it is not a guarantee. It is an invitation to hold a meeting.”
+
+The remark was widely criticized as needlessly confrontational.
+
+Bolton regarded this as evidence that people had understood him.
+
+His concern was not primarily with the islands themselves.
+
+It was with what the settlements taught.
+
+Each crisis ended peacefully.
+
+Each compromise appeared reasonable.
+
+And each one demonstrated, a little more clearly than the last, how far the system could be moved without ever forcing anyone to say that it had moved at all.
+
+@chunk 3
+
+Bolton was not alone in seeing the problem.
+
+What distinguished him was that he wanted the rules made harder.
+
+Others wanted them made clearer.
+
+A group of American, European, Indian, and Japanese officials began pushing for a common standard for what they called cumulative coercion: a way of judging not merely whether a single treaty violation had occurred, but whether a sequence of otherwise legal actions had altered the practical sovereignty of another state or territory.
+
+The proposal went nowhere.
+
+Not because anyone thought the underlying problem was imaginary.
+
+Because nobody could agree on how to measure it.
+
+How many inspections made a blockade?
+
+How much foreign financing made a government dependent?
+
+How many military visits made a base?
+
+How many “temporary” arrangements had to become permanent before the word permanent became useful?
+
+Every answer created a threshold.
+
+And every threshold immediately created a new question.
+
+What happens one step below it?
+
+This was the part Chinese planners understood especially well.
+
+If an international rule said that five naval visits in a year would trigger review, then four became safe.
+
+If foreign personnel above a certain number counted as a garrison, then one fewer did not.
+
+If a customs arrangement was acceptable so long as local officials retained formal authority, then local officials retained formal authority.
+
+On paper.
+
+The third island became the test case.
+
+Unlike the first two, it was explicitly covered by an international defense guarantee.
+
+That should have made things simpler.
+
+It did not.
+
+Chinese coast guard vessels began escorting survey ships through nearby waters. A local militia organization, formally independent of Beijing, established a permanent presence on an uninhabited outcrop several kilometers away. Chinese companies purchased the island’s largest telecommunications provider. A banking consortium refinanced most of the local government's debt.
+
+None of these actions violated the guarantee.
+
+The guarantee concerned armed attack.
+
+Then a cable station failed.
+
+The failure was almost certainly accidental.
+
+This fact did not make the situation calmer.
+
+For thirty-six hours, the island lost most secure communications with the outside world. Chinese technicians offered emergency assistance. The local government accepted.
+
+They restored service quickly.
+
+The technicians stayed.
+
+When international observers objected, Beijing asked a perfectly reasonable question.
+
+On what legal basis should technicians who had been invited by the recognized local government be expelled?
+
+Nobody had a particularly good answer.
+
+By then, the island's security ministry was using Chinese communications hardware, its port depended on Chinese financing, its fuel imports passed through Chinese inspection, and Chinese patrol vessels were the most common armed ships in the surrounding water.
+
+The defense guarantee remained fully intact.
+
+There had been no armed attack.
+
+That became the problem.
+
+@chunk 4
+
+The debate that followed is sometimes remembered as the moment the High Progressive consensus finally broke.
+
+It was not.
+
+Consensuses rarely break at moments historians can put on a slide.
+
+They become less useful first.
+
+The Institutionalists argued that the system needed better tools for cumulative coercion. Stronger reporting. Cross-agency review. Broader inspection rights. Economic indicators treated as security indicators. More frequent international assessments.
+
+The Sovereigntists argued that this was exactly the wrong lesson.
+
+If every loan, port visit, cable contract, and fishing dispute could eventually be reclassified as a security threat, then international institutions would acquire authority over almost every ordinary act of government.
+
+Both sides had a point.
+
+That was inconvenient.
+
+Bolton, predictably, disliked both formulations.
+
+He thought the Institutionalists were creating new procedures for describing a failure after it had occurred.
+
+He thought the Sovereigntists were confusing discretion with independence.
+
+In a speech that became much more famous later, he said:
+
+“The purpose of a guarantee is not to make war inevitable. It is to make testing the guarantee unattractive.”
+
+The line was quoted everywhere.
+
+The next sentence usually was not.
+
+“If we cannot say what we will defend until after someone has taken it, we have designed an incentive, not a deterrent.”
+
+That argument frightened people.
+
+It was supposed to.
+
+The problem was that the obvious remedy to ambiguous commitments was clearer commitments.
+
+Clearer commitments meant firmer thresholds.
+
+Firmer thresholds meant less room for compromise once they were crossed.
+
+The international system had spent most of the century learning how to slow crises down.
+
+Now, increasingly, officials were asking it to decide in advance when slowing down had to stop.
+
+That change happened gradually.
+
+A treaty review here.
+
+A defense protocol there.
+
+Automatic consultations after specified kinds of interference.
+
+Mandatory sanctions after certain categories of coercion.
+
+Pre-authorized deployments if communications were disrupted during a territorial dispute.
+
+No single measure was especially dramatic.
+
+Many were sensible.
+
+Some were probably necessary.
+
+Together, they began transforming the old flexible system into something more rigid.
+
+This is where the story becomes uncomfortable.
+
+China had spent years learning how to operate just below the thresholds.
+
+Its opponents responded by making the thresholds harder to approach without consequence.
+
+Both strategies made sense.
+
+Together, they reduced the amount of space in which a future crisis could remain small.
+
+At the time, though, that future crisis was still years away.
+
+The third island remained technically independent.
+
+Its elections continued.
+
+Its flag still flew over the administrative building.
+
+Its defense guarantee remained in force.
+
+And almost everyone involved could still point to the absence of war as evidence that the system was working.
+
+They were not entirely wrong.
+
+That was the problem.
+
+@chunk 5
+
+There was another problem, and it was harder to see because it had been created intentionally.
+
+The intelligence system was fragmented.
+
+Not accidentally.
+
+Deliberately.
+
+The experience of the Fascist War and the Atomic Settlement had produced a deep suspicion of permanent secret institutions with broad mandates. Intelligence collection, diplomatic reporting, military reconnaissance, economic analysis, and covert action were separated from one another by law, custom, and professional culture.
+
+Clandestine operations still happened.
+
+But they were commissioned for particular purposes, given explicit authority, and then ended.
+
+The arrangement had advantages.
+
+It made secret power harder to accumulate.
+
+It made oversight easier.
+
+It reduced the chance that an intelligence service would begin making policy merely because it possessed information nobody else did.
+
+It also meant that the information about the islands arrived in different buildings.
+
+One office saw shipping patterns.
+
+Another saw credit exposure.
+
+Another saw telecommunications contracts.
+
+Another saw local election financing.
+
+Another saw naval movements.
+
+Another saw changes in insurance rates.
+
+Each report was accurate.
+
+None, by itself, was alarming.
+
+This was not quite another Lake Erie Number Three.
+
+At Lake Erie, several instruments had secretly been giving the same answer.
+
+Here, several institutions were giving different answers to different questions.
+
+The failure was in assuming the questions were unrelated.
+
+By the late nineteen-nineties, officials were trying to solve this without rebuilding the kind of centralized intelligence apparatus their grandparents had deliberately avoided.
+
+One of the systems they inherited had been developed years earlier by George H. W. Bush.
+
+Bush had spent much of his career in treaty verification and international security work, and had become known for insisting that institutions designed to remain separate still needed formal ways to compare what they knew.
+
+He did not argue for combining them.
+
+He argued for forcing them to compare notes.
+
+The distinction would matter later.
+
+What became known informally as the Bush review process was modest: periodic meetings in which analysts from different agencies were required to describe not only what they knew, but what changes they believed would matter if they appeared somewhere else's report.
+
+It was bureaucratic.
+
+It was slow.
+
+It annoyed almost everyone involved.
+
+It also produced one of the first government memoranda to describe the three islands as a single strategic problem.
+
+The memorandum did not recommend military action.
+
+It recommended that people stop pretending the islands were three separate disputes.
+
+That was progress.
+
+It was also late.
+
+@chunk 6
+
+By the early years of the new century, the argument was no longer really about three islands.
+
+The islands had become examples.
+
+China pointed to them as evidence that peaceful adjustment was possible inside the international order.
+
+Its critics pointed to them as evidence that the international order could be revised without ever being formally violated.
+
+Both claims were true.
+
+This is one reason the period is so difficult to describe cleanly.
+
+China was not simply outside the system.
+
+It used the system.
+
+It filed claims.
+
+It negotiated.
+
+It invited observers.
+
+It cited treaties.
+
+It participated in commissions.
+
+It accepted compromises.
+
+And then, once a compromise existed, it treated the new arrangement as the starting point for the next negotiation.
+
+The old order had been built around the assumption that compromise reduced pressure.
+
+Increasingly, compromise redistributed it.
+
+Smaller states noticed first.
+
+Some moved closer to China.
+
+Some asked for stronger guarantees from the United States and its partners.
+
+Some did both.
+
+This was the beginning of what later became known as the guarantee problem.
+
+A guarantee was supposed to reassure.
+
+But if nobody knew exactly when it applied, it created uncertainty.
+
+If governments responded by making it more precise, it created rigidity.
+
+And if they refused to make it more precise, every new crisis became a test of whether the guarantee meant anything at all.
+
+Bolton's answer was simple.
+
+Make the commitments clear.
+
+Bush's answer was different.
+
+Make the information clearer before making the commitments harder.
+
+Neither answer solved the problem.
+
+But both became enormously influential.
+
+The first major revision to the Pacific security agreements came in two thousand four.
+
+It did not mention China.
+
+It did not mention the three islands.
+
+It did not authorize war.
+
+It established automatic consultations, economic countermeasures, and limited deployments in response to a defined list of coercive actions below the level of invasion.
+
+At the signing ceremony, the participating governments described the agreement as a way to prevent small disputes from becoming military crises.
+
+That was sincerely the intention.
+
+It was also the beginning of a system in which increasingly small actions produced increasingly automatic responses.
+
+Nobody thought they were building mobilization schedules.
+
+Nobody used that phrase.
+
+Not yet.
+
+The next episode is about what happened when other governments began building their own.
+
+And about the uncomfortable discovery that a system designed to make aggression harder could also make backing down harder.
+
+Because once everyone knows where the threshold is, the most important question becomes what happens when somebody crosses it.

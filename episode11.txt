@@ -1,0 +1,792 @@
+@production 11
+@book 7
+@episode 10
+@title The First Bomb
+
+@chunk 1
+
+Book Seven, Episode Ten: The First Bomb.
+
+By now, the World War, which began in twenty thirty-three, has been going on for four years.
+
+I am not going to replay the arguments we have covered over the last nine episodes about exactly where it began.
+
+That is history you know now.
+
+Quemoy.
+
+The Pacific guarantees.
+
+The mobilization protocols.
+
+The first orbital attacks.
+
+The failed conferences.
+
+Chen Jianyu.
+
+As discussed earlier, the event at Quemoy has at least four names and none of them is neutral. I am going to call it Quemoy because we have an atomic bomb to get to.
+
+All of those things mattered.
+
+None of them, by itself, explains what followed.
+
+By twenty thirty-seven, the war had already become something nobody involved had expected to fight.
+
+The opening campaigns had been fast.
+
+The middle years were not.
+
+Precision systems failed.
+
+Satellites were destroyed.
+
+Navigation degraded.
+
+Factories dispersed.
+
+Ports were cratered, repaired, and cratered again.
+
+Armies that had been built around speed discovered that roads, railways, fuel, replacement parts, and human beings still mattered.
+
+The war became larger as its technology became less reliable.
+
+This is one reason descriptions of the later fighting sound strangely old.
+
+Artillery.
+
+Trenches.
+
+Bridges.
+
+Mud.
+
+Rail schedules.
+
+Convoys.
+
+People sometimes describe this as regression.
+
+It was not.
+
+The weapons were still modern.
+
+There were still miles of fiber-optic cable from drones draped across no-man's-land.
+
+There were still autonomous vehicles hunting for heat signatures in ruined towns.
+
+There were still precision weapons capable of striking a bridge from hundreds of kilometers away.
+
+The problem was that every sophisticated system depended on other sophisticated systems, and those systems had become targets.
+
+A missile could destroy a bridge from hundreds of kilometers away.
+
+It could not make the replacement bridge arrive faster.
+
+In twenty thirty-eight, by the sixth year of the war, all of the major powers were fighting with two economies at once.
+
+The first produced advanced weapons.
+
+The second produced everything required after the advanced weapons stopped working.
+
+China had mobilized on a scale not seen since the Coalition War.
+
+The United States had returned to mass conscription.
+
+European governments that had spent generations designing institutions to prevent general war were now calculating how many rail cars were required to move an armored corps.
+
+And above all of this was an absence.
+
+There were no atomic arsenals.
+
+Not in the sense we would later understand the term.
+
+The International Atomic Authority still existed on paper in the first months of the war. Its inspectors still held credentials. Its storage records still existed. Some facilities remained sealed.
+
+Then access became impossible.
+
+The old Ward distinction returned with uncomfortable clarity: an inspection right that could only be exercised with permission had become a request.
+
+Permissions were delayed.
+
+Then denied.
+
+Then no longer answered at all.
+
+Inspectors were evacuated.
+
+Fuel inventories stopped matching.
+
+Governments began moving material for what they called emergency security reasons.
+
+The old system did not collapse in a single vote.
+
+It became unusable.
+
+And once it became unusable, every government faced the same question.
+
+What if someone else rebuilds first?
+
+For almost ninety years, the answer had been that nobody was supposed to.
+
+That answer had required a functioning world.
+
+The World War no longer provided one.
+
+@chunk 2
+
+The first programs were not called weapons programs.
+
+This is another distinction that lasted only as long as people needed it to.
+
+They were continuity programs.
+
+Material-security programs.
+
+Emergency reactor programs.
+
+Strategic research offices.
+
+The language varied.
+
+The physics did not.
+
+China began by dispersing fissile material from facilities considered vulnerable to air attack.
+
+The United States did the same.
+
+European governments relocated laboratory staffs.
+
+Indian authorities transferred reactor components inland.
+
+Russian officials reopened sites that had been mothballed for decades.
+
+Each decision could be justified without referring to a bomb.
+
+At first.
+
+The problem was not that governments suddenly forgot what atomic weapons were.
+
+The problem was that they remembered.
+
+They remembered the demonstration in nineteen forty-four.
+
+They remembered the Atomic Settlement.
+
+They remembered the empty weapon cases in Geneva.
+
+They remembered the argument that one arsenal teaches the next country it must become one more.
+
+For generations, that sentence had been taught as an explanation for why the arsenals disappeared.
+
+Now it became an explanation for why they returned.
+
+The first credible evidence that China had resumed weapon design appeared in American intelligence reporting in the autumn of twenty thirty-eight.
+
+The report was incomplete.
+
+A laboratory had been moved.
+
+A materials team had been reassigned.
+
+A test range had been cleared.
+
+None of these facts proved that China was building a bomb.
+
+Together, they made it difficult to prove that China was not.
+
+Washington did not respond publicly.
+
+Instead, the President authorized what was formally described as a national atomic readiness review.
+
+The review was placed under Colonel Daniel Mercer, born in nineteen eighty-nine, forty-nine years old, an Army officer with a reputation for taking projects that existed in six departments and making them behave as though they belonged to one government.
+
+Mercer was not an atomic physicist.
+
+That was not really the job.
+
+The review became a program.
+
+The program acquired engineers.
+
+The engineers acquired material.
+
+And somewhere in that sequence, the question changed from whether the United States should build an atomic weapon to whether it could afford not to have one if China already did.
+
+This happened elsewhere too.
+
+The old safeguards had been designed around inspection, accounting, and verification.
+
+War made all three harder.
+
+It also made delay look irresponsible.
+
+That combination was fatal.
+
+There were still people arguing for restraint.
+
+There were still committees.
+
+There were still lawyers.
+
+There were still scientists who believed the programs should stop.
+
+What had disappeared was the shared institution capable of making one country's restraint meaningful to another.
+
+A Chinese physicist could refuse to work.
+
+An American laboratory could delay a test.
+
+A European government could announce that it would not pursue a weapon.
+
+None of those actions answered the question that mattered.
+
+What is the other side doing?
+
+By twenty thirty-nine, the answer was increasingly assumed to be: the same thing.
+
+That was enough.
+
+And while governments rebuilt the atomic weapon, they were doing something else that would have seemed impossible only a decade earlier.
+
+They were putting people into space.
+
+The first crewed orbital missions were military.
+
+Not exploratory.
+
+Not ceremonial.
+
+Not scientific, at least not primarily.
+
+Satellites had become too important and too vulnerable to leave entirely to machines. Damaged reconnaissance platforms needed repair. Replacement systems had to be deployed faster than automated launch schedules allowed. Some missions required human judgment because the communications links required for remote control no longer reliably existed.
+
+The testing programs were compressed.
+
+The accident rate was terrible.
+
+A surviving engineering memo from one early American program contains the sentence:
+
+“We have not finished testing that.”
+
+The handwritten response beneath it reads:
+
+“Then test it in orbit.”
+
+That was the World War in miniature.
+
+For most of the previous century, technological progress had been associated with removing uncertainty before deployment.
+
+Now uncertainty itself had become something commanders were willing to deploy.
+
+Human beings had been in orbit for less than seven years when the first atomic weapon was used.
+
+And the city chosen for it was Harbin.
+
+@chunk 3
+
+Harbin had already been destroyed once.
+
+Not completely.
+
+Cities rarely are.
+
+During the Coalition War, the rail yards had burned, apartment blocks had been opened to the winter, and refugee columns had moved south under sheets of dirty snow.
+
+There are photographs from that winter that appear in almost every school textbook.
+
+Red emergency tags tied around children's coats.
+
+By the World War, those photographs were seventy years old.
+
+Harbin had been rebuilt.
+
+Then expanded.
+
+Then rebuilt again.
+
+By twenty thirty-nine, it was one of the major military and industrial nodes of northern China.
+
+Rail lines converged there.
+
+Aircraft engines were assembled there.
+
+Military communications passed through switching centers beneath the city.
+
+Several army commands had relocated into the surrounding district after coastal facilities became vulnerable.
+
+All of this made Harbin a legitimate military target.
+
+That sentence is true.
+
+It is also insufficient.
+
+By the spring of twenty forty, the northern front had stalled.
+
+Chinese armies had absorbed enormous losses and were still holding.
+
+American and allied forces had lost much of their ability to strike deep targets reliably.
+
+Russian formations farther west were exhausted.
+
+China's industrial system was damaged but functioning.
+
+Every offensive cost more than the last.
+
+Every defensive line took longer to break.
+
+And every government involved had begun calculating not merely how to win, but how many additional years it could continue losing people at the existing rate.
+
+This was the strategic environment in which the first atomic weapon became useful.
+
+Not necessary.
+
+Useful.
+
+That distinction matters.
+
+The weapon was not proposed because commanders had run out of conventional explosives.
+
+It was proposed because an atomic attack might accomplish several things at once.
+
+Destroy the rail complex.
+
+Destroy buried command facilities.
+
+Disrupt industrial production.
+
+Shock the Chinese government.
+
+Demonstrate that the United States possessed a weapon before China could demonstrate its own.
+
+And, perhaps most importantly, change the arithmetic of the war.
+
+The first targeting memoranda listed military installations.
+
+The second listed cities.
+
+Harbin appeared on both.
+
+The discussion that followed was conducted almost entirely by people who understood what they were discussing.
+
+This is another uncomfortable point.
+
+There was no room full of ignorant men being told, for the first time, that atomic weapons were powerful.
+
+Everyone knew.
+
+They had grown up in a civilization partly organized around knowing.
+
+Some of the scientists involved had worked for the International Atomic Authority.
+
+Some of the lawyers had taught Ward's inspection principles.
+
+Several senior officers had spent their careers inside a military culture that treated atomic restraint as one of the defining achievements of modern history.
+
+And still the meetings continued.
+
+Because every person in the room could identify a reason why refusing to build the weapon might leave someone else with one.
+
+And once the weapon existed, every person in the room could identify a reason why refusing to use it might make its construction pointless.
+
+That was how the old logic returned.
+
+Not as madness.
+
+As sequence.
+
+@chunk 4
+
+China knew enough to be afraid.
+
+It did not know enough to be certain.
+
+By the summer of twenty forty, Chinese intelligence believed the United States had completed at least one workable atomic device.
+
+American intelligence believed China was somewhere between several months and a year from doing the same.
+
+Neither estimate was reliable.
+
+Both governments behaved as if the shorter estimate might be correct.
+
+In Beijing, emergency planning accelerated.
+
+Peking University had already spent years supplying engineers, physicians, communications specialists, and mathematicians to the war effort. By twenty forty, parts of the university were effectively extensions of the emergency technical ministries.
+
+Students learned orbital mechanics beside air-raid maps.
+
+Medical laboratories shared buildings with communications teams.
+
+Lecture halls became planning rooms at night.
+
+This was remembered afterward as one of the great patriotic mobilizations of the war.
+
+At the time, it mostly meant nobody slept.
+
+Tiananmen served a different purpose.
+
+When the casualty lists became too long to publish individually, families gathered there.
+
+When northern cities were bombed, relief drives began there.
+
+When rumors spread that the government might negotiate, veterans' organizations filled the square demanding that the war continue until Chinese security could no longer be decided abroad.
+
+Deng Xiaoping's name was everywhere.
+
+By then, Deng had been dead for decades, but the state invoked him as the architect of reconstruction after the Coalition War: the man who had restored Chinese strength after humiliation and taught the country to endure long enough to recover.
+
+His speeches were quoted by officials who would have disagreed violently about almost everything else.
+
+One of the administrators responsible for keeping that wartime state functioning was Zhao Wen.
+
+She was not yet a national political figure.
+
+She was a deputy minister in the emergency industrial system, responsible for coordinating transport, power allocation, and military production across several northern provinces.
+
+Her name appears frequently in the records because she signed things.
+
+Fuel transfers.
+
+Rail priorities.
+
+Factory relocations.
+
+Emergency exemptions.
+
+Most of it is extremely boring.
+
+This is usually a sign that someone mattered.
+
+Zhao developed a reputation for refusing requests that described everything as urgent.
+
+If everything was urgent, she argued, nothing had been prioritized.
+
+A memorandum from August twenty forty contains one of the earliest lines later associated with her:
+
+“Security is a function of continuity. A state that destroys its own capacity to continue has not secured itself.”
+
+At the time, she was talking about electrical substations.
+
+History is rarely considerate enough to leave sentences in the context where they were written.
+
+Farther north, a thirty-three-year-old army officer named Liu Jian had recently been promoted after the defense of a rail corridor outside Qiqihar.
+
+He was not famous.
+
+Not yet.
+
+His citation praised him for maintaining civilian evacuation routes while moving ammunition in the opposite direction.
+
+Later biographies would make a great deal of this.
+
+Later biographies make a great deal of many things.
+
+For now, it is enough to know that both Zhao Wen and Liu Jian belonged to the generation that learned adulthood during the World War.
+
+They would remember what governments could ask people to endure.
+
+They would also remember what happened when governments decided that endurance itself was a strategy.
+
+On September seventeenth, twenty forty, the American National Security Council received the final targeting recommendation for Harbin.
+
+The document was twenty-seven pages long.
+
+The word “city” appeared twice.
+
+The word “rail” appeared forty-three times.
+
+The weapon had already been assembled.
+
+@chunk 5
+
+The bomb was dropped on Harbin on September twenty-first, twenty forty.
+
+The aircraft approached from the west.
+
+Chinese air defenses detected it late.
+
+There had been too many false tracks, too many damaged radar stations, too many aircraft moving through too many broken systems.
+
+The weapon detonated over the northern industrial district.
+
+The first reports were confused.
+
+A conventional ammunition depot was said to have exploded.
+
+Then a fuel complex.
+
+Then the communications grid failed across most of the city.
+
+And farther out than anyone had expected.
+
+The electromagnetic effects of atomic explosions were understood in theory.
+
+They had never been tested at anything approaching this scale against a modern electrical network.
+
+Substations outside the blast area tripped.
+
+Radios failed.
+
+Control systems burned out.
+
+For several hours, Chinese commanders could not tell which communications had been destroyed, which had lost power, and which were simply no longer answering.
+
+The first atomic age had ended before anyone thought to test very much of this.
+
+Military traffic stopped.
+
+Rail dispatch disappeared.
+
+Emergency transmitters came on and went silent.
+
+Within an hour, Beijing understood what had happened.
+
+The United States announced the attack before China did.
+
+The statement described Harbin as a military-industrial target and emphasized the rail yards, command facilities, aircraft production, and communications infrastructure.
+
+It did not call the weapon experimental.
+
+It did not call the attack a demonstration.
+
+It called it an atomic strike.
+
+That wording mattered.
+
+In nineteen forty-four, the first atomic explosion had destroyed a target built for the purpose.
+
+In twenty forty, the target had streets.
+
+It had hospitals.
+
+It had schools.
+
+It had people who had spent the morning trying to get to work.
+
+The military objectives were real.
+
+So were the civilians.
+
+Later estimates of the dead vary because the city had already been damaged, evacuated, reinforced, and repopulated several times during the war.
+
+The official American postwar estimate was one hundred and twelve thousand dead within thirty days.
+
+The Chinese government eventually settled on one hundred and thirty-one thousand.
+
+A later joint archival study put the most likely figure at between one hundred and eighteen and one hundred and twenty-four thousand.
+
+The exact number matters.
+
+It is also not the reason Harbin changed the war.
+
+For nearly a century, everyone had known that atomic weapons could destroy cities.
+
+Now everyone knew that governments would use them to do so.
+
+Years later, both Zhao Wen and Liu Jian would remember exactly where they were when Harbin disappeared from the communications map.
+
+Zhao was standing over a power-distribution chart in a ministry basement in Beijing.
+
+Liu was beside a field radio north of Qiqihar, eating cold rice from a metal cup.
+
+Neither remembered the first words spoken afterward.
+
+Zhao remembered that someone asked whether power could be rerouted around Harbin.
+
+Liu remembered an officer asking whether the report was confirmed.
+
+These were reasonable questions.
+
+That is what people do when history changes.
+
+They continue doing their jobs.
+
+By evening, Tiananmen was full.
+
+There had been no official call for a gathering.
+
+People came anyway.
+
+Some carried photographs.
+
+Some carried flags.
+
+Some carried nothing.
+
+The government announced three days of mourning and promised retaliation.
+
+Deng Xiaoping's words appeared again in speeches and newspapers, stripped of the arguments they had originally belonged to and made to serve the moment.
+
+China would endure.
+
+China would recover.
+
+China would never again permit its security to depend upon the restraint of others.
+
+That last idea would outlive the war.
+
+@chunk 6
+
+Harbin did not end the World War.
+
+That was one of the expectations behind the strike.
+
+It failed.
+
+The rail network around the city was shattered.
+
+Military production fell.
+
+Several command facilities were destroyed.
+
+Chinese forces in the north lost coordination for days.
+
+Then alternate routes opened.
+
+Commands moved.
+
+Factories elsewhere increased production.
+
+The front continued.
+
+The psychological effect was enormous.
+
+It was not surrender.
+
+China accelerated its own atomic program.
+
+So did everyone else.
+
+Within months, the United States no longer possessed the only usable weapon.
+
+Within a year came Guam.
+
+Qingdao.
+
+Sasebo.
+
+Vladivostok.
+
+Hamburg.
+
+Rotterdam.
+
+San Diego.
+
+San Diego was delivered by submarine.
+
+The crew had been given an extraction plan.
+
+Nobody involved seems to have believed it.
+
+We will probably do a supplemental on that one.
+
+Hamburg became infamous for a different reason.
+
+The weapon had been modeled by three independent teams.
+
+All three were wrong.
+
+They had used different software and different methods.
+
+They had also relied on much of the same underlying nuclear data.
+
+The expected yield was roughly two hundred and fifty kilotons.
+
+The actual yield was closer to two and a half megatons.
+
+The evacuation plans had been drawn around the smaller number.
+
+Thousands of civilians had been moved out of central Hamburg into schools, municipal buildings, and temporary shelters beyond the predicted severe-damage radius.
+
+Several of those evacuation centers were destroyed.
+
+Norderstedt, north of the city, had been one of the principal reception areas.
+
+The planning maps showing the predicted and actual damage zones became known simply as the Norderstedt circles.
+
+Every student of the war has seen them.
+
+These were not the dozens or hundreds of cities earlier generations had feared.
+
+They were enough.
+
+Harbin remained first.
+
+Before Harbin, leaders argued about whether an atomic weapon could be used.
+
+After Harbin, they argued about when.
+
+The International Atomic Authority still existed legally.
+
+A few of its offices still operated in neutral countries.
+
+Its archives remained.
+
+Its seals remained on doors nobody respected.
+
+Its inspectors issued reports describing inventories they could no longer inspect.
+
+The old Ward distinction had completed its journey.
+
+An inspection right had become a request.
+
+The request had become a record of refusal.
+
+And then, eventually, a historical document.
+
+The war continued for almost two more years.
+
+By twenty forty-two, no major power had achieved the victory it had imagined in twenty thirty-three.
+
+China was devastated.
+
+The United States was exhausted.
+
+Europe had lost cities, industry, and another generation.
+
+Russia had fractured under the strain of mobilization and occupation.
+
+India had become one of the indispensable powers of the coalition system and one of its most reluctant.
+
+The World War ended in twenty forty-two.
+
+More or less.
+
+The Pacific ceasefire took effect on March twenty-third.
+
+Organized fighting continued in parts of Central Asia until May eleventh.
+
+The last major European formation surrendered on June eighteenth.
+
+Several Chinese provincial commands did not formally acknowledge the armistice until July second.
+
+The final multinational ceasefire declaration was signed on August ninth.
+
+There are other dates.
+
+Quite a few, actually.
+
+I have argued about some of them in print.
+
+We will cover the argument over exactly when the World War ended when we get to the peace.
+
+For now, twenty forty-two will do.
+
+The atomic programs did not end with it.
+
+There would be no second Atomic Settlement.
+
+No empty weapon cases.
+
+No immediate agreement that national arsenals themselves were the problem.
+
+But that argument belongs to the peace.
+
+And the peace is where we are going next.
+
+Because when the delegates finally sat down in twenty forty-two, they faced a question their grandparents had answered very differently.
+
+What do we do with the bombs?
+
+Thanks for listening.

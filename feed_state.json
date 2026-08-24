@@ -63,6 +63,30 @@
       "book_number": 4,
       "in_universe_episode": 16,
       "title": "The Peace, Part I"
+    },
+    "episode_9_common_mode.mp3": {
+      "pub_date": "2026-08-24T03:11:19+00:00",
+      "guid": "catastrophes:episode_9_common_mode",
+      "production_episode": 9,
+      "book_number": 5,
+      "in_universe_episode": 6,
+      "title": "Common Mode"
+    },
+    "episode_10_three_islands.mp3": {
+      "pub_date": "2026-08-24T03:11:19+00:00",
+      "guid": "catastrophes:episode_10_three_islands",
+      "production_episode": 10,
+      "book_number": 6,
+      "in_universe_episode": 4,
+      "title": "Three Islands"
+    },
+    "episode_11_the_first_bomb.mp3": {
+      "pub_date": "2026-08-24T03:11:19+00:00",
+      "guid": "catastrophes:episode_11_the_first_bomb",
+      "production_episode": 11,
+      "book_number": 7,
+      "in_universe_episode": 10,
+      "title": "The First Bomb"
     }
   }
 }

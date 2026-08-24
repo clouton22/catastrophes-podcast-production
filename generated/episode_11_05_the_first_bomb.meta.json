@@ -1,0 +1,19 @@
+{
+  "production_episode": 11,
+  "book_number": 7,
+  "in_universe_episode": 10,
+  "title": "The First Bomb",
+  "chunk": 5,
+  "generated_utc": "2026-08-24T02:40:57.901815+00:00",
+  "provider": "ElevenLabs",
+  "voice_id": "qSeXEcewz7tA0Q0qk9fH",
+  "model_id": "eleven_v3",
+  "output_format": "mp3_44100_128",
+  "character_count": 3781,
+  "estimated_api_cost_usd": 0.3781,
+  "seed": 12345,
+  "source_episode_file": "episode11.txt",
+  "source_text_sha256": "dd3df3b411adc61df558b459ff0abe62a043f6619cb5c9855e614f1e3ab7c619",
+  "audio_sha256": "9c81d35509c53cc20d063c9087412102f66e3838981f2a91369df3e5a838ebab",
+  "request_id": "wMD8myZAEEqMzlQ2fIwT"
+}

@@ -1,0 +1,19 @@
+{
+  "production_episode": 10,
+  "book_number": 6,
+  "in_universe_episode": 4,
+  "title": "Three Islands",
+  "chunk": 4,
+  "generated_utc": "2026-08-24T00:48:34.603868+00:00",
+  "provider": "ElevenLabs",
+  "voice_id": "qSeXEcewz7tA0Q0qk9fH",
+  "model_id": "eleven_v3",
+  "output_format": "mp3_44100_128",
+  "character_count": 3072,
+  "estimated_api_cost_usd": 0.3072,
+  "seed": 12345,
+  "source_episode_file": "episode10.txt",
+  "source_text_sha256": "b27e24fb201139445c747344cd0b3ffb9d6211bc6312682e0e9e79bea292ebfb",
+  "audio_sha256": "c1df8bcc7277387c57d498f59770d25a16ce5387bc7831b6a9942c3a8db1cf75",
+  "request_id": "UcrZHSGeeFVgzbXuVSJG"
+}

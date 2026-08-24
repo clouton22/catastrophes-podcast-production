@@ -1,0 +1,19 @@
+{
+  "production_episode": 9,
+  "book_number": 5,
+  "in_universe_episode": 6,
+  "title": "Common Mode",
+  "chunk": 3,
+  "generated_utc": "2026-08-24T03:07:51.874968+00:00",
+  "provider": "ElevenLabs",
+  "voice_id": "qSeXEcewz7tA0Q0qk9fH",
+  "model_id": "eleven_v3",
+  "output_format": "mp3_44100_128",
+  "character_count": 3958,
+  "estimated_api_cost_usd": 0.3958,
+  "seed": 12345,
+  "source_episode_file": "episode9.txt",
+  "source_text_sha256": "82a545c9397c5425e44c39ea44c8dce0b5699c5efe0af2eabbbc99c89226619c",
+  "audio_sha256": "6233762c9b19a1c642d9ebe478fc945fd2192c2f5a54fd61076d65d3af3aedba",
+  "request_id": "Rg5u2BhaLDd5XZ5tXktt"
+}
