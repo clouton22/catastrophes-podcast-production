@@ -6,8 +6,8 @@
 **Book:** 5
 **In-universe episode:** 6
 **Title:** Common Mode
-**Assembled UTC:** 2026-08-24T03:11:05.637856+00:00
-**Duration:** 00:21:49.120
+**Assembled UTC:** 2026-08-24T03:48:41.554708+00:00
+**Duration:** 00:21:00.069
 
 ## Production provenance
 
@@ -16,14 +16,14 @@
 **Narrator voice:** Victoria.
 **Voice ID(s):** qSeXEcewz7tA0Q0qk9fH
 **Model(s):** eleven_v3
-**Estimated ElevenLabs generation cost:** $2.038
+**Estimated ElevenLabs generation cost:** $1.990
 **Editing master:** `episode_9_common_mode_master.wav`
 **Listening/export copy:** `episode_9_common_mode.mp3`
 **Loudness target:** -19.0 LUFS, mono
 
-**Source episode SHA-256:** `6331e12998913a881ab5f7055f11a86272313eefb333c4df5a78c2be6095342d`
-**WAV master SHA-256:** `8eb3f8118860e1b6b860209a1a98771ff3f2ba93930e28a710eecd45fa595d58`
-**MP3 export SHA-256:** `9811f99d8fa5b7327e33aa73326931262ddb8a84dab2facb6973c122e93426de`
+**Source episode SHA-256:** `185c8c73e267008f31023091aa164a14e192b039f3dcc42192a95f6dbd45385f`
+**WAV master SHA-256:** `de6f363f0daff8f035c00fe81960e6cc912aac745d43f0c11813ed838a7eb505`
+**MP3 export SHA-256:** `54dde3f667f327609be2e2cc355def2861ad37a9abc84877ecda4ed00463ab43`
 
 Chunk timestamps below refer to the WAV editing master and are intended for locating fixes in Audacity.
 
@@ -31,12 +31,12 @@ Chunk timestamps below refer to the WAV editing master and are intended for loca
 
 | Chunk | Start | End | Duration | File | Model |
 | ---: | ---: | ---: | ---: | --- | --- |
-| 01 | 00:00:00.000 | 00:03:21.120 | 00:03:21.120 | `episode_9_01_common_mode.mp3` | eleven_v3 |
-| 02 | 00:03:21.120 | 00:07:19.280 | 00:03:58.160 | `episode_9_02_common_mode.mp3` | eleven_v3 |
-| 03 | 00:07:19.280 | 00:11:36.880 | 00:04:17.600 | `episode_9_03_common_mode.mp3` | eleven_v3 |
-| 04 | 00:11:36.880 | 00:15:34.560 | 00:03:57.680 | `episode_9_04_common_mode.mp3` | eleven_v3 |
-| 05 | 00:15:34.560 | 00:18:10.320 | 00:02:35.760 | `episode_9_05_common_mode.mp3` | eleven_v3 |
-| 06 | 00:18:10.320 | 00:21:49.120 | 00:03:38.800 | `episode_9_06_common_mode.mp3` | eleven_v3 |
+| 01 | 00:00:00.000 | 00:03:21.169 | 00:03:21.169 | `episode_9_01_common_mode.mp3` | eleven_v3 |
+| 02 | 00:03:21.169 | 00:06:30.087 | 00:03:08.918 | `episode_9_02_common_mode.mp3` | eleven_v3 |
+| 03 | 00:06:30.087 | 00:10:47.732 | 00:04:17.646 | `episode_9_03_common_mode.mp3` | eleven_v3 |
+| 04 | 00:10:47.732 | 00:14:45.447 | 00:03:57.714 | `episode_9_04_common_mode.mp3` | eleven_v3 |
+| 05 | 00:14:45.447 | 00:17:21.241 | 00:02:35.794 | `episode_9_05_common_mode.mp3` | eleven_v3 |
+| 06 | 00:17:21.241 | 00:21:00.069 | 00:03:38.828 | `episode_9_06_common_mode.mp3` | eleven_v3 |
 
 ## Chunk provenance
 
@@ -55,14 +55,14 @@ Chunk timestamps below refer to the WAV editing master and are intended for loca
 ### Chunk 02
 
 - Audio: `episode_9_02_common_mode.mp3`
-- Audio SHA-256: `d9e0bfc6ce16b8b007728db3a543730363b66e8a0523acf9b4bf2263e2ac1526`
-- Source text SHA-256: `e9ab694fbd33507b9ac08926f2d231f778c9a8d6bd660982b1eaae9f5af9e365`
-- Generated UTC: 2026-08-24T02:53:47.638162+00:00
+- Audio SHA-256: `7712ce95f5015d080cc2d9b083037172c2c0139e09e0d1bd6a2b94d9905bc590`
+- Source text SHA-256: `13187c162b09ff7b7f71aaf58d83e6f6176ea18dbfc013ff400893675453a160`
+- Generated UTC: 2026-08-24T03:46:50.537701+00:00
 - Model: eleven_v3
 - Voice ID: qSeXEcewz7tA0Q0qk9fH
-- Character count: 3690
-- Estimated API cost: $0.369
-- ElevenLabs request ID: `46JGdHAisEGXZbv0GdMP`
+- Character count: 3207
+- Estimated API cost: $0.321
+- ElevenLabs request ID: `b3njPqAmgMvxjsmUmPlY`
 
 ### Chunk 03
 

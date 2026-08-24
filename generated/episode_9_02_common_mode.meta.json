@@ -4,16 +4,16 @@
   "in_universe_episode": 6,
   "title": "Common Mode",
   "chunk": 2,
-  "generated_utc": "2026-08-24T02:53:47.638162+00:00",
+  "generated_utc": "2026-08-24T03:46:50.537701+00:00",
   "provider": "ElevenLabs",
   "voice_id": "qSeXEcewz7tA0Q0qk9fH",
   "model_id": "eleven_v3",
   "output_format": "mp3_44100_128",
-  "character_count": 3690,
-  "estimated_api_cost_usd": 0.369,
-  "seed": 12345,
+  "character_count": 3207,
+  "estimated_api_cost_usd": 0.3207,
+  "seed": null,
   "source_episode_file": "episode9.txt",
-  "source_text_sha256": "e9ab694fbd33507b9ac08926f2d231f778c9a8d6bd660982b1eaae9f5af9e365",
-  "audio_sha256": "d9e0bfc6ce16b8b007728db3a543730363b66e8a0523acf9b4bf2263e2ac1526",
-  "request_id": "46JGdHAisEGXZbv0GdMP"
+  "source_text_sha256": "13187c162b09ff7b7f71aaf58d83e6f6176ea18dbfc013ff400893675453a160",
+  "audio_sha256": "7712ce95f5015d080cc2d9b083037172c2c0139e09e0d1bd6a2b94d9905bc590",
+  "request_id": "b3njPqAmgMvxjsmUmPlY"
 }

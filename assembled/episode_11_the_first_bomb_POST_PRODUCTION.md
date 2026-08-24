@@ -6,7 +6,7 @@
 **Book:** 7
 **In-universe episode:** 10
 **Title:** The First Bomb
-**Assembled UTC:** 2026-08-24T02:43:06.469262+00:00
+**Assembled UTC:** 2026-08-24T03:26:39.962833+00:00
 **Duration:** 00:24:35.920
 
 ## Production provenance
