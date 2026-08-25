@@ -1,0 +1,19 @@
+{
+  "production_episode": 15,
+  "book_number": 10,
+  "in_universe_episode": 8,
+  "title": "The October Attempt",
+  "chunk": 5,
+  "generated_utc": "2026-08-25T03:29:10.247297+00:00",
+  "provider": "ElevenLabs",
+  "voice_id": "qSeXEcewz7tA0Q0qk9fH",
+  "model_id": "eleven_v3",
+  "output_format": "mp3_44100_128",
+  "character_count": 2753,
+  "estimated_api_cost_usd": 0.2753,
+  "seed": 12345,
+  "source_episode_file": "episode15.txt",
+  "source_text_sha256": "98349b3904bfc0aecb44088670adf41015890b22534a1cce64d0edecc62c7eda",
+  "audio_sha256": "7df7ad1496acf8205ff7c8051ae93521c3c3003ccc2e345e9a5909d7c9fc4a69",
+  "request_id": "DXDBXQbDGZWd14iGVcpR"
+}

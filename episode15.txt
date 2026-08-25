@@ -1,0 +1,782 @@
+@production 15
+@book 10
+@episode 8
+@title The October Attempt
+
+@chunk 1
+
+Book Ten, Episode Eight: The October Attempt.
+
+It is October, twenty seventy-eight.
+
+Six years have passed since Seventy-Two.
+
+Five years since the Nanjing Settlement.
+
+And in the United States, the argument is now about whether a republic can survive its own security state.
+
+The answer, briefly, was unclear.
+
+The crisis had been building for years.
+
+And we have discussed this a few times.
+
+The Treasury Crisis.
+
+The failed proxy war.
+
+The withdrawal from two Pacific basing agreements.
+
+The collapse of another round of arms-reduction talks.
+
+The emergency appropriations bills.
+
+The classified continuity plans.
+
+The increasingly public argument over whether the United States had become too weak to retreat and too exhausted to continue.
+
+President Andrew Hale, who had taken office in twenty seventy-five, had spent most of his term trying to reduce military commitments without appearing to abandon allies.
+
+This pleased almost nobody.
+
+The security establishment thought he was moving too quickly.
+
+The antiwar coalition thought he was moving too slowly.
+
+Congress thought he was making too many decisions without Congress.
+
+Hale thought Congress was making too few decisions at all.
+
+By the autumn of twenty seventy-eight, the presidential election had become a referendum on the entire postwar American system.
+
+The leading opposition candidate was Miriam Calder.
+
+She was not expected to win.
+
+By October, most polling had Hale ahead comfortably, and Calder's campaign was still being treated as an insurgent challenge rather than the probable next government.
+
+That would change.
+
+Quickly.
+
+For now, what matters is that the election was five weeks away.
+
+On October seventeenth, shortly after three in the morning, a group of senior national-security officials activated portions of the federal continuity system.
+
+They did not announce a coup.
+
+They announced an emergency.
+
+Strategic communications centers were secured.
+
+Several cabinet officials were temporarily isolated.
+
+Military transport was redirected.
+
+Access to parts of the federal communications network was restricted.
+
+A small number of civilian officials were detained under authorities originally written for wartime continuity.
+
+The organizers called themselves the National Continuity Group.
+
+This name lasted less than a day.
+
+History preferred the October Attempt.
+
+Their stated purpose was limited.
+
+Transfer temporary control of strategic forces to a restricted emergency command.
+
+Suspend planned reductions.
+
+Postpone the presidential election for ninety days.
+
+Review foreign interference.
+
+Restore what they called national decision capacity.
+
+Then return authority to the ordinary constitutional government.
+
+This was not how they described overthrowing the republic.
+
+They did not believe they were overthrowing the republic.
+
+That is important.
+
+At three-forty-two, President Hale was moved to a secure federal site outside Washington.
+
+Whether this was protective custody or detention became one of the first legal arguments of the morning.
+
+Hale resolved it by asking whether he was free to leave.
+
+He was told that departure was not recommended.
+
+He asked again.
+
+The answer did not improve.
+
+At four-oh-eight, he dictated a statement.
+
+“The election will occur on November fifth.”
+
+The recording reached the public forty-three minutes later.
+
+By then, Vice President Anna Roosevelt had already entered a continuity bunker beneath a federal complex in northern Virginia.
+
+This was exactly what the emergency plan required her to do.
+
+It was also the first thing she did that morning that made the situation worse.
+
+@chunk 2
+
+Anna Roosevelt was fifty years old.
+
+She had been in national politics for almost two decades.
+
+A senator from New York.
+
+A committee chair.
+
+A respected voice on security oversight.
+
+The sort of politician described as serious by people who meant it as praise and boring by people who also meant it as praise.
+
+The Roosevelt name still carried weight.
+
+Less than it once had.
+
+More than was probably healthy for anyone born with it.
+
+Anna was not a great Roosevelt.
+
+This judgment became fashionable later.
+
+It is also unfair.
+
+She was competent.
+
+Careful.
+
+Well prepared.
+
+Good in hearings.
+
+Good with budgets.
+
+Good at asking questions that made witnesses wish they had prepared better answers.
+
+In twenty sixty-five, during the investigations after the Second Shanghai Crisis, she had asked:
+
+“If every office followed procedure, who was responsible for noticing that the procedures were interacting?”
+
+It was a good question.
+
+Thirteen years later, she was about to discover that being responsible for noticing a system was interacting was easier than being trapped inside one while it did.
+
+At four-ten in the morning, Anna entered the continuity bunker.
+
+At four-twelve, someone leaked that she had entered it.
+
+The leak did not say why.
+
+For the next forty-three minutes, a substantial portion of the country believed President Hale was dead, incapacitated, or had transferred power.
+
+Financial markets opened early overseas.
+
+The dollar fell sharply.
+
+Two allied governments requested confirmation of who controlled American strategic forces.
+
+Several military commands asked the same question.
+
+Anna's staff issued a statement:
+
+“The Vice President is safe and carrying out her constitutional responsibilities.”
+
+This was intended to be reassuring.
+
+It was not.
+
+The phrase constitutional responsibilities immediately produced speculation that the Twenty-Fifth Amendment had been invoked.
+
+It had not.
+
+Anna authorized a second statement.
+
+“The President remains President.”
+
+This was clearer.
+
+It also made people wonder why anyone had needed to say it.
+
+At four-fifty-eight, Anna demanded direct communication with Hale.
+
+The continuity system routed the request through the same restricted network being controlled by the National Continuity Group.
+
+The Group approved the call.
+
+In retrospect, this was probably a mistake.
+
+At the time, it was not an irrational one.
+
+They knew Anna Roosevelt well.
+
+Careful.
+
+Procedural.
+
+Reluctant to improvise.
+
+Deeply invested in continuity.
+
+They expected her to calm Hale down.
+
+They were mostly right about Anna.
+
+They were wrong about Hale.
+
+He had spent three years being accused of retreat, weakness, and indecision.
+
+He had become very practiced at recognizing the difference between compromise and surrender.
+
+The call did not make Anna less cautious.
+
+It made Hale more certain.
+
+That distinction would matter.
+
+The recording of the call survives.
+
+Hale begins by asking:
+
+“Anna, are you part of this?”
+
+There is a pause of just under two seconds.
+
+Later commentators made a great deal of the pause.
+
+They should not have.
+
+Anna's answer is immediate enough for anyone who has ever been asked an offensive question before sunrise.
+
+“No.”
+
+Then:
+
+“Are you?”
+
+Hale laughed.
+
+It may have been the last easy moment either of them had that day.
+
+They agreed on three things.
+
+The election would proceed.
+
+Civilian control of strategic forces had to remain intact.
+
+Neither of them would resign.
+
+This sounds simple.
+
+It was not.
+
+Because outside the bunker, people were already beginning to act on the assumption that the government had split.
+
+And once enough people act on an assumption, the distinction between assumption and event becomes difficult to maintain.
+
+@chunk 3
+
+By five-thirty in the morning, the October Attempt had become a problem of competing legitimacy.
+
+The National Continuity Group controlled pieces of the communications system.
+
+President Hale controlled the presidency.
+
+Anna Roosevelt controlled almost nothing, but enough people thought she might control something that this became important.
+
+Congress had not been dissolved.
+
+The courts had not been closed.
+
+Most military commands had not taken sides.
+
+This was not a clean seizure of power.
+
+It was an argument conducted through access lists, authentication codes, motor pools, secure telephones, and people asking who had authorized the person asking them to do something.
+
+At five-forty-two, Anna ordered her staff to contact the Speaker of the House and the Chief Justice.
+
+This was constitutionally sensible.
+
+It was also leaked within minutes.
+
+The resulting headline on one network read:
+
+ROOSEVELT SEEKS SUCCESSION CONSULTATIONS.
+
+She was not.
+
+At six-oh-three, Anna issued another statement.
+
+“No succession process is underway.”
+
+This caused several commentators to ask why she was discussing succession at all.
+
+Anna later described this period as “an education in the limits of clarification.”
+
+That is generous.
+
+At six-twenty, Hale managed to get a second recording out from the secure site where he was being held.
+
+This one was shorter.
+
+“The President of the United States has not transferred authority. No emergency body has constitutional power to postpone the election. Federal officers should obey lawful civilian command.”
+
+The phrase lawful civilian command immediately became the center of the crisis.
+
+The Group claimed it was acting under emergency continuity authority delegated by civilian officials.
+
+Hale said those officials had no authority to delegate what they were delegating.
+
+Anna agreed with Hale.
+
+She then attempted to prove this by ordering a formal legal review through the executive emergency process.
+
+This was exactly the process the Group was using to justify itself.
+
+For roughly thirty minutes, both sides cited the same emergency framework against each other.
+
+The White House legal office produced one interpretation.
+
+The continuity lawyers produced another.
+
+Congressional counsel produced a third.
+
+By breakfast, constitutional law had become an operational weapon.
+
+The military wanted none of this.
+
+Several senior commanders issued statements affirming civilian control without identifying which civilians they meant.
+
+One Pacific commander ordered all strategic forces in his area to maintain existing posture until the chain of command was clarified.
+
+Another refused a request from the Group to redirect a communications aircraft.
+
+A third complied with a logistics order and then publicly stated that compliance did not imply recognition of emergency authority.
+
+This was not cowardice.
+
+It was an attempt to avoid becoming the institution that decided who governed the country.
+
+The memory of Seventy-Two was impossible to miss.
+
+American officers had spent six years studying Liu Jian.
+
+They had also spent six years insisting they would never need to make his decision.
+
+By seven, some of them were beginning to understand that history rarely asks permission before repeating a question in another language.
+
+Anna tried to help.
+
+At seven-twelve, she called three regional military commanders directly.
+
+This was a mistake.
+
+Not because she asked them to support the Group.
+
+She did not.
+
+She asked them to follow the Constitution.
+
+The problem was that a Vice President personally calling generals during a disputed succession crisis looked exactly like a Vice President personally building a command network.
+
+One of the calls was recorded.
+
+Another was summarized inaccurately.
+
+A third was leaked before it ended.
+
+For the next hour, rumors spread that Anna Roosevelt was preparing to assume emergency authority over the armed forces.
+
+She was not.
+
+At seven-fifty-eight, Hale sent her a message through an aide.
+
+It contained six words.
+
+“Anna. Please stop helping for ten minutes.”
+
+She did.
+
+This may have been one of the most effective decisions of the morning.
+
+@chunk 4
+
+The Attempt began to fail shortly after eight.
+
+Not because the Group surrendered.
+
+Because the number of institutions willing to treat its authority as temporary began to exceed the number willing to treat it as binding.
+
+The first major break came from the Treasury Department.
+
+At eight-oh-six, the Secretary of the Treasury ordered federal payment systems to continue recognizing only appropriations and signatures issued through the ordinary civilian chain.
+
+This sounds less dramatic than troops in the streets.
+
+It was not.
+
+The Group could secure buildings.
+
+It could restrict communications.
+
+It could not easily run a government that could not move money.
+
+At eight-twenty-one, the Speaker of the House announced that Congress would convene in emergency session at ten.
+
+At eight-thirty-four, the Chief Justice issued a statement saying that no provision of the Constitution authorized postponement of a presidential election by executive emergency order.
+
+At eight-forty-two, two federal appellate courts opened extraordinary proceedings.
+
+At nine-oh-three, the first major military command publicly rejected the Group's authority to alter strategic-force control.
+
+The statement did not mention Hale.
+
+It did not mention Roosevelt.
+
+It said only:
+
+“Existing constitutional command relationships remain in force.”
+
+That was enough.
+
+Other commands followed.
+
+The National Continuity Group had assumed that if it moved quickly enough, everyone else would prefer temporary order to dangerous uncertainty.
+
+This had been a reasonable assumption in many earlier crises.
+
+It was proving less reasonable in a country that had spent six years watching what happened when institutions asked who had the right to give an order.
+
+By nine-thirty, the October Attempt was no longer expanding.
+
+It was contracting.
+
+That did not make it harmless.
+
+Several officials remained detained.
+
+The President was still not free to leave his secure site.
+
+Parts of the federal communications system were still under contested control.
+
+And nobody knew whether General Nathaniel Voss, the senior military officer most closely associated with the Group, intended to escalate.
+
+Nathaniel Voss had been born in nineteen ninety-eight in Omaha, Nebraska.
+
+He was eighty years old.
+
+Too young to have served in the World War.
+
+His father had fought in Europe.
+
+His older sister had been killed in the Hamburg strike.
+
+Voss had spent most of his career inside the postwar security establishment.
+
+He was not a theatrical man.
+
+No medals worn unnecessarily.
+
+No speeches about destiny.
+
+No apparent desire to become president.
+
+His argument was simpler.
+
+The United States had spent a decade retreating from commitments, losing allies, reducing strategic forces, and allowing domestic politics to interfere with what he considered basic national survival.
+
+He believed the election could still happen.
+
+Just not yet.
+
+Ninety days.
+
+That was the number.
+
+Ninety days to review foreign interference.
+
+Ninety days to stabilize strategic command.
+
+Ninety days to reverse several planned withdrawals.
+
+Then politics could resume.
+
+This was the most dangerous thing about the October Attempt.
+
+Its organizers had given themselves an ending.
+
+They believed that made what they were doing temporary.
+
+At ten-seventeen, Hale was finally given an unrestricted line to Congress.
+
+He spoke for four minutes.
+
+The sentence remembered afterward was the one he had already used before dawn:
+
+“The election will occur on November fifth.”
+
+But the line that mattered more that morning came later.
+
+“A republic cannot preserve constitutional government by suspending constitutional government until conditions improve.”
+
+Miriam Calder heard the speech from a campaign office in Philadelphia.
+
+At the start of the day, she had been the opposition candidate most analysts expected to lose.
+
+By lunch, that expectation was collapsing.
+
+Her campaign cancelled its scheduled economic speech.
+
+At eleven-forty, Calder appeared before reporters.
+
+She did not attack Hale.
+
+That surprised people.
+
+Instead, she said:
+
+“A republic cannot defend itself by suspending the thing it is defending.”
+
+The line spread immediately.
+
+Within hours, it was being quoted alongside Hale's.
+
+For the first time in the campaign, the President and the woman trying to replace him were saying essentially the same thing.
+
+The National Continuity Group had intended to postpone an election.
+
+Instead, it had just given the election a subject.
+
+@chunk 5
+
+The October Attempt collapsed before sunset.
+
+Not all at once.
+
+At eleven-fifty-two, the National Continuity Group lost control of the federal communications hub it had been using to route emergency orders.
+
+At twelve-oh-seven, the first detained cabinet official was released.
+
+At twelve-thirty-one, General Nathaniel Voss ordered units under his direct authority to stand down from further emergency actions pending legal review.
+
+At one-oh-four, Voss was informed that several regional commands had rejected further instructions from the Group.
+
+At one-seventeen, Congress formally declared the emergency transfer of authority unconstitutional.
+
+At one-forty-three, the Supreme Court issued an emergency order requiring the release of detained civilian officials.
+
+At two-sixteen, the security detail at Hale's facility informed him that he was free to leave.
+
+Hale asked whether this was now a recommendation.
+
+Nobody laughed.
+
+At three-oh-two, he returned to Washington.
+
+Anna Roosevelt left the continuity bunker shortly afterward.
+
+Her staff had prepared a statement.
+
+She read it.
+
+Then she refused to give it.
+
+This was probably wise.
+
+By four, the October Attempt was effectively over.
+
+It had lasted less than thirteen hours.
+
+This fact later became comforting.
+
+It should not have.
+
+Later accounts linger on Roosevelt because she is memorable.
+
+A bunker.
+
+A bad statement.
+
+A worse clarification.
+
+A President asking her to stop helping for ten minutes.
+
+Those details are funny.
+
+The event was not.
+
+Senior officials used emergency authorities to detain civilians, seize communications, interfere with military command, and attempt to postpone a presidential election.
+
+The United States had spent almost three centuries assuming that this was the sort of thing that happened somewhere else.
+
+On October seventeenth, twenty seventy-eight, it happened there.
+
+Miriam Calder said essentially the same thing that evening.
+
+She stood outside her campaign headquarters in Philadelphia and spoke for less than five minutes.
+
+Most of the speech has been forgotten.
+
+One line has not.
+
+“We should not congratulate ourselves because the republic survived a coup attempt.”
+
+Then:
+
+“We should ask why a coup attempt became possible.”
+
+That question changed the election.
+
+Until that morning, Calder had been the opposition candidate most analysts expected to lose.
+
+By the next day, polling had moved sharply.
+
+By the end of the week, the assumption that Hale would win reelection had disappeared.
+
+Not because voters blamed him for resisting the Attempt.
+
+They did not.
+
+His approval rating rose.
+
+That was the strange part.
+
+The country admired what Hale had done.
+
+It was becoming less certain that admiration was a reason to give him another term.
+
+@chunk 6
+
+Hale reached the same conclusion before most of his advisers did.
+
+On October twenty-second, five days after the Attempt, he addressed the country from the White House.
+
+He described the events of October seventeenth as an attempted unconstitutional transfer of authority.
+
+He praised the military officers, civil servants, judges, legislators, and ordinary federal employees who had refused unlawful orders.
+
+He defended Anna Roosevelt.
+
+He did not defend himself.
+
+Near the end of the speech, Hale said:
+
+“I stopped it after it began.”
+
+Then:
+
+“I did not stop it from becoming possible.”
+
+The line produced several seconds of silence in the room.
+
+He continued.
+
+“The men who tried to postpone the election are responsible for what they did. I am responsible for a government in which they were able to try.”
+
+Hale then announced that he would not seek reelection.
+
+This was not expected.
+
+For approximately forty minutes, Anna Roosevelt became the presumptive nominee of the governing party.
+
+This was the high point of her presidential prospects.
+
+The party leadership met that evening.
+
+Roosevelt had experience.
+
+Name recognition.
+
+A national organization.
+
+The vice presidency.
+
+Under ordinary circumstances, those things would have been enough.
+
+These were not ordinary circumstances.
+
+The Attempt had made continuity itself politically suspect.
+
+And Anna had spent thirteen hours demonstrating, with unusual thoroughness, that procedural competence did not necessarily translate into crisis leadership.
+
+She was not blamed for the coup.
+
+She was not accused of disloyalty.
+
+Nobody seriously suggested she had cooperated with the National Continuity Group.
+
+They simply decided not to nominate her.
+
+The party chose someone else.
+
+This was, politically, the end of the Roosevelt dynasty.
+
+There were still Roosevelts.
+
+There are still Roosevelts now.
+
+But after Anna, none would again hold national office of comparable importance.
+
+The family that had spent more than a century appearing whenever American institutions needed rebuilding ended its political history with a Vice President who had tried very hard to preserve those institutions and discovered that the country wanted something else.
+
+Anna accepted the decision publicly.
+
+Privately, she was less gracious.
+
+We know this because several people wrote it down.
+
+I am inclined to forgive her.
+
+Miriam Calder now faced Governor David Mercer, the replacement nominee, with five weeks to campaign.
+
+She also faced a country that had spent most of the decade arguing about American decline and had suddenly discovered that the more immediate question was American government.
+
+Calder did not campaign primarily against the men who had organized the Attempt.
+
+They were being arrested.
+
+She campaigned against the conditions that had made their argument plausible.
+
+Permanent emergency authorities.
+
+Unreviewed continuity powers.
+
+Military commitments Congress could neither sustain nor end.
+
+A security establishment whose responsibilities had expanded faster than its accountability.
+
+And a political culture that had increasingly treated retreat from any commitment as evidence of national failure.
+
+Her argument was not that the United States had become too weak.
+
+It was that the country had confused strength with the inability to stop doing things.
+
+On November fifth, twenty seventy-eight, the election occurred.
+
+Hale voted.
+
+Anna Roosevelt voted.
+
+Nathaniel Voss voted from federal custody.
+
+Miriam Calder won.
+
+Not narrowly.
+
+The next episode is about what she did with the victory.
+
+And about how a country that had spent decades measuring its strength by how much of the world it could hold finally began deciding what it was willing to let go.
+
+Thanks for listening.

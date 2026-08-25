@@ -103,6 +103,22 @@
       "book_number": 9,
       "in_universe_episode": 1,
       "title": "It Was Raining"
+    },
+    "episode_14_the_tanks_stop.mp3": {
+      "pub_date": "2026-08-25T02:23:30+00:00",
+      "guid": "catastrophes:episode_14_the_tanks_stop",
+      "production_episode": 14,
+      "book_number": 9,
+      "in_universe_episode": 6,
+      "title": "The Tanks Stop"
+    },
+    "episode_15_the_october_attempt.mp3": {
+      "pub_date": "2026-08-25T03:31:31+00:00",
+      "guid": "catastrophes:episode_15_the_october_attempt",
+      "production_episode": 15,
+      "book_number": 10,
+      "in_universe_episode": 8,
+      "title": "The October Attempt"
     }
   }
 }

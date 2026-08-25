@@ -1,0 +1,19 @@
+{
+  "production_episode": 14,
+  "book_number": 9,
+  "in_universe_episode": 6,
+  "title": "The Tanks Stop",
+  "chunk": 5,
+  "generated_utc": "2026-08-25T02:21:20.131979+00:00",
+  "provider": "ElevenLabs",
+  "voice_id": "qSeXEcewz7tA0Q0qk9fH",
+  "model_id": "eleven_v3",
+  "output_format": "mp3_44100_128",
+  "character_count": 3693,
+  "estimated_api_cost_usd": 0.3693,
+  "seed": 12345,
+  "source_episode_file": "episode14.txt",
+  "source_text_sha256": "c4163c962c09b9b6e601700ad282f7dff846e0314552316210d149ce31e42ee0",
+  "audio_sha256": "2a95298ab90f02515e82747174ea75eb6843756f69d04af5163a0807d6ae35de",
+  "request_id": "hQvAHsfAZXmc7iUN1Hfo"
+}
