@@ -1,0 +1,19 @@
+{
+  "production_episode": 13,
+  "book_number": 9,
+  "in_universe_episode": 1,
+  "title": "It Was Raining",
+  "chunk": 2,
+  "generated_utc": "2026-08-25T01:44:31.960149+00:00",
+  "provider": "ElevenLabs",
+  "voice_id": "qSeXEcewz7tA0Q0qk9fH",
+  "model_id": "eleven_v3",
+  "output_format": "mp3_44100_128",
+  "character_count": 3331,
+  "estimated_api_cost_usd": 0.3331,
+  "seed": 12345,
+  "source_episode_file": "episode13.txt",
+  "source_text_sha256": "595a8919dc86d8592644cbe00928f258961383a043dc042116819c877c06e61c",
+  "audio_sha256": "4dc050b27e280c738e61d15011a0f648f2e74668fc43acdb3ee4095bc79f8226",
+  "request_id": "j4W7kgb2yUXoxLerYUUP"
+}

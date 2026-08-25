@@ -1,0 +1,674 @@
+@production 12
+@book 8
+@episode 9
+@title The Second Shanghai Crisis
+
+@chunk 1
+
+Book Eight, Episode Nine: The Second Shanghai Crisis.
+
+It is now twenty sixty-five.
+
+The World War has been over for twenty-three years.
+
+Depending on which date you use.
+
+We have already had that argument.
+
+By twenty sixty-five, atomic weapons were no longer new.
+
+That may be the most important thing to understand about the Second Shanghai Crisis.
+
+The people making decisions that week had grown up with them.
+
+The shelters were old.
+
+The warning systems had been upgraded twice.
+
+Missile submarines had crews whose parents had served on missile submarines.
+
+Strategic doctrine had acronyms, graduate programs, professional journals, and arguments sufficiently specialized that intelligent people could spend entire careers disagreeing about the meaning of one sentence in a targeting policy.
+
+This was not the frightened improvisation of twenty forty.
+
+It was a system.
+
+The United States and China possessed the largest arsenals.
+
+Russia retained a smaller one.
+
+India had one.
+
+Several European states participated in shared arrangements that everyone insisted were not quite the same thing.
+
+There were treaties limiting numbers.
+
+There were inspection regimes.
+
+There were hotlines.
+
+There were launch notifications.
+
+There were procedures for distinguishing an exercise from an attack.
+
+There were procedures for what to do when those procedures failed.
+
+Most of the time, they worked.
+
+That was the problem with studying the Second Shanghai Crisis afterward.
+
+Almost every individual part of the system performed approximately as designed.
+
+On October fourteenth, twenty sixty-five, China launched a rocket from Hainan.
+
+The launch had been announced.
+
+The notification had been filed through the usual channels.
+
+The payload was a weather satellite.
+
+This was all true.
+
+At almost the same time, the People's Liberation Army Navy began a previously scheduled exercise in the northern South China Sea.
+
+Chinese strategic missile forces also entered a routine communications test.
+
+An American early-warning satellite failed.
+
+These events were unrelated.
+
+For approximately six hours, almost nobody knew that.
+
+The failed satellite removed one of the systems Washington used to confirm the trajectory of Chinese launches.
+
+The naval exercise increased encrypted military traffic.
+
+The missile communications test produced a pattern American analysts associated with elevated readiness.
+
+And the Hainan rocket appeared in the surviving warning network without the independent confirmation that normally made an announced launch boring.
+
+No single observation indicated attack.
+
+Together, they looked like preparation.
+
+The United States raised the readiness of several Pacific commands.
+
+Not to attack China.
+
+To make sure China could not exploit a temporary gap in American warning coverage.
+
+Chinese surveillance systems detected the readiness change.
+
+Beijing raised its own readiness.
+
+Not to attack the United States.
+
+To make sure the United States could not exploit a moment of Chinese vulnerability.
+
+By late afternoon, both governments were taking defensive measures against defensive measures taken in response to defensive measures.
+
+Nobody had lied.
+
+Nobody had panicked.
+
+Nobody had yet made an obvious mistake.
+
+This is where the story becomes unpleasant.
+
+@chunk 2
+
+The first American assessment reached the White House shortly after four in the afternoon.
+
+It was cautious.
+
+That mattered.
+
+The analysts did not say China was preparing an attack.
+
+They said the pattern was consistent with preparations that would be expected before one.
+
+Those are not the same sentence.
+
+They can produce similar decisions.
+
+The President authorized a limited readiness increase.
+
+Pacific air-defense units were dispersed.
+
+Several submarines changed patrol areas.
+
+Long-range aircraft were moved away from bases considered vulnerable to a first strike.
+
+A small number of strategic bombers were placed on alert.
+
+None of these actions crossed the formal threshold for general mobilization.
+
+That was intentional.
+
+The entire point was to increase survivability without signaling offensive intent.
+
+Chinese intelligence saw the dispersals.
+
+It did not see the sentence explaining them.
+
+Beijing's first assumption was that the United States was protecting its forces because it expected those forces to be needed.
+
+Chinese missile units were ordered to increase mobility.
+
+Command aircraft were prepared.
+
+Senior officials moved into hardened facilities.
+
+The American warning system saw those movements too.
+
+There is a temptation, when describing crises like this, to identify the first mistake.
+
+Historians have tried.
+
+Was it the failed satellite?
+
+The Chinese communications test?
+
+The American dispersal order?
+
+The decision to move Chinese missile units?
+
+The answer is unsatisfying.
+
+Most of those decisions were reasonable.
+
+That is why the crisis is important.
+
+By six-thirty, the United States had evidence that Chinese strategic forces were moving.
+
+China had evidence that American strategic forces were dispersing.
+
+Both governments knew the other side could see at least some of what they were doing.
+
+That made stopping harder.
+
+If Washington reversed its alert while Chinese missiles were still moving, it risked creating vulnerability.
+
+If Beijing stopped moving missiles while American aircraft remained dispersed, it risked doing the same.
+
+The problem was no longer simply what either side believed.
+
+It was what each side believed the other side would infer from changing course.
+
+At seven-twelve, an American Pacific command requested permission to move additional aircraft out of Shanghai-range bases.
+
+Permission was granted.
+
+At seven-forty, Chinese coastal air defenses shifted to wartime tracking procedures.
+
+At eight-oh-three, an American submarine commander received orders to move farther from the Chinese coast.
+
+At eight-seventeen, Chinese naval forces interpreted that movement as possible preparation for a missile-launch corridor.
+
+None of these actions was an attack.
+
+Every one of them made an attack easier to imagine.
+
+The old Bush review procedures were still part of the American system.
+
+By twenty sixty-five, almost nobody called them that formally.
+
+But the requirement remained: when several agencies appeared to be describing the same crisis, someone had to ask whether they were actually describing one event or several unrelated ones.
+
+That question was asked.
+
+It was not answered quickly enough.
+
+@chunk 3
+
+Colonel Chen Lihua was not supposed to be the person who stopped the crisis.
+
+That is usually how these stories work.
+
+Chen was an aerospace liaison officer assigned to the Strategic Assessment Bureau in Beijing.
+
+Her job was mostly procedural.
+
+Launch notifications.
+
+Telemetry review.
+
+Coordination between civilian space agencies and military warning commands.
+
+The sort of work that becomes very important only after something has gone wrong.
+
+At eight-forty-six that evening, Chen was reviewing the American alert changes when she asked to see the original Hainan launch packet.
+
+Not the intelligence summary.
+
+Not the readiness assessment.
+
+The launch packet.
+
+There was some resistance.
+
+The packet had already been reviewed.
+
+The launch had already been incorporated into the strategic picture.
+
+Chen asked again.
+
+The document was eventually brought up on a secondary terminal.
+
+She recognized the mission number.
+
+She had signed part of the clearance.
+
+The Hainan rocket was carrying a weather satellite.
+
+Not a reconnaissance platform.
+
+Not a decoy.
+
+Not an orbital weapons package.
+
+A weather satellite.
+
+Chen later described the moment as less dramatic than people wanted it to be.
+
+She did not stand up.
+
+She did not shout.
+
+She checked the number twice.
+
+Then she asked why the launch notification had not been matched to the readiness assessment.
+
+The answer took several minutes.
+
+The civilian launch registry and the strategic warning network had been operating on separate emergency data systems since the satellite failure.
+
+The notification existed.
+
+The warning existed.
+
+They had not met.
+
+Chen then asked about the naval exercise.
+
+Scheduled.
+
+The missile communications test.
+
+Scheduled.
+
+The American satellite failure.
+
+Confirmed accidental.
+
+One by one, the pieces began to separate.
+
+This did not make the crisis disappear.
+
+American aircraft were still dispersed.
+
+Chinese missile units were still moving.
+
+Submarines were still changing patrol areas.
+
+Commanders still had orders written for a situation that had not existed when those orders were issued.
+
+But the original pattern had changed.
+
+Chen later wrote one sentence that appears in almost every history of the crisis:
+
+“So far, everybody had been right.”
+
+She did not mean correct.
+
+She meant rational.
+
+The Chinese launch was real.
+
+The American warning gap was real.
+
+The readiness changes were real.
+
+The Chinese response to those changes was real.
+
+No fabricated intelligence had been introduced.
+
+No rogue commander had invented an attack.
+
+No computer had hallucinated one.
+
+The danger came from accurate information being assembled into the wrong story.
+
+That was the part people found difficult to accept afterward.
+
+Systems are easier to repair when something breaks.
+
+Shanghai was a system in which almost nothing had.
+
+@chunk 4
+
+Chen's report reached the Chinese crisis staff shortly after nine-thirty.
+
+By then, the problem was no longer proving that the original pattern had been misleading.
+
+The problem was getting two governments to believe that fact at the same time.
+
+China could not simply return its missile forces to normal readiness.
+
+Not while American aircraft remained dispersed.
+
+The United States could not simply recall those aircraft.
+
+Not while Chinese missile units were still moving.
+
+Each side now possessed evidence that the other was escalating.
+
+The fact that both had begun for defensive reasons did not make the evidence disappear.
+
+This was where the old crisis machinery mattered.
+
+The emergency hotline between Beijing and Washington had been established after the World War and revised repeatedly over the next two decades.
+
+It had redundant circuits.
+
+Independent authentication.
+
+Separate civilian and military channels.
+
+And, after a series of reforms in the twenty fifties, a requirement that each government transmit not merely what it intended to do next, but what observable action the other side should expect to see if that statement were true.
+
+This sounds bureaucratic.
+
+It was.
+
+It was also useful.
+
+At ten-oh-seven, Beijing informed Washington that selected missile units would stop moving.
+
+Not return to their bases.
+
+Stop moving.
+
+American surveillance would be able to confirm that.
+
+Washington replied that no additional strategic aircraft would disperse from Pacific bases for the next ninety minutes.
+
+China could observe that too.
+
+Neither side was being asked for trust.
+
+They were being asked to make a small claim that the other could verify.
+
+Then another.
+
+Then another.
+
+It took hours.
+
+A Chinese missile brigade halted beside a highway outside Nanjing.
+
+Three American bombers remained on the ground at Guam.
+
+A command aircraft returned to Beijing.
+
+Two American submarines received orders to hold position.
+
+Chinese air defenses reduced their tracking status one region at a time.
+
+The crisis did not end with a speech.
+
+It became smaller.
+
+At eleven-fifty-two, American analysts confirmed that the first Chinese missile units had stopped moving.
+
+At twelve-nineteen, Beijing confirmed that no additional American bomber dispersals had occurred.
+
+At one-fourteen in the morning, the United States lowered the readiness of several Pacific commands.
+
+China followed thirty-eight minutes later.
+
+By dawn, neither government believed an attack was imminent.
+
+That is usually given as the end of the Second Shanghai Crisis.
+
+There are people who prefer six-forty the following morning, when the first American aircraft returned to its normal base.
+
+Others prefer nine-twelve, when China's strategic command formally cancelled its emergency order.
+
+I have less sympathy for this argument than I do for the one about when the World War ended.
+
+The important point is that, sometime before breakfast, two governments stopped preparing for a war neither had intended to begin.
+
+And then both of them tried very hard to make sure nobody learned how close they had come.
+
+@chunk 5
+
+The public explanation was technical.
+
+An early-warning satellite had failed.
+
+Several military exercises had overlapped.
+
+Readiness procedures had produced unnecessary concern.
+
+The systems had worked.
+
+There would be a review.
+
+Most of that was true.
+
+Almost none of it conveyed what had happened.
+
+The classified investigations were less comforting.
+
+The American review found that every major readiness decision had been supported by information available at the time.
+
+The Chinese review reached essentially the same conclusion.
+
+No one had fabricated evidence.
+
+No commander had exceeded authority.
+
+No warning system had independently produced a false attack.
+
+The crisis had emerged from the interaction between correct procedures.
+
+This was not an unfamiliar idea.
+
+It had simply been a long time since anyone had needed it this badly.
+
+One of the congressional hearings included a first-term senator from New York named Anna Roosevelt.
+
+The name attracted more attention than the question she asked.
+
+“If every office followed procedure, who was responsible for noticing that the procedures were interacting?”
+
+The witness did not have an answer.
+
+One of the investigators on the American side requested a Bush review.
+
+George H. W. Bush had been dead for years by then, but his name still survived in the procedure.
+
+As a reminder, the idea was simple: take the reports apart, put the original observations back on the table, and separate what the evidence actually said from what institutions had inferred from one another.
+
+The resulting diagram became famous later.
+
+A rocket launch.
+
+A satellite failure.
+
+A naval exercise.
+
+An American readiness increase.
+
+A Chinese readiness increase.
+
+Another American readiness increase.
+
+Another Chinese response.
+
+Arrows connected each box.
+
+None of the arrows pointed to an original decision to attack.
+
+That was difficult to explain politically.
+
+It was also the most important finding.
+
+The investigations remained secret.
+
+The diagram did not.
+
+A copy reached the economist Lin Meiyu several years later.
+
+Lin had been born in Shanghai in twenty thirty-two, the year before the World War began. Her family left the city during the early fighting and returned after the peace.
+
+She studied economics at Fudan and later at Peking University, specializing first in reconstruction finance and then in the economics of national security.
+
+By the twenty sixties, Lin had spent much of her career studying defense expenditure, trade disruption, and the strange economic behavior of states that believed they were becoming more secure.
+
+She looked at the Shanghai diagram and recognized something older.
+
+The problem was not irrationality.
+
+The problem was that rational behavior inside one part of the system could make rational behavior inside another part more dangerous.
+
+Her book, published in twenty seventy under the title The Security Trap, did not begin with Shanghai.
+
+It began with a bank run.
+
+That choice irritated several reviewers.
+
+Lin's point was that the mechanism was the same.
+
+A depositor who believed a bank might fail was rational to withdraw money.
+
+Enough rational withdrawals made the bank fail.
+
+A government that believed an adversary might strike was rational to make its forces harder to destroy.
+
+Enough rational preparations made the adversary believe a strike was coming.
+
+Lin wrote:
+
+“Security pursued independently becomes insecurity produced collectively.”
+
+The sentence became famous.
+
+The government disliked the book considerably more than it disliked the sentence.
+
+Because Lin's argument did not stop with nuclear doctrine.
+
+If the security trap was real, then the question was not simply whether Chinese leaders had made good decisions during Shanghai.
+
+It was whether the political system allowed anyone to discover when individually good decisions were combining into something catastrophic.
+
+That was a much less comfortable question.
+
+By twenty seventy-one, university seminars were assigning the book.
+
+By twenty seventy-two, students were carrying quotations from it into the streets.
+
+We will get there.
+
+First, we need to talk about what the Chinese government did when people began asking why nobody had been told how close Shanghai came.
+
+@chunk 6
+
+The first public references to the Shanghai records appeared in twenty seventy-one.
+
+Not the full files.
+
+A memorandum.
+
+Then part of the American review.
+
+Then a Chinese readiness log whose authenticity the government initially refused to confirm.
+
+The leaks were incomplete enough that almost every faction could use them.
+
+Hardliners argued that Shanghai proved how quickly the United States could move toward war.
+
+Reformers argued that it proved how dangerous secrecy had become.
+
+Military officials complained that civilians did not understand readiness procedures.
+
+Civilian officials replied that this was precisely why the procedures required explanation.
+
+Lin Meiyu became increasingly difficult for the government to ignore.
+
+The Security Trap had already been popular in universities.
+
+Now journalists were asking her to explain Shanghai.
+
+She kept giving the same answer.
+
+There had been no single villain.
+
+This was not reassuring.
+
+It was much easier to punish a bad commander than to admit that competent institutions had nearly produced a catastrophe together.
+
+By early twenty seventy-two, copies of the Shanghai diagram were circulating on university campuses.
+
+Students drew it on classroom boards.
+
+Newspapers printed simplified versions.
+
+Someone at Peking University replaced the arrows with a single phrase:
+
+SECURITY WITHOUT FEAR.
+
+Nobody seems to know who did that first.
+
+By March, the phrase was appearing on posters.
+
+By April, it was on walls.
+
+The government ordered several publications to stop reproducing classified material.
+
+Editors complied.
+
+Students copied it by hand.
+
+Lin was detained for questioning in May.
+
+She was released two days later.
+
+Then detained again in June.
+
+The second time, she did not come home.
+
+That was when the demonstrations stopped being mostly about Shanghai.
+
+This is important.
+
+Revolutions are often remembered by the issue that finally fills the square.
+
+They usually begin with something smaller.
+
+A document.
+
+An arrest.
+
+A question the government has answered too many times without actually answering.
+
+The Shanghai Crisis had occurred seven years earlier.
+
+The missiles had returned to their bases.
+
+The bombers had gone home.
+
+Nobody had died.
+
+For years, that had been presented as evidence that the security system worked.
+
+Now a generation of Chinese students was asking a different question.
+
+If the system had worked, why had they been forbidden to know how close it came to failing?
+
+The next episode is about the government's answer.
+
+And about what happened when that answer reached Peking University.
+
+Thanks for listening.

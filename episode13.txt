@@ -1,0 +1,772 @@
+@production 13
+@book 9
+@episode 1
+@title It Was Raining
+
+@chunk 1
+
+Book Nine, Episode One: It Was Raining.
+
+It is June, twenty seventy-two.
+
+Seven years have passed since the Second Shanghai Crisis.
+
+Thirty years have passed since the World War ended.
+
+More or less.
+
+And over the last several episodes, the argument that began with Shanghai has become something larger.
+
+Lin Meiyu was arrested.
+
+The records continued to leak.
+
+Students demonstrated.
+
+Professors signed petitions.
+
+Journalists published questions their editors had been instructed not to print.
+
+Workers began attending university meetings.
+
+Veterans began attending them too.
+
+The government alternated between concessions, arrests, investigations, and statements explaining that the situation was under control.
+
+It was not under control.
+
+By June, demonstrations had spread well beyond Beijing.
+
+There were marches in Shanghai, Nanjing, Guangzhou, Chengdu, Wuhan, and dozens of smaller cities.
+
+Some demanded Lin's release.
+
+Some demanded publication of the Shanghai records.
+
+Some demanded independent newspapers.
+
+Some demanded elections.
+
+Some demanded that the government resign.
+
+Many demanded several contradictory things at once.
+
+This is normal.
+
+Revolutions are tidier afterward.
+
+The phrase SECURITY WITHOUT FEAR had become almost impossible to avoid.
+
+It was painted on walls.
+
+Printed on shirts.
+
+Written across bedsheets hung from university windows.
+
+People who disagreed completely about what should replace the existing system could usually agree that they wanted less fear in it.
+
+Peking University remained one of the centers of the movement.
+
+That was not historically inevitable.
+
+During the World War, the university had been one of the great institutions of national mobilization.
+
+Its engineers had worked on communications systems.
+
+Its physicians had staffed emergency hospitals.
+
+Its mathematicians had helped keep orbital and logistics networks operating while the country was being bombed.
+
+For a generation afterward, that history had been taught as evidence that expertise and patriotism were the same thing.
+
+By twenty seventy-two, students were asking whether patriotism sometimes required expertise to say no.
+
+There is a photograph from June eighth that became famous later.
+
+Students are standing in the rain outside the east gate.
+
+A banner has sagged under the water until the middle almost touches the pavement.
+
+Someone is holding an umbrella over a portable loudspeaker rather than over herself.
+
+A young man in the foreground is laughing.
+
+For years, captions identified him as one of the student organizers.
+
+He was not.
+
+He was waiting for his sister.
+
+We know this because she complained about it in an interview thirty-four years later.
+
+This is the point where I need to tell you something.
+
+I was there.
+
+Not in the photograph.
+
+I checked.
+
+I was nineteen years old, studying at Peking University, and I was somewhere behind the photographer, probably close enough to hear the loudspeaker.
+
+I do not remember the young man.
+
+I do not remember the banner.
+
+I remember the rain.
+
+And before we go any further, I need to be more careful than usual.
+
+Because memory is evidence.
+
+It is not particularly obedient evidence.
+
+@chunk 2
+
+I remember the rain beginning before lunch.
+
+The meteorological record says it began at one-seventeen in the afternoon.
+
+So that is already a problem.
+
+I remember being wet before then.
+
+Maybe I am remembering another day.
+
+Maybe I had spilled something on myself.
+
+Maybe the weather station was somewhere else in Beijing and the rain reached the campus first.
+
+Or maybe nineteen-year-old me did not check the time.
+
+This is what happens when historians become sources.
+
+We become irritating.
+
+The archival record is easier.
+
+At twelve-forty-two, the university administration announced that the afternoon assemblies would not be permitted to use the main lecture court.
+
+At one-oh-six, students began moving toward the east gate instead.
+
+At one-thirty-three, campus security closed two vehicle entrances.
+
+At one-forty-one, someone opened them again.
+
+Nobody has ever established who.
+
+At two-oh-five, the crowd was estimated at roughly nine thousand people.
+
+By three, it was probably closer to fifteen thousand.
+
+The speeches were not especially revolutionary.
+
+That is important.
+
+People remember the later slogans.
+
+They remember the calls for elections.
+
+They remember the demands that the Party surrender its monopoly.
+
+Those came later.
+
+On June eighth, much of the crowd was still asking for things the government could theoretically have granted.
+
+Release Lin Meiyu.
+
+Publish the Shanghai files.
+
+End emergency censorship.
+
+Allow independent investigation of the arrests.
+
+Guarantee that students would not be punished for attending demonstrations.
+
+There were more radical demands around the edges.
+
+There always are.
+
+But this was not yet a crowd trying to overthrow the state.
+
+It was a crowd asking the state to explain itself.
+
+Zhao Wen understood that distinction earlier than most of the government did.
+
+By twenty seventy-two, Zhao was sixty-four years old and one of the most senior figures in the national security administration.
+
+Her career had begun during the World War with rail priorities, power allocations, and emergency industrial planning.
+
+She had spent the next three decades moving steadily upward through institutions built around one assumption:
+
+security was the first responsibility of the state.
+
+Zhao still believed that.
+
+What had changed was her understanding of what counted as security.
+
+In a closed meeting on June ninth, she warned that treating the demonstrations as an external threat would eventually make them one.
+
+The surviving notes are incomplete.
+
+One sentence appears in three separate accounts.
+
+“The state exists to secure the people. The people do not exist to secure the state.”
+
+Whether Zhao said it exactly that way is disputed.
+
+She certainly expressed the idea.
+
+By the end of the month, everyone would know the sentence.
+
+At the time, most of the people in the room thought she was arguing for better crowd control.
+
+She was not.
+
+Outside, the rain continued.
+
+I remember someone passing around paper cups of tea.
+
+I remember a student standing on a concrete barrier trying to keep a cardboard sign dry under his shirt.
+
+I remember being annoyed that nobody seemed to know what we were supposed to do next.
+
+I do not remember feeling that history had begun.
+
+People almost never do.
+
+What I remember is being cold.
+
+And then somebody said we were going to Tiananmen.
+
+@chunk 3
+
+We did not march to Tiananmen all at once.
+
+That is another thing photographs tend to erase.
+
+Groups left campus at different times.
+
+Some took buses until the traffic stopped.
+
+Some walked.
+
+Some turned back.
+
+Some joined halfway.
+
+By early evening, the roads toward the center of Beijing were carrying a mixture of students, workers, office employees, veterans, curious families, and people who had simply decided they did not want to be somewhere else when something important might happen.
+
+The government had not ordered the square closed.
+
+Not yet.
+
+Police were present in large numbers, but most units had been told to manage movement, not disperse it.
+
+That distinction held longer than many people expected.
+
+By seven-thirty, tens of thousands were in and around Tiananmen.
+
+By nine, estimates range from eighty thousand to more than one hundred and twenty thousand.
+
+The number matters less than the change in composition.
+
+This was no longer a university demonstration.
+
+Factory delegations arrived carrying work-unit banners.
+
+Rail employees came in groups.
+
+Hospital staff appeared still wearing badges from their shifts.
+
+Veterans' organizations, which only a few years earlier had filled the same square demanding that China never again depend upon foreign restraint, began forming lines along the edge of the crowd.
+
+Some of them wore World War ribbons.
+
+Some carried photographs of Harbin.
+
+The government noticed that.
+
+Everyone did.
+
+For decades, Tiananmen had been used to perform national unity.
+
+During the World War, people had gathered there to mourn bombing raids and promise endurance.
+
+Now many of the same symbols were being used to ask whether endurance had become obedience.
+
+The official evening news showed almost none of this.
+
+It reported demonstrations at several universities and said discussions with student representatives were continuing.
+
+Technically true.
+
+The broadcast spent more time on flood damage in Anhui.
+
+Also technically true.
+
+At ten-twelve, a student group projected the Shanghai crisis diagram onto the side of a building facing the square.
+
+The image was enormous.
+
+A rocket launch.
+
+A failed satellite.
+
+An American alert.
+
+A Chinese alert.
+
+Arrows feeding into more arrows.
+
+Someone had added the words SECURITY WITHOUT FEAR underneath.
+
+The crowd cheered.
+
+I remember that.
+
+There is video, so I am permitted some confidence.
+
+What I remember differently is the silence afterward.
+
+For years, I was certain the square went quiet for several seconds after the cheering stopped.
+
+The recordings do not support this.
+
+There is chanting almost immediately.
+
+I have listened to them many times.
+
+I can hear it.
+
+I still remember silence.
+
+That is not especially profound.
+
+It is simply inconvenient.
+
+Inside the Great Hall of the People, the senior leadership was meeting.
+
+The disagreement was no longer about whether the demonstrations were serious.
+
+It was about what kind of seriousness they represented.
+
+One faction argued that the movement remained politically containable if the government released Lin, opened some of the Shanghai files, and allowed controlled investigations.
+
+Another argued that every concession had produced a larger demand.
+
+They were both correct.
+
+Zhao Wen argued that this was not evidence against concessions.
+
+It was evidence that the original problem had been larger than the government admitted.
+
+That did not make her popular.
+
+The meeting ended shortly after midnight without an order to clear the square.
+
+That absence would matter.
+
+At the time, it mostly meant everybody stayed wet.
+
+@chunk 4
+
+June became July.
+
+The demonstrations did not end.
+
+They changed.
+
+The government released several detainees.
+
+Lin Meiyu was not among them.
+
+A partial collection of Shanghai documents was published.
+
+The documents confirmed enough to make the withheld material more interesting.
+
+Censorship rules were relaxed for university newspapers.
+
+National newspapers discovered that the new rules did not apply to them.
+
+Every concession solved one problem and exposed the next one.
+
+This was not because the protesters had a secret plan to make compromise impossible.
+
+Most did not have a plan at all.
+
+It was because once people were allowed to ask one question in public, they discovered they had others.
+
+Why had Shanghai been hidden?
+
+Who authorized Lin's second detention?
+
+Why could local officials be removed for corruption but national officials could not?
+
+Why did the Party choose candidates for elections it then described as popular?
+
+Why were military budgets classified from legislators who were expected to approve them?
+
+Why were emergency powers still being renewed thirty years after the emergency that had created them?
+
+That last question spread quickly.
+
+It was not the loudest slogan.
+
+It may have been the most dangerous.
+
+The World War had created a Chinese state exceptionally good at mobilization.
+
+It could move power.
+
+Move food.
+
+Move armies.
+
+Move factories.
+
+Move people.
+
+It had become less practiced at explaining when movement was supposed to stop.
+
+Zhao Wen had spent her career inside that machinery.
+
+This made her dangerous to the people defending it.
+
+On July sixteenth, she submitted a memorandum arguing that several emergency authorities should be suspended immediately and returned to ordinary statutory control.
+
+The memorandum was not revolutionary.
+
+It cited existing law.
+
+It proposed committees.
+
+It recommended deadlines.
+
+This is sometimes how revolutions enter government buildings.
+
+The hardliners rejected it.
+
+Then someone leaked it.
+
+By the following afternoon, students were carrying copies through Tiananmen.
+
+One passage was underlined repeatedly:
+
+“An emergency authority that cannot describe the conditions for its own termination is not temporary authority.”
+
+Zhao had spent decades speaking like an administrator.
+
+The streets had learned how to hear politics in it.
+
+I remember reading the memorandum sitting on the pavement with three other students.
+
+I remember thinking the language was boring.
+
+This is embarrassing, given what I do for a living now.
+
+One of the students beside me said, “She is saying they have to give the power back.”
+
+I remember replying, “Then why doesn't she just say that?”
+
+Apparently I was very sophisticated at nineteen.
+
+By then, the demonstrations had spread into provincial capitals and industrial cities across the country.
+
+Worker committees were beginning to coordinate with student groups.
+
+Veterans were issuing statements asking the military not to be used for internal political disputes.
+
+Several provincial Party organizations openly requested negotiations.
+
+And for the first time, senior military officers began asking what would happen if they received an order to clear the square.
+
+This is where Liu Jian returns to the story.
+
+In twenty forty, Liu had been thirty-three years old, standing beside a field radio north of Qiqihar when Harbin disappeared from the communications map.
+
+In twenty seventy-two, he was sixty-five and one of the most respected officers in the People's Liberation Army.
+
+He had spent thirty-two years remembering what happened when governments decided that endurance itself was a strategy.
+
+He had not yet been ordered to move against the demonstrations.
+
+But people had begun asking him what he would do if he was.
+
+He did not answer.
+
+Not yet.
+
+@chunk 5
+
+By August, the demonstrations had become a national political crisis.
+
+That phrase is useful because it sounds more organized than the reality was.
+
+There was still no single opposition leadership.
+
+No unified platform.
+
+No agreed timetable.
+
+Student committees argued with worker committees.
+
+Worker committees argued with lawyers.
+
+Lawyers argued with everyone.
+
+Provincial reformers wanted negotiations.
+
+Some student groups wanted immediate elections.
+
+Others wanted only Lin's release and an end to emergency law.
+
+A growing minority wanted the Party's monopoly ended entirely.
+
+The government faced a movement that was becoming larger at the same moment it was becoming less coherent.
+
+This made repression harder.
+
+It also made negotiation harder.
+
+Zhao Wen continued pressing for what she called constitutional normalization.
+
+She still refused the language of revolution.
+
+That was deliberate.
+
+In public, she described the crisis as a failure of emergency government to return authority to ordinary institutions.
+
+In private, she was becoming more direct.
+
+A meeting record from August third quotes one hardline official asking whether she understood what would happen if the government admitted that the protesters had legitimate grievances.
+
+Zhao answered:
+
+“Yes.”
+
+There is a pause in the transcript.
+
+Then:
+
+“We would have to address them.”
+
+This was not considered helpful.
+
+The hardliners had begun organizing around what would eventually become the National Emergency Committee.
+
+They argued that foreign governments were exploiting the demonstrations.
+
+There was evidence for some foreign involvement.
+
+Money moved.
+
+Foreign broadcasters encouraged the protests.
+
+Intelligence services tried to establish contacts.
+
+This was real.
+
+It was also not an explanation for why millions of Chinese citizens were angry.
+
+The distinction became increasingly difficult for the government to maintain.
+
+On August nineteenth, the state television network broadcast a documentary about the World War.
+
+The programming decision had been made weeks earlier.
+
+The episode focused on the mobilization of Beijing in twenty forty.
+
+Peking University laboratories.
+
+Hospital volunteers.
+
+Factory shifts.
+
+Tiananmen filled with mourners after Harbin.
+
+And, briefly, a young Zhao Wen standing beside an emergency power map.
+
+The intention was obvious.
+
+Remind the country what unity had accomplished.
+
+The effect was not.
+
+Students watched footage of people their own age being told that survival required sacrifice.
+
+Veterans watched footage of themselves.
+
+Families saw relatives who had never come home.
+
+The next morning, someone painted a sentence across a wall near Peking University:
+
+WE REMEMBER WHY YOU NEEDED THE POWER.
+
+Underneath it, someone else added:
+
+DO YOU?
+
+I remember seeing that one.
+
+I also remember thinking the second line was better.
+
+There is no evidence I said so at the time.
+
+By the end of August, even senior Party officials who opposed reform were beginning to doubt that the movement could simply be waited out.
+
+The question changed.
+
+Not whether the government would respond.
+
+How.
+
+And increasingly, that meant asking the military.
+
+@chunk 6
+
+The first formal request for military contingency planning was issued on September second.
+
+Not an order to clear Tiananmen.
+
+Not martial law.
+
+Not yet.
+
+The General Staff was asked to prepare options for protecting government buildings, communications centers, transport hubs, and strategic facilities if civilian authorities lost control.
+
+This was ordinary contingency planning.
+
+That phrase would become less comforting over the next several weeks.
+
+Liu Jian received the request the same afternoon.
+
+We have his copy.
+
+It survives in the military archive with three handwritten marks.
+
+The first circles the phrase “restore normal civil authority.”
+
+The second underlines “minimum necessary force.”
+
+The third is beside a paragraph authorizing commanders to secure strategic communications without further civilian approval if national command links failed.
+
+Next to it, Liu wrote one word.
+
+“Whose?”
+
+That annotation became famous later.
+
+At the time, nobody saw it except Liu and perhaps his staff.
+
+He ordered the planning to proceed.
+
+This is important.
+
+Liu did not refuse.
+
+He did not announce solidarity with the protesters.
+
+He did not become a revolutionary general.
+
+He did his job.
+
+Units identified routes.
+
+Fuel requirements were calculated.
+
+Medical teams were assigned.
+
+Communications plans were tested.
+
+Commanders were told to prepare for crowd-control operations.
+
+And throughout September, soldiers remained mostly outside central Beijing.
+
+The protesters knew they were there.
+
+Rumors multiplied.
+
+Every truck became a troop movement.
+
+Every troop movement became an impending assault.
+
+I remember one night being told that armored units were fifteen minutes away from the square.
+
+They were not.
+
+The rumor arrived again forty minutes later.
+
+Still not.
+
+By the third time, people were making jokes about the world's slowest tanks.
+
+That stopped being funny later.
+
+Zhao Wen was now openly arguing against military intervention.
+
+On September eighteenth, she addressed a closed meeting of senior Party and military officials.
+
+We have the recording.
+
+Her voice is tired.
+
+She says that the state has spent thirty years teaching its officers that political authority must remain civilian.
+
+Then she asks what exactly the government is asking the army to defend.
+
+A building?
+
+A committee?
+
+A constitutional order?
+
+A Party leadership?
+
+Those things, she says, are not automatically identical.
+
+The room becomes very quiet.
+
+Unlike my memory of June eighth, the recording confirms this one.
+
+For eleven seconds, nobody speaks.
+
+The hardliners heard a threat.
+
+Zhao insisted it was a question.
+
+Liu Jian, seated three places away, said nothing.
+
+That night, the demonstrations in Tiananmen were larger than they had been in weeks.
+
+The rain had stopped months earlier.
+
+I remember that because by then the square was dusty.
+
+Blankets smelled like concrete.
+
+People slept under banners instead of umbrellas.
+
+And I remember realizing, for the first time, that I wanted to go home.
+
+Not because I had changed my mind.
+
+Because I was tired.
+
+Because my mother had been calling every night.
+
+Because history, when you are inside it, is mostly waiting around while being uncomfortable.
+
+I did go home a few days later.
+
+My cousin Sam came and got me.
+
+A lot of others did not go home.
+
+By October, the government would ask the army a question it had spent weeks trying not to ask directly.
+
+And the army would have to answer.
+
+That is where the next episode begins.
+
+Thanks for listening.

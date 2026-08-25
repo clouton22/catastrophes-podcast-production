@@ -87,6 +87,22 @@
       "book_number": 7,
       "in_universe_episode": 10,
       "title": "The First Bomb"
+    },
+    "episode_12_the_second_shanghai_crisis.mp3": {
+      "pub_date": "2026-08-24T22:57:57+00:00",
+      "guid": "catastrophes:episode_12_the_second_shanghai_crisis",
+      "production_episode": 12,
+      "book_number": 8,
+      "in_universe_episode": 9,
+      "title": "The Second Shanghai Crisis"
+    },
+    "episode_13_it_was_raining.mp3": {
+      "pub_date": "2026-08-25T01:50:17+00:00",
+      "guid": "catastrophes:episode_13_it_was_raining",
+      "production_episode": 13,
+      "book_number": 9,
+      "in_universe_episode": 1,
+      "title": "It Was Raining"
     }
   }
 }

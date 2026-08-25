@@ -1,0 +1,19 @@
+{
+  "production_episode": 12,
+  "book_number": 8,
+  "in_universe_episode": 9,
+  "title": "The Second Shanghai Crisis",
+  "chunk": 5,
+  "generated_utc": "2026-08-25T00:51:26.139627+00:00",
+  "provider": "ElevenLabs",
+  "voice_id": "qSeXEcewz7tA0Q0qk9fH",
+  "model_id": "eleven_v3",
+  "output_format": "mp3_44100_128",
+  "character_count": 4240,
+  "estimated_api_cost_usd": 0.424,
+  "seed": 12345,
+  "source_episode_file": "episode12.txt",
+  "source_text_sha256": "45e98e108a38cd8ce96963c8fcb74b685a0accd84502294855c873047b72c985",
+  "audio_sha256": "adbbab983344b39953cf0301f477c32e0e66b3fc6274152a358c23819340c616",
+  "request_id": "jjsN0PuK1Kzih2MlMIAh"
+}
