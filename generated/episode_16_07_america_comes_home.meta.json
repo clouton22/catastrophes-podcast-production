@@ -1,0 +1,19 @@
+{
+  "production_episode": 16,
+  "book_number": 10,
+  "in_universe_episode": 12,
+  "title": "America Comes Home",
+  "chunk": 7,
+  "generated_utc": "2026-08-26T03:06:47.423590+00:00",
+  "provider": "ElevenLabs",
+  "voice_id": "qSeXEcewz7tA0Q0qk9fH",
+  "model_id": "eleven_v3",
+  "output_format": "mp3_44100_128",
+  "character_count": 3896,
+  "estimated_api_cost_usd": 0.3896,
+  "seed": 12345,
+  "source_episode_file": "episode16.txt",
+  "source_text_sha256": "feb775e1c3315237f9ca52cdcd0f1624dbc0b0575e99e6f69cec2eccacde2797",
+  "audio_sha256": "8b6755eb0c3ebf854dc967b08b32d64969b0f98be633b23038a5d23597105dab",
+  "request_id": "hrZgxgNnJYK0TW4bz8av"
+}

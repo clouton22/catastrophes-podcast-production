@@ -119,6 +119,14 @@
       "book_number": 10,
       "in_universe_episode": 8,
       "title": "The October Attempt"
+    },
+    "episode_16_america_comes_home.mp3": {
+      "pub_date": "2026-08-26T03:14:17+00:00",
+      "guid": "catastrophes:episode_16_america_comes_home",
+      "production_episode": 16,
+      "book_number": 10,
+      "in_universe_episode": 12,
+      "title": "America Comes Home"
     }
   }
 }

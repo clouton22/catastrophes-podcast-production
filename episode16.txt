@@ -1,0 +1,1002 @@
+@production 16
+@book 10
+@episode 12
+@title America Comes Home
+
+@chunk 1
+
+This is Catastrophes.
+
+Book Ten, Episode Twelve: America Comes Home.
+
+It is January, twenty seventy-nine.
+
+Miriam Calder has been President of the United States for eleven days.
+
+The October Attempt is three months behind us.
+
+And over the last three episodes, we have gone back through most of what happened after it.
+
+The arrests.
+
+The Voss hearings.
+
+Hale’s withdrawal, and the chaotic few hours that followed at his party headquarters.
+
+The Roosevelt succession fight.
+
+Calder’s election.
+
+The transition.
+
+It was difficult to revisit such a dangerous period, but it was important.
+
+It reminds us how close the United States came to a real coup succeeding.
+
+And it gives us the context we need for what Calder’s administration was about to change.
+
+Because the question was no longer whether the republic had survived October.
+
+It was what the republic was going to become afterward.
+
+Calder won by enough that nobody spent much time arguing about whether she had a mandate.
+
+They argued about what the mandate was for.
+
+Some thought it was for punishing the people who had tried to suspend the election.
+
+Some thought it was for dismantling the security state.
+
+Some thought it was for restoring American strength.
+
+Some thought it was for admitting that American strength had been measured incorrectly for thirty years.
+
+Calder, inconveniently, believed parts of all four.
+
+Her first address to Congress began with the Attempt.
+
+It did not stay there.
+
+“October seventeenth will be a date remembered as a stain on the Republic.”
+
+“It should be.”
+
+“But remembrance of infamy is not a policy.”
+
+The line received a standing ovation from both parties.
+
+This became less common as the speech continued.
+
+Calder argued that the Continuity Group had not appeared from nowhere.
+
+It had grown inside authorities Congress had repeatedly renewed.
+
+Inside military commitments presidents of both parties had expanded.
+
+Inside emergency structures nobody wanted to dismantle because nobody wanted to be responsible for discovering, later, that one of them had still been necessary.
+
+This was not an accusation.
+
+It was worse.
+
+It was an inheritance.
+
+The first bills of the Calder administration were therefore remarkably dull.
+
+Automatic expiration dates for emergency powers.
+
+Mandatory legislative review of continuity authorities.
+
+Separate authentication for any transfer of strategic command.
+
+Public reporting requirements for overseas military commitments.
+
+A requirement that every classified emergency authority identify, in advance, the conditions under which it ceased to exist.
+
+That last provision was sometimes called the Calder rule.
+
+It was not new.
+
+Very little in politics is.
+
+The old Progressive state had spent generations asking how power should be granted.
+
+The New Progressive question was increasingly:
+
+How does power know when to give itself back?
+
+Calder's larger problem was outside the United States.
+
+American forces remained deployed across the Pacific, Central Asia, Europe, and several smaller commitments whose original purposes had become difficult to explain without a diagram.
+
+Some allies depended on them.
+
+Some resented them.
+
+Some did both.
+
+The United States could not simply leave.
+
+It also could not continue paying for everything it had promised.
+
+For most of the twenty seventies, this contradiction had been described as decline.
+
+Calder rejected the word.
+
+In February, she gave the speech that later supplied the title for this episode.
+
+“We are not abandoning the world,” she said.
+
+“We are ending the assumption that responsibility for the world and responsibility for the United States are the same thing.”
+
+Then:
+
+“America is coming home.”
+
+The phrase frightened allies.
+
+It delighted opponents.
+
+It enraged several retired generals.
+
+It also polled extremely well.
+
+This was not isolationism.
+
+Calder spent the rest of the speech explaining that.
+
+Treaties would remain.
+
+Trade would remain.
+
+Diplomacy would expand.
+
+Arms-control negotiations would resume.
+
+American forces would still defend American commitments.
+
+There would simply be fewer commitments.
+
+That distinction sounds obvious.
+
+It had taken the United States almost forty years to say it aloud.
+
+And on the other side of the Pacific, another government was beginning to make a different kind of offer.
+
+@chunk 2
+
+Calder’s first withdrawals began in the spring of twenty seventy-nine.
+
+They were smaller than the speeches made them sound.
+
+A logistics hub in Central Asia.
+
+Two rotational air wings in the western Pacific.
+
+Several advisory missions whose original mandates had expired years earlier but whose funding had not.
+
+The administration described this as consolidation.
+
+Its critics preferred retreat.
+
+The allies involved preferred consultation.
+
+They did not always receive enough of it.
+
+That was one of Calder’s early mistakes.
+
+She had correctly identified that the United States could not sustain every commitment it had accumulated.
+
+She had not yet learned that ending a commitment required as much diplomacy as creating one.
+
+The first year was therefore messy.
+
+Governments demanded reassurance.
+
+Military planners complained that withdrawals were occurring before replacement arrangements existed.
+
+Markets interpreted every basing decision as evidence of a larger geopolitical shift.
+
+Calder’s approval rating fell.
+
+Then stabilized.
+
+Then, slowly, something unexpected happened.
+
+The alliances did not collapse.
+
+Some weakened.
+
+Some ended.
+
+Others became more explicit.
+
+European governments increased their own defense spending.
+
+Japan expanded regional maritime agreements.
+
+India took on responsibilities the United States had previously treated as automatically American.
+
+Several Pacific states negotiated directly with China and the United States at the same table rather than choosing between them.
+
+Calder’s administration also learned that leaving worked better when withdrawal was not the only thing being offered.
+
+Military appropriations were increasingly paired with infrastructure and education agreements.
+
+A closing air base might be followed by investment in a civilian airport.
+
+A reduced naval presence by port improvements and coast-guard training.
+
+Advisory missions gave way to engineering schools, power projects, public-health programs, and technical institutes.
+
+The important word was transition.
+
+American money might begin the project.
+
+Local governments were expected to own it.
+
+Calder once described the policy less elegantly:
+
+“If we are going to spend money because we are afraid a country might become unstable, perhaps some of that money should be spent making the country less unstable.”
+
+The line was mocked for being obvious.
+
+This did not make it wrong.
+
+By twenty eighty-one, several of the first development agreements were already being transferred to local administration.
+
+That mattered.
+
+Withdrawal began to look less like abandonment.
+
+This was recognizably Progressive.
+
+It was also beginning to point somewhere the old Progressives had not gone.
+
+The result was not a smaller international system.
+
+It was a less American one.
+
+By twenty eighty-one, Calder had begun using a phrase that irritated nearly everyone the first time they heard it.
+
+“Shared responsibility.”
+
+The old High Progressive order had used similar language.
+
+The difference was structural.
+
+Shared responsibility no longer meant that international institutions would eventually make every participant behave correctly.
+
+It meant that no participant, including the United States, should be able to make itself indispensable.
+
+This was a harder idea to sell.
+
+Indispensability feels like strength while you have it.
+
+It feels less impressive when you are paying for it.
+
+@chunk 3
+
+The Chinese government was undergoing its own transition.
+
+The reforms after Seventy-Two had survived their first competitive elections.
+
+That alone surprised many foreign observers.
+
+Zhao Wen had not become president.
+
+This also surprised people.
+
+She had been the most visible civilian figure of the revolution, but she repeatedly argued that a constitutional transition would be a poor success if it ended by placing the person who managed it permanently at the center of government.
+
+She remained influential.
+
+She chaired commissions.
+
+She testified.
+
+She annoyed younger politicians by reminding them that temporary powers were still temporary when reformers held them.
+
+By twenty eighty, Chinese diplomats had begun proposing a new series of arms-control talks.
+
+The first American response was cautious.
+
+The second was suspicious.
+
+The third agreed to a meeting.
+
+The talks opened in Singapore in March of twenty eighty-one.
+
+Nobody called them historic.
+
+This was probably healthy.
+
+The first agreements were narrow.
+
+Launch notifications.
+
+Submarine exclusion zones near heavily trafficked shipping lanes.
+
+Limits on orbital weapons testing.
+
+Joint investigation procedures for warning-system failures.
+
+None required either side to trust the other.
+
+That feature was familiar.
+
+What was returning was the willingness to try that kind of shared design again.
+
+The Atomic Settlement had begun with the same realization: the system could not belong to just two powers and still expect everyone else to trust it.
+
+The New Progressive addition was different.
+
+Not only should no country design the whole system.
+
+No system should be allowed to become too permanent to redesign.
+
+The World War had nearly destroyed the first idea.
+
+The decades after it had taught them the second.
+
+The negotiations included India.
+
+Japan.
+
+European representatives.
+
+Several smaller Pacific states.
+
+Later accounts describe this as the beginning of the New Progressive order.
+
+Nobody at the table used that phrase.
+
+Not yet.
+
+At the time, they were trying to stop submarines from accidentally frightening each other.
+
+History often begins in less impressive rooms than the textbooks suggest.
+
+@chunk 4
+
+The phrase New Progressivism appears reliably in the record by twenty eighty-three.
+
+Its origins are disputed.
+
+Of course they are.
+
+Chinese reform economists used similar language first.
+
+American constitutional scholars claim they did.
+
+A Swedish political scientist produced a book title that resembles the phrase closely enough that her estate remains very interested in the question.
+
+I am not resolving this here.
+
+What matters is that by the middle of the decade, people were using the term to describe something they believed was different from the old Progressive settlement.
+
+The difference was not that institutions had become less important.
+
+They had become more conditional.
+
+High Progressive institutions had often been designed around durability.
+
+Build the rule correctly.
+
+Insulate it from panic.
+
+Give professionals enough independence to keep it functioning.
+
+New Progressives had inherited a century of evidence about what happened when durable institutions forgot why they existed.
+
+Their answer was not to make government weak.
+
+It was to make authority explain itself repeatedly.
+
+Emergency powers expired unless renewed.
+
+International agencies published more of their assumptions.
+
+Inspection systems included independent review of the inspectors.
+
+Treaties contained scheduled renegotiation points.
+
+Military commands were required to document not only what they were authorized to do, but the conditions under which that authority should shrink.
+
+None of this was elegant.
+
+It produced meetings.
+
+Reports.
+
+Duplicated oversight.
+
+Arguments over definitions.
+
+Occasionally it produced three committees whose principal function was complaining about the other two.
+
+New Progressivism was not a cure for bureaucracy.
+
+Its advocates considered this evidence of seriousness.
+
+The deeper change was cultural.
+
+For most of the century, Progressivism had been associated with foresight.
+
+See the failure before it happens.
+
+Build the safeguard.
+
+Prevent the catastrophe.
+
+The newer generation added another question.
+
+What happens when the safeguard becomes the thing nobody is allowed to question?
+
+And increasingly, another:
+
+What becomes possible when the catastrophe does not happen?
+
+That question crossed borders easily.
+
+American reformers cited Chinese constitutional debates.
+
+Chinese legislators cited Calder’s emergency-power laws.
+
+European courts borrowed language from both.
+
+Indian security scholars argued that everyone was rediscovering ideas their own legal tradition had contained for generations and were being unnecessarily dramatic about it.
+
+They had a point.
+
+By twenty eighty-four, the United States and China had signed the first major bilateral reduction in deployed atomic weapons since the World War.
+
+The reductions were modest.
+
+Nobody spoke seriously about zero.
+
+Not yet.
+
+Verification teams counted warheads.
+
+Submarines were inspected in port.
+
+Fissile material was tagged.
+
+Old arguments returned.
+
+So did old jokes.
+
+One Chinese negotiator reportedly asked whether the inspections represented trust.
+
+The American across the table answered:
+
+“No. Accounting.”
+
+There is no evidence either of them intended the Morozov reference.
+
+There is also no possibility they did not recognize it.
+
+This was how the old world began returning.
+
+Not restored.
+
+Reused.
+
+And increasingly, the most visible symbol of that change was not happening on Earth.
+
+@chunk 5
+
+By the middle of the twenty eighties, the arms-control talks had become harder to describe as temporary.
+
+That was probably the first sign they were becoming institutions.
+
+The United States and China were still rivals.
+
+They still disagreed over trade.
+
+They still accused one another of subsidizing strategic industries.
+
+They still maintained atomic forces capable of destroying cities.
+
+Nobody had forgotten Shanghai.
+
+Nobody had forgotten Harbin.
+
+That mattered.
+
+The difference was that both governments had begun treating some risks as problems neither could solve by winning.
+
+Orbital traffic was one.
+
+That mattered more than it sounds.
+
+Human beings had been living and working in orbit for fifty years by then, but almost everything beyond Earth had grown out of the World War and the security systems that followed it.
+
+Satellites.
+
+Warning stations.
+
+Repair platforms.
+
+Military construction.
+
+Space was something governments defended.
+
+Increasingly, they began asking whether some of the money spent defending it could instead be spent making it useful.
+
+Shared observatories.
+
+Navigation systems.
+
+Research stations.
+
+Deep-space communications.
+
+The same political instinct Calder had applied on Earth was beginning to change shape above it:
+
+replace some of the machinery of security with infrastructure that science could use.
+
+And once that happened, another question became harder to avoid.
+
+If governments could build together in orbit, why stop there?
+
+The old international organizations had survived pieces of the World War.
+
+Some were revived.
+
+Some were replaced.
+
+Some were kept mostly because changing the stationery seemed harder than reforming the institution.
+
+The newer bodies were built with habits learned from failure.
+
+Fixed review dates.
+
+Independent auditors.
+
+Public technical reports where security permitted.
+
+Separate institutions empowered to challenge the assumptions of the institutions doing the work.
+
+No permanent emergency authority without a renewal vote.
+
+No inspection regime whose inspectors were the only people allowed to decide whether inspection had succeeded.
+
+This was not the return of the High Progressive system.
+
+People who said that were usually selling something.
+
+It was more suspicious than the old order.
+
+More willing to admit that institutions aged.
+
+More willing to ask whether a safeguard had become a dependency.
+
+And, increasingly, more willing to treat international cooperation as infrastructure rather than virtue.
+
+By twenty eighty-five, that was becoming literal above the atmosphere.
+
+Calder’s government had begun sharing deep-space communications data.
+
+Chinese and Indian engineers were discussing heavy-launch standards.
+
+European agencies proposed common life-support interfaces.
+
+Nobody had announced a lunar program.
+
+Not yet.
+
+Calder liked the distinction between virtue and infrastructure.
+
+In a speech in twenty eighty-five, she said:
+
+“Cooperation is not evidence that governments have become good.”
+
+“It is evidence that some problems remain problems even when everyone involved is behaving badly.”
+
+The line was not especially inspirational.
+
+It was quoted constantly by engineers.
+
+@chunk 6
+
+China was changing too.
+
+The generation that had led Seventy-Two was beginning to leave office.
+
+Zhao Wen retired from her last formal commission in twenty eighty-six.
+
+Her final report was on emergency authority.
+
+Of course it was.
+
+The report ran four hundred and twelve pages.
+
+Almost nobody read all of it.
+
+One sentence escaped.
+
+“Temporary power should have to survive an argument with time.”
+
+It appeared in newspapers in China.
+
+Then in the United States.
+
+Then in several treaty preambles where nobody admitted borrowing it.
+
+The younger Chinese leadership was less interested in proving that reform had saved China.
+
+Most had been children or young adults during Seventy-Two.
+
+They remembered the crisis, but they had built their careers inside the constitutional order that followed it.
+
+For them, competitive elections, independent courts, and public arguments over military budgets were becoming less revolutionary.
+
+They were becoming annoying.
+
+This was progress.
+
+High Progressivism had rarely looked this far ahead.
+
+It had been too occupied with the immediate work of keeping people alive, healthy, educated, housed, and safe.
+
+Its descendants had inherited those obligations.
+
+They were beginning to ask what came after them.
+
+And this was the political environment in which China proposed something that, twenty years earlier, would have sounded absurd.
+
+A permanent international lunar program.
+
+Not a Chinese lunar program with foreign guests.
+
+Not an American program with allied participation.
+
+An international one.
+
+China would provide the first heavy launch vehicles.
+
+India would provide navigation and surface-power systems.
+
+European states would contribute life-support modules.
+
+The United States would provide orbital construction and deep-space communications.
+
+Japan would lead several robotics systems.
+
+Smaller countries contributed instruments, tracking facilities, materials research, and money.
+
+A great deal of money.
+
+The first planning conference opened in Chengdu in twenty eighty-six.
+
+It lasted eleven days.
+
+The first nine were mostly arguments about cost.
+
+This was another encouraging sign.
+
+Human beings had first entered orbit because the World War had made waiting dangerous.
+
+Now they were planning to reach the Moon by spending several years arguing about how not to rush.
+
+@chunk 7
+
+The lunar program took six years.
+
+This was considered slow by people who had grown up on wartime stories.
+
+It was considered alarmingly fast by the engineers.
+
+There were failures.
+
+An uncrewed lander crashed in twenty eighty-seven.
+
+A propulsion test destroyed an engine stand in India the following year.
+
+A life-support prototype failed after nineteen days because a valve had been manufactured to the correct specification and the specification was wrong.
+
+Nobody died.
+
+The reports were published.
+
+The valve was redesigned.
+
+The schedule slipped.
+
+Nobody declared this evidence of national humiliation.
+
+That may have been the most historically significant part.
+
+The crew was announced in twenty ninety.
+
+Five people.
+
+Two Chinese.
+
+One American.
+
+One Indian.
+
+One Japanese.
+
+The commander was Chinese astronaut Li Xinyi.
+
+She had been born in twenty fifty-two in Chengdu.
+
+Ten years after the World War ended.
+
+She belonged to the first generation in almost a century to reach adulthood without experiencing a general war.
+
+That fact appeared in nearly every profile written about her.
+
+Li disliked the observation.
+
+She once told an interviewer:
+
+“I did not accomplish being born later.”
+
+The quote made people like her more.
+
+The mission launched on April third, twenty ninety-two.
+
+By then, human beings had been in space for fifty-seven years.
+
+They had repaired military satellites.
+
+Operated orbital warning stations.
+
+Built communications platforms.
+
+Maintained telescopes.
+
+Conducted research.
+
+Fought over orbital weapons.
+
+Negotiated limits on orbital weapons.
+
+And never gone farther than Earth orbit.
+
+That surprises people now.
+
+It surprised people then.
+
+The old wartime programs had been built around urgency.
+
+The postwar programs had been built around deterrence.
+
+Neither had produced much reason to go anywhere.
+
+The lunar program did.
+
+The spacecraft entered lunar orbit on April seventh.
+
+The landing attempt began the next morning.
+
+Millions watched.
+
+Schools suspended classes.
+
+Factories scheduled breaks around the broadcast.
+
+In Beijing, enormous screens were installed in Tiananmen.
+
+In Chicago, students filled lecture halls.
+
+In Harbin, a memorial observatory carried the transmission on an exterior wall.
+
+The descent was almost disappointingly uneventful.
+
+This is a compliment.
+
+At eleven-fourteen universal time, the lander touched down.
+
+There was applause.
+
+Then waiting.
+
+Pressure checks.
+
+Suit checks.
+
+Communications checks.
+
+A delay because one sensor was giving a reading nobody liked.
+
+They checked it again.
+
+Then with another instrument.
+
+Then they waited six more minutes.
+
+Nobody complained.
+
+At twelve-oh-two, Li Xinyi opened the hatch.
+
+The camera image is familiar enough that describing it feels unnecessary.
+
+The ladder.
+
+The shadow.
+
+The surface below.
+
+The Earth above the horizon.
+
+Li stopped on the final rung.
+
+Later, people argued about whether she had planned the words.
+
+She said she had not.
+
+Her mission notes suggest otherwise.
+
+Historians remain capable of finding controversy anywhere.
+
+Then she stepped down.
+
+“I am stepping first,” she said.
+
+“But we are arriving together.”
+
+For several seconds, nobody in mission control spoke.
+
+Then everyone did.
+
+The phrase spread before Li had taken her third step.
+
+By evening, it was on buildings.
+
+By the next morning, it was on shirts.
+
+Within a week, politicians were already using it in speeches about subjects that had nothing to do with the Moon.
+
+This is what happens to good sentences.
+
+But for a few minutes, before everyone decided what the words meant, they belonged to the moment.
+
+A Chinese astronaut had stepped first.
+
+An international crew had arrived.
+
+And after a century and a half of catastrophes, the largest thing humanity had done in years was not an evacuation.
+
+Not a mobilization.
+
+Not a ceasefire.
+
+Not the prevention of something worse.
+
+It was arrival.
+
+@chunk 8
+
+The crew stayed on the Moon for thirty-one hours.
+
+They deployed instruments.
+
+Collected samples.
+
+Tested surface equipment.
+
+Argued with mission control about how much time they were allowed to spend taking photographs.
+
+Li Xinyi later complained that the most famous event of her life had involved considerably more inventory management than anyone remembered.
+
+This was also progress.
+
+The mission returned safely on April twelfth, twenty ninety-two.
+
+There were celebrations in Beijing.
+
+Delhi.
+
+Tokyo.
+
+Washington.
+
+Brussels.
+
+And dozens of places that had contributed one instrument, one tracking station, one university team, or one piece of software and therefore felt, with some justification, that they had been there too.
+
+The political symbolism became impossible to contain.
+
+China had led the mission.
+
+Nobody pretended otherwise.
+
+For much of the previous century, Chinese governments had defined security partly by how little they needed from anyone else.
+
+Now China had deliberately chosen a project it could not complete alone.
+
+That was not weakness.
+
+By then, it no longer looked like weakness.
+
+The United States had changed too.
+
+The country that had once measured retreat by bases closed and ships withdrawn was now contributing deep-space communications, university research, and orbital construction to a program it did not command.
+
+Calder had left office years earlier.
+
+But the political argument she helped normalize had survived her.
+
+Responsibility did not require control.
+
+Participation did not require ownership.
+
+And cooperation did not require pretending that interests had disappeared.
+
+None of this meant the world had become peaceful.
+
+There were border disputes.
+
+Trade crises.
+
+Governments fell.
+
+Treaties failed.
+
+Atomic weapons still existed.
+
+Some years were worse than others.
+
+Historians become suspicious when people begin describing any period as the end of history.
+
+We have usually read the next chapter.
+
+But by the early twenty nineties, something had changed.
+
+For most of the previous century, the great international institutions had been justified by what they prevented.
+
+War.
+
+Famine.
+
+Financial collapse.
+
+Atomic escalation.
+
+Industrial disaster.
+
+The absence of catastrophe had been the product.
+
+That remained important.
+
+It still is.
+
+But prevention had begun producing something else.
+
+Time.
+
+Capacity.
+
+Confidence.
+
+The ability to invest in outcomes whose value would not appear in the next election, the next budget, or even the next generation.
+
+High Progressivism had spent a century trying to make the future safer.
+
+New Progressivism was beginning to ask what the future was for.
+
+The Moon did not answer that question.
+
+It made the question feel worth asking.
+
+There is a tendency to end histories of the late twenty eighties with Li Xinyi's first step.
+
+I understand why.
+
+It is a very good ending.
+
+Unfortunately, history continued.
+
+The next episode is about what happened when the institutions built after Seventy-Two, October, and the lunar agreements became ordinary enough that people stopped thinking of them as reforms.
+
+Because that is when an idea stops being a movement.
+
+And starts becoming a world.
+
+Thanks for listening.
