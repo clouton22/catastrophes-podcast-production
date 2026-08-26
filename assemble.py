@@ -31,9 +31,20 @@ def parse_episode(path):
             )
         metadata[name] = matches[0].strip()
 
-    for name in ("production", "book", "episode"):
+    for name in ("production", "book"):
         if not metadata[name].isdigit() or int(metadata[name]) < 1:
             raise SystemExit(f"@{name} must be a positive integer in {path}.")
+
+    if (
+        metadata["episode"].lower() != "supplemental"
+        and (
+            not metadata["episode"].isdigit()
+            or int(metadata["episode"]) < 1
+        )
+    ):
+        raise SystemExit(
+            f"@episode must be a positive integer or 'supplemental' in {path}."
+        )
 
     chunk_pattern = re.compile(
         r"(?mi)^@chunk\s+(\d+)\s*$"
@@ -788,7 +799,11 @@ def main():
     assembled_metadata = {
         "production_episode": int(episode["production"]),
         "book_number": int(episode["book"]),
-        "in_universe_episode": int(episode["episode"]),
+        "in_universe_episode": (
+            int(episode["episode"])
+            if episode["episode"].isdigit()
+            else episode["episode"].lower()
+        ),
         "title": episode["title"],
     }
     metadata_path.write_text(

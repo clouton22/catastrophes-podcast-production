@@ -127,6 +127,22 @@
       "book_number": 10,
       "in_universe_episode": 12,
       "title": "America Comes Home"
+    },
+    "episode_17_nothing_happened.mp3": {
+      "pub_date": "2026-08-26T20:06:33+00:00",
+      "guid": "catastrophes:episode_17_nothing_happened",
+      "production_episode": 17,
+      "book_number": 11,
+      "in_universe_episode": 12,
+      "title": "Nothing Happened"
+    },
+    "episode_18_sources.mp3": {
+      "pub_date": "2026-08-26T22:40:14+00:00",
+      "guid": "catastrophes:episode_18_sources",
+      "production_episode": 18,
+      "book_number": 11,
+      "in_universe_episode": "supplemental",
+      "title": "Sources"
     }
   }
 }

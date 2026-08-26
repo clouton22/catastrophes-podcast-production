@@ -1,0 +1,19 @@
+{
+  "production_episode": 17,
+  "book_number": 11,
+  "in_universe_episode": 12,
+  "title": "Nothing Happened",
+  "chunk": 2,
+  "generated_utc": "2026-08-26T20:01:00.320057+00:00",
+  "provider": "ElevenLabs",
+  "voice_id": "qSeXEcewz7tA0Q0qk9fH",
+  "model_id": "eleven_v3",
+  "output_format": "mp3_44100_128",
+  "character_count": 3422,
+  "estimated_api_cost_usd": 0.3422,
+  "seed": 12345,
+  "source_episode_file": "episode17.txt",
+  "source_text_sha256": "0ce140fbd8a7b969165dffbd3a8ce2aa0ba1d15c6d3844df7847005fe69e5cc5",
+  "audio_sha256": "142f2bbca7d68ba7c8cb16e0fb4441df2c4ef098319a8031c8996c61538fab90",
+  "request_id": "E1v5cQFwHtQVAmSnLKQx"
+}

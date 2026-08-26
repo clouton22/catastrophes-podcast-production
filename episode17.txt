@@ -1,0 +1,816 @@
+@production 17
+@book 11
+@episode 12
+@title Nothing Happened
+
+@chunk 1
+
+This is Catastrophes.
+
+Book Eleven, Episode Twelve: Nothing Happened.
+
+It is twenty ninety-four.
+
+Which means we have finally reached something close to the present.
+
+Not exactly.
+
+Historians dislike the present.
+
+The archives are terrible.
+
+Everyone involved is still available to complain about you.
+
+And events have an irritating tendency to continue after publication.
+
+So this is where I am going to stop.
+
+Not because history stopped in twenty ninety-four.
+
+It did not.
+
+There have been elections since the lunar landing.
+
+Treaties have failed.
+
+Governments have fallen.
+
+There are still atomic weapons.
+
+There are still wars.
+
+Smaller ones.
+
+That distinction matters to the people fighting them.
+
+There are still arguments over how much authority international institutions should possess, how quickly emergency powers should expire, how much inspection is enough, how much military capacity is too much, and whether every committee really needs a committee responsible for reviewing the first committee.
+
+Apparently some problems survive every political philosophy.
+
+But the world of twenty ninety-four is recognizably different from the one we began with.
+
+The United States is powerful.
+
+It is not responsible for everything.
+
+China is powerful.
+
+It does not define security by how little it needs anyone else.
+
+India, Europe, Japan, Russia, and a growing number of other states operate inside a system that nobody entirely controls.
+
+That is intentional.
+
+Atomic arsenals are smaller than they were twenty years ago.
+
+Inspection is routine again.
+
+So is arguing with the inspectors.
+
+Emergency powers expire.
+
+Sometimes governments renew them.
+
+Sometimes courts stop them.
+
+Sometimes legislators discover, to their considerable annoyance, that the expiration date they voted for applies to them too.
+
+The international lunar program is now planning its third surface expedition.
+
+Li Xinyi has become the sort of historical figure who spends a surprising amount of her time opening schools.
+
+And most people under twenty have no personal memory of a world in which American and Chinese strategic forces routinely prepared to destroy one another.
+
+They know that world from us.
+
+Historians.
+
+Teachers.
+
+Parents.
+
+Memorials.
+
+Bad films.
+
+Very good films.
+
+And, apparently, podcasts.
+
+This is a dangerous moment in the life of any successful political system.
+
+When the thing it prevented becomes difficult to imagine.
+
+We have been here before.
+
+That does not mean the result must be the same.
+
+New Progressivism was built by people who knew that institutions forget.
+
+So they tried to make forgetting harder.
+
+Review dates.
+
+Public archives.
+
+Independent challenges.
+
+Sunset provisions.
+
+Arguments deliberately scheduled years in advance.
+
+None of this guarantees anything.
+
+That is rather the point.
+
+The High Progressives eventually came to believe that a sufficiently well-designed system could preserve its own wisdom.
+
+Their descendants are more suspicious.
+
+They tend to ask who will notice when the system becomes wrong.
+
+And who will be allowed to say so.
+
+That is one reason I have spent eleven books telling you about failures.
+
+And near failures.
+
+And things that looked like failures but were actually systems doing exactly what they were designed to do.
+
+Because this series has never really been about disasters.
+
+It has been about what people do after they discover that individually sensible choices can produce collectively catastrophic results.
+
+And what happens when they forget.
+
+So before we finish, we need to return to the name.
+
+The four Catastrophes.
+
+@chunk 2
+
+There is an argument about the number.
+
+Of course there is.
+
+Some historians count Seventy-Two as the Fifth Catastrophe.
+
+Some count the October Attempt as the Sixth.
+
+There are perfectly respectable books with both numbers on the cover.
+
+There are also historians who dislike the category entirely.
+
+They argue that grouping nearly two centuries around four wars privileges violence over slower forms of suffering.
+
+They are not wrong.
+
+Others argue that Seventy-Two cannot possibly be excluded merely because fewer people died.
+
+They are not wrong either.
+
+I use four.
+
+Partly because the first four killed people on a scale the later crises did not.
+
+That distinction should not be treated as merely statistical.
+
+The Great War.
+
+The Fascist War.
+
+The Coalition War.
+
+The World War.
+
+Millions of individual lives ended inside those names.
+
+Families disappeared.
+
+Cities were destroyed.
+
+States collapsed.
+
+Governments learned things they should have learned earlier.
+
+And then forgot some of them.
+
+But body count is not the whole reason.
+
+I think the four belong to the same historical story.
+
+The Great War revealed the problem.
+
+A continent of governments making individually rational decisions could produce a war almost nobody actually wanted.
+
+The Fascist War revealed that restraint could become its own failure.
+
+Waiting could also be a choice.
+
+The Coalition War asked whether governments could build enough restraint into the international system to stop a catastrophic decision even after the war had already begun.
+
+For a while, the answer appeared to be yes.
+
+The World War was what happened when the institutions built around those lessons became rigid, inherited, exploitable, and eventually unable to preserve themselves.
+
+The first Progressive era grew through those catastrophes.
+
+And, eventually, died in one.
+
+Seventy-Two was different.
+
+So was October.
+
+People died in Seventy-Two.
+
+People were detained during the October Attempt.
+
+Both could have become much worse.
+
+That possibility is part of why we remember them.
+
+But in both cases, people inside institutions were confronted with machinery capable of producing catastrophe and chose, eventually, not to start it.
+
+The tanks stopped.
+
+The orders stopped producing actions.
+
+The election happened.
+
+Those are not small things.
+
+They are also not the fifth and sixth Catastrophes.
+
+At least, I do not think they are.
+
+They belong to the next story.
+
+The birth of a political tradition that inherited Progressive ideas without assuming Progressive institutions could be immortal.
+
+Whether historians a hundred years from now will still use four is not something I get to decide.
+
+They may have better categories.
+
+I hope they do.
+
+They may also have more Catastrophes.
+
+I hope they do not.
+
+We like to believe that the age of Catastrophes is over.
+
+Historians should be suspicious of sentences like that.
+
+I hope this one is true.
+
+And if it is true, it will not be because humanity finally became wise.
+
+That would be a very strange ending to this series.
+
+It will be because enough people learned to build systems that expect human beings to remain approximately as foolish, frightened, ambitious, generous, selfish, cooperative, shortsighted, and occasionally brilliant as they have always been.
+
+The question was never whether we could become better people.
+
+The question was whether we could become better at living with one another anyway.
+
+@chunk 3
+
+There is another reason I use four.
+
+The first Progressive age produced a particular kind of confidence.
+
+Not optimism exactly.
+
+Confidence.
+
+The belief that if you studied failure carefully enough, measured it honestly enough, and designed institutions well enough, you could make catastrophe less likely.
+
+That belief did extraordinary things.
+
+It also became dangerous.
+
+Thomas Ward understood part of the problem before almost anyone had language for it.
+
+After Columbia, he did not spend the rest of his life looking for one person to blame.
+
+He kept records.
+
+Shipping notices.
+
+Inspection reports.
+
+Letters.
+
+Government statements.
+
+Boxes of them.
+
+He believed everyone had done his job.
+
+That was the problem.
+
+His daughter inherited the question.
+
+Margaret Ward spent most of her career trying to answer it.
+
+Who is responsible when everyone is doing what they are supposed to do?
+
+Who is allowed to interrupt a process that is functioning correctly but producing the wrong result?
+
+How much power should institutions have to prevent catastrophe?
+
+Who watches that power?
+
+And what happens when the institution itself becomes the hazard?
+
+Her answers were never complete.
+
+They were not supposed to be.
+
+The Ward-Morozov Protocols were revised repeatedly.
+
+Inspection rights changed.
+
+Emergency authorities changed.
+
+The atomic system changed.
+
+The thing that mattered was the assumption underneath them:
+
+the institution responsible for succeeding could not also be the only institution allowed to decide whether it had failed.
+
+That idea survived Margaret.
+
+It survived Morozov.
+
+It survived the Atomic Settlement.
+
+It survived the Coalition War.
+
+It even survived the World War, although not in any form either of them would have wanted.
+
+Ideas are inconvenient that way.
+
+Institutions can die.
+
+Principles are harder to bury.
+
+Margaret Ward died in twenty sixteen.
+
+She was ninety-three.
+
+Her state funeral was held in Chicago.
+
+There were the usual speeches.
+
+Flags.
+
+Military honors.
+
+People arguing afterward about which part of the ceremony she would have disliked most.
+
+She had left instructions for the music.
+
+At the end, the band played Until the Road Opens.
+
+Slowly.
+
+No lyrics.
+
+Just the melody.
+
+By then, the song was almost half a century old.
+
+Most people knew it as a Coalition War song.
+
+In my family, it was simply one of the things she had chosen not to explain.
+
+I think that was probably wise.
+
+There are moments when interpretation becomes a kind of vandalism.
+
+So I am going to leave that one alone.
+
+But I will say this.
+
+Margaret spent most of her life trying to preserve choices for people who would come after her.
+
+She did not always succeed.
+
+Nobody does.
+
+But enough of those choices survived that later generations could make different ones.
+
+That may be the most generous definition of political success I know.
+
+@chunk 4
+
+The same is true of families.
+
+And of historians.
+
+I spent a great deal of this series warning you not to trust family memory too much.
+
+This is still good advice.
+
+Families turn people into characters.
+
+They compress decades into anecdotes.
+
+They remember the line someone should have said rather than the one they did.
+
+They repeat stories until repetition becomes evidence.
+
+Mine is no different.
+
+Samuel Ward became a name before he became a person.
+
+Thomas became the man with the boxes.
+
+Margaret became Margaret Ward.
+
+That is what history does to families when one of them becomes famous.
+
+It is also what families do to themselves.
+
+And then there is me.
+
+I was there in twenty seventy-two.
+
+I misunderstood parts of it.
+
+And I survived partly because other people in my family knew more than I did.
+
+That sentence has become harder to say as I have gotten older.
+
+At nineteen, I thought proximity made me informed.
+
+Then I became a historian.
+
+That helped.
+
+A little.
+
+When I returned to Beijing years later, the square had already become something different from the place I remembered.
+
+When I returned to Chicago, I found myself studying people who had made the same mistake from the opposite direction.
+
+They knew everything that happened afterward.
+
+So they assumed the people living through it must have known too.
+
+That is one of the easiest errors in history.
+
+Everyone knows the ending.
+
+Nobody living through the beginning does.
+
+The Roosevelts are a good example.
+
+For more than a century, the family became shorthand for competence, stewardship, institutional confidence, and the idea that government could prepare for the next failure before it happened.
+
+That inheritance became enormous.
+
+Eventually, too enormous.
+
+Anna Roosevelt did not destroy it.
+
+She simply arrived at the moment when the name promised more than any one person could deliver.
+
+That is a sad way for a dynasty to end.
+
+It is also probably healthier than some alternatives.
+
+The Mercers are another example.
+
+And yes, the Mercers were related.
+
+We did a supplemental.
+
+I am not doing the genealogy again.
+
+The point is that history accumulates these names.
+
+Ward.
+
+Roosevelt.
+
+Mercer.
+
+Morozov.
+
+Zhao.
+
+Liu.
+
+Calder.
+
+Li.
+
+Eventually the names become symbols.
+
+Then somebody has to go back and remember that symbols once had birthdays.
+
+Bad knees.
+
+Unfinished paperwork.
+
+People they disliked.
+
+Songs they loved.
+
+And days when they had no idea what was going to happen next.
+
+The purpose of history is not to make them smaller by doing that.
+
+It is to make the choices visible again.
+
+@chunk 5
+
+The institutions changed too.
+
+That part is easier to forget because institutions are less photogenic than people.
+
+There is no famous portrait of an expiration clause.
+
+No statue of a review date.
+
+No schoolchild has ever been assigned a dramatic reenactment of an independent audit.
+
+Actually, that last one probably happened in the nineteen eighties.
+
+Lake Erie did strange things to the curriculum.
+
+This is probably for the best.
+
+But those things mattered.
+
+The old Progressive order had learned to build safeguards.
+
+The New Progressive order learned to distrust safeguards that could no longer explain themselves.
+
+That was the difference.
+
+Not strength against weakness.
+
+Not government against liberty.
+
+Not planning against freedom.
+
+The newer institutions were still strong.
+
+Sometimes stronger.
+
+They were simply more willing to be temporary.
+
+More willing to be challenged.
+
+More willing to be redesigned by people who had not been present when they were built.
+
+That applied internationally too.
+
+The Atomic Settlement had once been revolutionary because it asked countries to surrender part of their sovereignty over the most dangerous technology they possessed.
+
+The lunar agreements were revolutionary for almost the opposite reason.
+
+Nobody surrendered ownership of the future.
+
+They agreed to build enough of it together that ownership became a less useful question.
+
+Li Xinyi's first step became famous for that reason.
+
+“I am stepping first, but we are arriving together.”
+
+People have spent two years putting that sentence on everything.
+
+School walls.
+
+Election posters.
+
+Treaty documents.
+
+Coffee mugs.
+
+Li has complained about the coffee mugs.
+
+She is right.
+
+But the line survives the merchandise.
+
+China reached the Moon first.
+
+It also reached outward.
+
+The United States participated without commanding.
+
+India, Japan, Europe, and smaller states contributed without becoming supporting characters in somebody else's national story.
+
+That arrangement was not inevitable.
+
+It was the product of people who had lived through the consequences of making indispensability a form of power.
+
+The absence of catastrophe had once been the product.
+
+By the twenty nineties, people were beginning to expect more.
+
+Not just survival.
+
+Not just prevention.
+
+The freedom to spend time on things whose value could not be measured by how many deaths they prevented.
+
+Science.
+
+Exploration.
+
+Education.
+
+Art.
+
+Things that did not need to justify themselves by pointing toward a disaster that had not happened.
+
+This is where I become cautious again.
+
+Because every generation likes to imagine that it has finally learned the lesson.
+
+The High Progressives did.
+
+The architects of the postwar security order did.
+
+The people who built the systems before Shanghai did.
+
+Some of them were right for a while.
+
+That matters.
+
+Failure later does not erase success earlier.
+
+But success earlier does not guarantee wisdom later.
+
+So I do not know whether New Progressivism will last.
+
+I do not know whether the institutions we have built will survive their own success.
+
+I do not know whether the people who grow up without a general war will continue believing general war is possible.
+
+I do not know whether the phrase Four Catastrophes will still make sense when my students are old.
+
+What I know is smaller.
+
+We inherited more choices than some earlier generations had.
+
+And so far, we have not used all of them badly.
+
+That is not a promise.
+
+It is enough for now.
+
+@chunk 6
+
+Which brings us back to Titanic.
+
+The ship reached New York in April of nineteen twelve.
+
+There were photographs.
+
+Interviews.
+
+Newspaper stories about the ice.
+
+Questions about speed.
+
+Questions about lifeboats.
+
+Questions about radio procedure.
+
+Investigations followed.
+
+Rules changed.
+
+Not enough.
+
+Then the ship went back to work.
+
+Titanic crossed the Atlantic again.
+
+And again.
+
+And again.
+
+During the Great War, she carried troops.
+
+Afterward, she returned to civilian service.
+
+Her fittings were updated.
+
+Her engines required increasingly expensive maintenance.
+
+Newer ships became faster.
+
+Then more efficient.
+
+Then simply newer.
+
+By the nineteen thirties, Titanic was old.
+
+That is what happens to ships that survive.
+
+In nineteen thirty-six, she was withdrawn from service.
+
+The furnishings were removed.
+
+Useful machinery was sold.
+
+The hull went to the breakers.
+
+There were photographs of that too.
+
+They are less famous.
+
+A few people complained that the ship should have been preserved.
+
+Most did not.
+
+It was an old liner.
+
+There were other old liners.
+
+Nobody knew they were supposed to be standing in front of a legend.
+
+Because there was no legend.
+
+No wreck on the ocean floor.
+
+No famous staircase preserved in photographs because everyone aboard had died.
+
+No list of the dead.
+
+No films made every generation to explain what the sinking meant.
+
+No children learning the ship's name before they learned what an ocean liner was.
+
+Titanic was built.
+
+Titanic sailed.
+
+Titanic got old.
+
+Titanic was scrapped.
+
+Nothing happened.
+
+That sentence has appeared several times in this series.
+
+Sometimes sarcastically.
+
+Sometimes as a warning.
+
+Sometimes as the description of an institution doing its job.
+
+Sometimes as the description of a disaster that almost happened and did not.
+
+It is tempting, after everything we have covered, to treat nothing happening as an absence.
+
+It is not.
+
+Sometimes nothing happens because nobody did anything.
+
+Sometimes nothing happens because people were lucky.
+
+Sometimes nothing happens because thousands of people built rules, checked assumptions, argued over procedures, repaired systems, admitted uncertainty, and left choices open for people they would never meet.
+
+Those kinds of nothing are not the same.
+
+Titanic missed the iceberg.
+
+At first, people thought this meant the system had worked.
+
+They were wrong.
+
+Twenty-three years later, Columbia taught them how wrong.
+
+Nearly two centuries later, we are still arguing about what came after.
+
+I do not have a final theory that resolves all of it.
+
+I distrust final theories.
+
+But I have spent eleven books with one recurring thought.
+
+The goal was never to build a world in which nothing could go wrong.
+
+The goal was to build one in which things could go wrong without requiring catastrophe to teach us what we should have known before.
+
+If we have learned that, then perhaps the age of Catastrophes really is over.
+
+Historians should be suspicious of sentences like that.
+
+I hope this one is true.
+
+And since people have been asking since Book Nine:
+
+yes.
+
+We are using the Open Circuit version.
+
+Thanks for listening.

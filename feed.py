@@ -160,6 +160,9 @@ def stable_guid(path):
 
 
 def feed_display_title(book_number, episode_number, title):
+    if episode_number == "supplemental":
+        return f"A Catastrophes Supplemental: {title}"
+
     return (
         f"Book {number_words(book_number)}, "
         f"Episode {number_words(episode_number)}: "
@@ -490,13 +493,32 @@ def discover_episodes(assembled_dir):
         missing = sorted(required - metadata.keys())
         if missing:
             raise SystemExit(f"Missing metadata fields in {metadata_path}: {', '.join(missing)}")
-        for field in ("production_episode", "book_number", "in_universe_episode"):
+        for field in ("production_episode", "book_number"):
             try:
                 metadata[field] = int(metadata[field])
             except (TypeError, ValueError):
                 raise SystemExit(f"{field} must be an integer in {metadata_path}")
             if metadata[field] < 1:
                 raise SystemExit(f"{field} must be positive in {metadata_path}")
+
+        in_universe_episode = metadata["in_universe_episode"]
+        if (
+            isinstance(in_universe_episode, str)
+            and in_universe_episode.lower() == "supplemental"
+        ):
+            metadata["in_universe_episode"] = "supplemental"
+        else:
+            try:
+                metadata["in_universe_episode"] = int(in_universe_episode)
+            except (TypeError, ValueError):
+                raise SystemExit(
+                    "in_universe_episode must be a positive integer or "
+                    f"'supplemental' in {metadata_path}"
+                )
+            if metadata["in_universe_episode"] < 1:
+                raise SystemExit(
+                    f"in_universe_episode must be positive in {metadata_path}"
+                )
         filename_number = episode_number_from_filename(audio_path)
         if filename_number != metadata["production_episode"]:
             raise SystemExit(
