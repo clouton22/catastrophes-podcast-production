@@ -4,16 +4,16 @@
   "in_universe_episode": 8,
   "title": "The October Attempt",
   "chunk": 1,
-  "generated_utc": "2026-08-25T03:23:51.661212+00:00",
+  "generated_utc": "2026-08-26T01:05:04.918649+00:00",
   "provider": "ElevenLabs",
   "voice_id": "qSeXEcewz7tA0Q0qk9fH",
   "model_id": "eleven_v3",
   "output_format": "mp3_44100_128",
-  "character_count": 3611,
-  "estimated_api_cost_usd": 0.3611,
+  "character_count": 3633,
+  "estimated_api_cost_usd": 0.3633,
   "seed": 12345,
   "source_episode_file": "episode15.txt",
-  "source_text_sha256": "54afd8c628854337803bbc6a346f13458699d8f0bb9c556c27e26071162247da",
-  "audio_sha256": "bad7d4c210e345850235a77d785eb4df0f25e36e9d83c0a65d80aa0400c820e1",
-  "request_id": "gSJI7CVbRfNofQDIHJOO"
+  "source_text_sha256": "2da224fc8242f2fa1bdfdf12b467da5fb28027fce55c7fc01c90342c630eb623",
+  "audio_sha256": "0ae3076eeb1ec2cea364851b93ae4238bf76e59013d5845cc5adaebf1ecd7db9",
+  "request_id": "bth86IsZ7T3aD8kA8P1E"
 }

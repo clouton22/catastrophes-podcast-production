@@ -6,8 +6,8 @@
 **Book:** 10
 **In-universe episode:** 8
 **Title:** The October Attempt
-**Assembled UTC:** 2026-08-25T03:31:22.532601+00:00
-**Duration:** 00:24:16.065
+**Assembled UTC:** 2026-08-26T01:28:51.348711+00:00
+**Duration:** 00:24:20.611
 
 ## Production provenance
 
@@ -16,14 +16,14 @@
 **Narrator voice:** Victoria.
 **Voice ID(s):** qSeXEcewz7tA0Q0qk9fH
 **Model(s):** eleven_v3
-**Estimated ElevenLabs generation cost:** $2.244
+**Estimated ElevenLabs generation cost:** $2.246
 **Editing master:** `episode_15_the_october_attempt_master.wav`
 **Listening/export copy:** `episode_15_the_october_attempt.mp3`
 **Loudness target:** -19.0 LUFS, mono
 
-**Source episode SHA-256:** `f55858d4f9602982e7368e4ea84512b9fe570c9094ccaed48efc0d393088fcf2`
-**WAV master SHA-256:** `838da17119e438f0399381a25d065672e902fc1550bc2f908773219e7c6eb0e0`
-**MP3 export SHA-256:** `befce0a2cdd266d36f93aac30c9f0f596142ca88f28b81b4fe31541bb7159367`
+**Source episode SHA-256:** `abf0b0527a3107c2a5f4af366aec0d142a09b4bb57ba24b5bf0dee43914837ed`
+**WAV master SHA-256:** `b957c25759bb00117c9dd5c44ae8701af60933b3390866c1152f3701e89593cf`
+**MP3 export SHA-256:** `7d7accd4c7eefb6f1f40bc5738d3c6394f2dff9038f7bf9f9f9a8505bb25379d`
 
 Chunk timestamps below refer to the WAV editing master and are intended for locating fixes in Audacity.
 
@@ -31,26 +31,26 @@ Chunk timestamps below refer to the WAV editing master and are intended for loca
 
 | Chunk | Start | End | Duration | File | Model |
 | ---: | ---: | ---: | ---: | --- | --- |
-| 01 | 00:00:00.000 | 00:03:58.524 | 00:03:58.524 | `episode_15_01_the_october_attempt.mp3` | eleven_v3 |
-| 02 | 00:03:58.524 | 00:08:03.030 | 00:04:04.506 | `episode_15_02_the_october_attempt.mp3` | eleven_v3 |
-| 03 | 00:08:03.030 | 00:12:25.378 | 00:04:22.348 | `episode_15_03_the_october_attempt.mp3` | eleven_v3 |
-| 04 | 00:12:25.378 | 00:17:24.140 | 00:04:58.762 | `episode_15_04_the_october_attempt.mp3` | eleven_v3 |
-| 05 | 00:17:24.140 | 00:20:25.064 | 00:03:00.924 | `episode_15_05_the_october_attempt.mp3` | eleven_v3 |
-| 06 | 00:20:25.064 | 00:24:16.065 | 00:03:51.001 | `episode_15_06_the_october_attempt.mp3` | eleven_v3 |
+| 01 | 00:00:00.000 | 00:03:59.073 | 00:03:59.073 | `episode_15_01_the_october_attempt.mp3` | eleven_v3 |
+| 02 | 00:03:59.073 | 00:08:03.579 | 00:04:04.506 | `episode_15_02_the_october_attempt.mp3` | eleven_v3 |
+| 03 | 00:08:03.579 | 00:12:25.927 | 00:04:22.348 | `episode_15_03_the_october_attempt.mp3` | eleven_v3 |
+| 04 | 00:12:25.927 | 00:17:24.689 | 00:04:58.762 | `episode_15_04_the_october_attempt.mp3` | eleven_v3 |
+| 05 | 00:17:24.689 | 00:20:29.610 | 00:03:04.921 | `episode_15_05_the_october_attempt.mp3` | eleven_v3 |
+| 06 | 00:20:29.610 | 00:24:20.611 | 00:03:51.001 | `episode_15_06_the_october_attempt.mp3` | eleven_v3 |
 
 ## Chunk provenance
 
 ### Chunk 01
 
 - Audio: `episode_15_01_the_october_attempt.mp3`
-- Audio SHA-256: `bad7d4c210e345850235a77d785eb4df0f25e36e9d83c0a65d80aa0400c820e1`
-- Source text SHA-256: `54afd8c628854337803bbc6a346f13458699d8f0bb9c556c27e26071162247da`
-- Generated UTC: 2026-08-25T03:23:51.661212+00:00
+- Audio SHA-256: `0ae3076eeb1ec2cea364851b93ae4238bf76e59013d5845cc5adaebf1ecd7db9`
+- Source text SHA-256: `2da224fc8242f2fa1bdfdf12b467da5fb28027fce55c7fc01c90342c630eb623`
+- Generated UTC: 2026-08-26T01:05:04.918649+00:00
 - Model: eleven_v3
 - Voice ID: qSeXEcewz7tA0Q0qk9fH
-- Character count: 3611
-- Estimated API cost: $0.361
-- ElevenLabs request ID: `gSJI7CVbRfNofQDIHJOO`
+- Character count: 3633
+- Estimated API cost: $0.363
+- ElevenLabs request ID: `bth86IsZ7T3aD8kA8P1E`
 
 ### Chunk 02
 
@@ -91,14 +91,14 @@ Chunk timestamps below refer to the WAV editing master and are intended for loca
 ### Chunk 05
 
 - Audio: `episode_15_05_the_october_attempt.mp3`
-- Audio SHA-256: `7df7ad1496acf8205ff7c8051ae93521c3c3003ccc2e345e9a5909d7c9fc4a69`
+- Audio SHA-256: `87292eb15e82b109ebcbcb9c310e1beff40d7ee3884e7b762b5cd98c1296c21c`
 - Source text SHA-256: `98349b3904bfc0aecb44088670adf41015890b22534a1cce64d0edecc62c7eda`
-- Generated UTC: 2026-08-25T03:29:10.247297+00:00
+- Generated UTC: 2026-08-26T01:28:12.104065+00:00
 - Model: eleven_v3
 - Voice ID: qSeXEcewz7tA0Q0qk9fH
 - Character count: 2753
 - Estimated API cost: $0.275
-- ElevenLabs request ID: `DXDBXQbDGZWd14iGVcpR`
+- ElevenLabs request ID: `xxpNOUk4BX0qgML2CLnY`
 
 ### Chunk 06
 

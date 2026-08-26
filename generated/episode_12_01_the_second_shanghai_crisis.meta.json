@@ -4,16 +4,16 @@
   "in_universe_episode": 9,
   "title": "The Second Shanghai Crisis",
   "chunk": 1,
-  "generated_utc": "2026-08-24T23:00:06.464762+00:00",
+  "generated_utc": "2026-08-26T01:01:27.040593+00:00",
   "provider": "ElevenLabs",
   "voice_id": "qSeXEcewz7tA0Q0qk9fH",
   "model_id": "eleven_v3",
   "output_format": "mp3_44100_128",
-  "character_count": 3279,
-  "estimated_api_cost_usd": 0.3279,
+  "character_count": 3301,
+  "estimated_api_cost_usd": 0.3301,
   "seed": 12345,
   "source_episode_file": "episode12.txt",
-  "source_text_sha256": "6bd1d1bb0b702d3d8733f6b97fe35748e181466623d8ddc6f58dd90982ff9007",
-  "audio_sha256": "359823a27565229fc11367b44bc89c6933aa77624e5c2b3725e26b2db5c1c5f9",
-  "request_id": "uGEDoc95ay5WOmVXsknq"
+  "source_text_sha256": "3a819bcf41a36b246e23ac0e0de65db7398e3b5d6b0ffc9798b86dc3e8ad9840",
+  "audio_sha256": "6c22d572e7b3f6c86b56fecc9ad28718d84e66ddaea7c1d2f820b6b2ef0002b6",
+  "request_id": "z2A7okfn6KCN0HhDaXZ3"
 }

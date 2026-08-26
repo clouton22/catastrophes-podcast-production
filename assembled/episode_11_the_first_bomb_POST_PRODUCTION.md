@@ -6,8 +6,8 @@
 **Book:** 7
 **In-universe episode:** 10
 **Title:** The First Bomb
-**Assembled UTC:** 2026-08-24T03:26:39.962833+00:00
-**Duration:** 00:24:35.920
+**Assembled UTC:** 2026-08-26T01:06:18.328974+00:00
+**Duration:** 00:24:45.375
 
 ## Production provenance
 
@@ -16,14 +16,14 @@
 **Narrator voice:** Victoria.
 **Voice ID(s):** qSeXEcewz7tA0Q0qk9fH
 **Model(s):** eleven_v3
-**Estimated ElevenLabs generation cost:** $2.294
+**Estimated ElevenLabs generation cost:** $2.296
 **Editing master:** `episode_11_the_first_bomb_master.wav`
 **Listening/export copy:** `episode_11_the_first_bomb.mp3`
 **Loudness target:** -19.0 LUFS, mono
 
-**Source episode SHA-256:** `d6a22635abf272a3c54651117462071538c1045b2e78d9382d06f906e8fddf71`
-**WAV master SHA-256:** `3b3b9b968d3bb08280c5227d8530e227060dcab0518703ca62f3fab83da7b2ed`
-**MP3 export SHA-256:** `9936df75ba72c41d50b346895287f56b74090103fe8960949a0fbdcac31312e3`
+**Source episode SHA-256:** `0b05e47be5d51cf6aabe7574abc31b968af8160c416252f8e6d362bd0276a0ae`
+**WAV master SHA-256:** `f9ede80d6925a18196099e233fe66c9483e9513b9fe5aa1fa08e5fd087d7bcfc`
+**MP3 export SHA-256:** `242573cb221038f13dff1666a595aecdd31aec45c265c6ad0ed365a423fc7284`
 
 Chunk timestamps below refer to the WAV editing master and are intended for locating fixes in Audacity.
 
@@ -31,26 +31,26 @@ Chunk timestamps below refer to the WAV editing master and are intended for loca
 
 | Chunk | Start | End | Duration | File | Model |
 | ---: | ---: | ---: | ---: | --- | --- |
-| 01 | 00:00:00.000 | 00:04:00.320 | 00:04:00.320 | `episode_11_01_the_first_bomb.mp3` | eleven_v3 |
-| 02 | 00:04:00.320 | 00:08:40.400 | 00:04:40.080 | `episode_11_02_the_first_bomb.mp3` | eleven_v3 |
-| 03 | 00:08:40.400 | 00:12:12.720 | 00:03:32.320 | `episode_11_03_the_first_bomb.mp3` | eleven_v3 |
-| 04 | 00:12:12.720 | 00:16:11.840 | 00:03:59.120 | `episode_11_04_the_first_bomb.mp3` | eleven_v3 |
-| 05 | 00:16:11.840 | 00:20:05.920 | 00:03:54.080 | `episode_11_05_the_first_bomb.mp3` | eleven_v3 |
-| 06 | 00:20:05.920 | 00:24:35.920 | 00:04:30.000 | `episode_11_06_the_first_bomb.mp3` | eleven_v3 |
+| 01 | 00:00:00.000 | 00:04:09.626 | 00:04:09.626 | `episode_11_01_the_first_bomb.mp3` | eleven_v3 |
+| 02 | 00:04:09.626 | 00:08:49.737 | 00:04:40.111 | `episode_11_02_the_first_bomb.mp3` | eleven_v3 |
+| 03 | 00:08:49.737 | 00:12:22.087 | 00:03:32.349 | `episode_11_03_the_first_bomb.mp3` | eleven_v3 |
+| 04 | 00:12:22.087 | 00:16:21.238 | 00:03:59.151 | `episode_11_04_the_first_bomb.mp3` | eleven_v3 |
+| 05 | 00:16:21.238 | 00:20:15.347 | 00:03:54.109 | `episode_11_05_the_first_bomb.mp3` | eleven_v3 |
+| 06 | 00:20:15.347 | 00:24:45.375 | 00:04:30.028 | `episode_11_06_the_first_bomb.mp3` | eleven_v3 |
 
 ## Chunk provenance
 
 ### Chunk 01
 
 - Audio: `episode_11_01_the_first_bomb.mp3`
-- Audio SHA-256: `737f7900a4e96b33d811f73f0e2db150ff5a9f077b8f83217b3d736082ed65e6`
-- Source text SHA-256: `54186d098fdec0821111bc0c78102b80c00f98b5db89e792bb9426d4011393a8`
-- Generated UTC: 2026-08-24T02:35:21.183699+00:00
+- Audio SHA-256: `1ca47beb145cb437e1f2183198ac5da3780224bc2be775be1207252adec6396b`
+- Source text SHA-256: `3df8168c60c55321a257c617b7691657718e0bee67322136f8ad6f1325210f7a`
+- Generated UTC: 2026-08-26T01:00:23.524031+00:00
 - Model: eleven_v3
 - Voice ID: qSeXEcewz7tA0Q0qk9fH
-- Character count: 3534
-- Estimated API cost: $0.353
-- ElevenLabs request ID: `JsxYPwxXVWeOguXWKEl9`
+- Character count: 3556
+- Estimated API cost: $0.356
+- ElevenLabs request ID: `zOIcQrLC8Ighx7DehdNF`
 
 ### Chunk 02
 

@@ -6,8 +6,8 @@
 **Book:** 9
 **In-universe episode:** 6
 **Title:** The Tanks Stop
-**Assembled UTC:** 2026-08-25T02:23:08.737105+00:00
-**Duration:** 00:22:26.299
+**Assembled UTC:** 2026-08-26T01:07:56.135732+00:00
+**Duration:** 00:22:54.537
 
 ## Production provenance
 
@@ -16,14 +16,14 @@
 **Narrator voice:** Victoria.
 **Voice ID(s):** qSeXEcewz7tA0Q0qk9fH
 **Model(s):** eleven_v3
-**Estimated ElevenLabs generation cost:** $2.117
+**Estimated ElevenLabs generation cost:** $2.119
 **Editing master:** `episode_14_the_tanks_stop_master.wav`
 **Listening/export copy:** `episode_14_the_tanks_stop.mp3`
 **Loudness target:** -19.0 LUFS, mono
 
-**Source episode SHA-256:** `d74abc9107b5343bb68e441ce098b29f17d656a36c1776649cb73067eccdb731`
-**WAV master SHA-256:** `191a5b96efdfa16c24ebdf026e998c46aff241ed734959183772e5b5d3c80f45`
-**MP3 export SHA-256:** `e188ce996f4ed8127fe2fd298eb051c0836c18da37665f5c9e2acb3ea9f3bad6`
+**Source episode SHA-256:** `8a0868ccfae4045456b8a56bcfb0cf1baf5ae4c33db0ee9e6a26a9b6fbff8ebc`
+**WAV master SHA-256:** `4156afb0bb47465cf410b0ec9145728ba503da223349a9894183b5439942068d`
+**MP3 export SHA-256:** `818c4ee379f4bd83d2d95ed83073c74a593a14874ec62bfb11b9fe58c47e5ae3`
 
 Chunk timestamps below refer to the WAV editing master and are intended for locating fixes in Audacity.
 
@@ -31,26 +31,26 @@ Chunk timestamps below refer to the WAV editing master and are intended for loca
 
 | Chunk | Start | End | Duration | File | Model |
 | ---: | ---: | ---: | ---: | --- | --- |
-| 01 | 00:00:00.000 | 00:03:38.593 | 00:03:38.593 | `episode_14_01_the_tanks_stop.mp3` | eleven_v3 |
-| 02 | 00:03:38.593 | 00:07:07.259 | 00:03:28.666 | `episode_14_02_the_tanks_stop.mp3` | eleven_v3 |
-| 03 | 00:07:07.259 | 00:11:12.575 | 00:04:05.316 | `episode_14_03_the_tanks_stop.mp3` | eleven_v3 |
-| 04 | 00:11:12.575 | 00:15:12.144 | 00:03:59.569 | `episode_14_04_the_tanks_stop.mp3` | eleven_v3 |
-| 05 | 00:15:12.144 | 00:19:07.063 | 00:03:54.919 | `episode_14_05_the_tanks_stop.mp3` | eleven_v3 |
-| 06 | 00:19:07.063 | 00:22:26.299 | 00:03:19.236 | `episode_14_06_the_tanks_stop.mp3` | eleven_v3 |
+| 01 | 00:00:00.000 | 00:04:06.831 | 00:04:06.831 | `episode_14_01_the_tanks_stop.mp3` | eleven_v3 |
+| 02 | 00:04:06.831 | 00:07:35.497 | 00:03:28.666 | `episode_14_02_the_tanks_stop.mp3` | eleven_v3 |
+| 03 | 00:07:35.497 | 00:11:40.813 | 00:04:05.316 | `episode_14_03_the_tanks_stop.mp3` | eleven_v3 |
+| 04 | 00:11:40.813 | 00:15:40.382 | 00:03:59.569 | `episode_14_04_the_tanks_stop.mp3` | eleven_v3 |
+| 05 | 00:15:40.382 | 00:19:35.301 | 00:03:54.919 | `episode_14_05_the_tanks_stop.mp3` | eleven_v3 |
+| 06 | 00:19:35.301 | 00:22:54.537 | 00:03:19.236 | `episode_14_06_the_tanks_stop.mp3` | eleven_v3 |
 
 ## Chunk provenance
 
 ### Chunk 01
 
 - Audio: `episode_14_01_the_tanks_stop.mp3`
-- Audio SHA-256: `162278081fa5106f5bceb87af97da2b70ced41a447fd1ee87d40c8576835a5ab`
-- Source text SHA-256: `9d1167bf51c1cd8b091da32123cb28b5652935231b20b6ad3581def695aa2d9c`
-- Generated UTC: 2026-08-25T02:16:12.560197+00:00
+- Audio SHA-256: `e52f7bc657df33b251608fc2772725673f5ddfecd670a4a071df7aec9b327188`
+- Source text SHA-256: `30f2edf674850159994a6362c87f627158f695cb491262d2589e443c768178c1`
+- Generated UTC: 2026-08-26T01:03:42.744490+00:00
 - Model: eleven_v3
 - Voice ID: qSeXEcewz7tA0Q0qk9fH
-- Character count: 3486
-- Estimated API cost: $0.349
-- ElevenLabs request ID: `eQwQcb8NdJUR6Y4GpXDP`
+- Character count: 3508
+- Estimated API cost: $0.351
+- ElevenLabs request ID: `F8RifbutGaQFtWyB8OEq`
 
 ### Chunk 02
 

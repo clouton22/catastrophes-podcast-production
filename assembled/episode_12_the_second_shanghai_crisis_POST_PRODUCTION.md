@@ -6,8 +6,8 @@
 **Book:** 8
 **In-universe episode:** 9
 **Title:** The Second Shanghai Crisis
-**Assembled UTC:** 2026-08-25T00:52:00.411229+00:00
-**Duration:** 00:20:25.691
+**Assembled UTC:** 2026-08-26T01:06:49.146955+00:00
+**Duration:** 00:20:33.371
 
 ## Production provenance
 
@@ -16,14 +16,14 @@
 **Narrator voice:** Victoria.
 **Voice ID(s):** qSeXEcewz7tA0Q0qk9fH
 **Model(s):** eleven_v3
-**Estimated ElevenLabs generation cost:** $1.920
+**Estimated ElevenLabs generation cost:** $1.923
 **Editing master:** `episode_12_the_second_shanghai_crisis_master.wav`
 **Listening/export copy:** `episode_12_the_second_shanghai_crisis.mp3`
 **Loudness target:** -19.0 LUFS, mono
 
-**Source episode SHA-256:** `b195f1133c1d1517b3779159684a7071f2d528f7b3d6fa9c68e4e9920463cb27`
-**WAV master SHA-256:** `c9fb21ea297e508266175cd181533ee8bc7010939e4e8b3a3764a56d99bf2348`
-**MP3 export SHA-256:** `dccc18b079829dac9d9b49712b3fbd537df059fd6140b52296f877e287fe8ed4`
+**Source episode SHA-256:** `959ca196379d6232598e143e0d27129dda7c7abcecb0cf224c78adca9893b7cf`
+**WAV master SHA-256:** `4e5f686d02984b40e1c97837c676a431eb3602cb6a01e79126813b723cb95327`
+**MP3 export SHA-256:** `fabc49a5eb401a08613496799e97d1748954bf110cc67476bdf421de9e05af19`
 
 Chunk timestamps below refer to the WAV editing master and are intended for locating fixes in Audacity.
 
@@ -31,26 +31,26 @@ Chunk timestamps below refer to the WAV editing master and are intended for loca
 
 | Chunk | Start | End | Duration | File | Model |
 | ---: | ---: | ---: | ---: | --- | --- |
-| 01 | 00:00:00.000 | 00:03:39.011 | 00:03:39.011 | `episode_12_01_the_second_shanghai_crisis.mp3` | eleven_v3 |
-| 02 | 00:03:39.011 | 00:06:49.443 | 00:03:10.433 | `episode_12_02_the_second_shanghai_crisis.mp3` | eleven_v3 |
-| 03 | 00:06:49.443 | 00:10:03.716 | 00:03:14.273 | `episode_12_03_the_second_shanghai_crisis.mp3` | eleven_v3 |
-| 04 | 00:10:03.716 | 00:12:58.005 | 00:02:54.289 | `episode_12_04_the_second_shanghai_crisis.mp3` | eleven_v3 |
-| 05 | 00:12:58.005 | 00:17:39.082 | 00:04:41.078 | `episode_12_05_the_second_shanghai_crisis.mp3` | eleven_v3 |
-| 06 | 00:17:39.082 | 00:20:25.691 | 00:02:46.609 | `episode_12_06_the_second_shanghai_crisis.mp3` | eleven_v3 |
+| 01 | 00:00:00.000 | 00:03:46.691 | 00:03:46.691 | `episode_12_01_the_second_shanghai_crisis.mp3` | eleven_v3 |
+| 02 | 00:03:46.691 | 00:06:57.123 | 00:03:10.433 | `episode_12_02_the_second_shanghai_crisis.mp3` | eleven_v3 |
+| 03 | 00:06:57.123 | 00:10:11.396 | 00:03:14.273 | `episode_12_03_the_second_shanghai_crisis.mp3` | eleven_v3 |
+| 04 | 00:10:11.396 | 00:13:05.685 | 00:02:54.289 | `episode_12_04_the_second_shanghai_crisis.mp3` | eleven_v3 |
+| 05 | 00:13:05.685 | 00:17:46.762 | 00:04:41.078 | `episode_12_05_the_second_shanghai_crisis.mp3` | eleven_v3 |
+| 06 | 00:17:46.762 | 00:20:33.371 | 00:02:46.609 | `episode_12_06_the_second_shanghai_crisis.mp3` | eleven_v3 |
 
 ## Chunk provenance
 
 ### Chunk 01
 
 - Audio: `episode_12_01_the_second_shanghai_crisis.mp3`
-- Audio SHA-256: `359823a27565229fc11367b44bc89c6933aa77624e5c2b3725e26b2db5c1c5f9`
-- Source text SHA-256: `6bd1d1bb0b702d3d8733f6b97fe35748e181466623d8ddc6f58dd90982ff9007`
-- Generated UTC: 2026-08-24T23:00:06.464762+00:00
+- Audio SHA-256: `6c22d572e7b3f6c86b56fecc9ad28718d84e66ddaea7c1d2f820b6b2ef0002b6`
+- Source text SHA-256: `3a819bcf41a36b246e23ac0e0de65db7398e3b5d6b0ffc9798b86dc3e8ad9840`
+- Generated UTC: 2026-08-26T01:01:27.040593+00:00
 - Model: eleven_v3
 - Voice ID: qSeXEcewz7tA0Q0qk9fH
-- Character count: 3279
-- Estimated API cost: $0.328
-- ElevenLabs request ID: `uGEDoc95ay5WOmVXsknq`
+- Character count: 3301
+- Estimated API cost: $0.330
+- ElevenLabs request ID: `z2A7okfn6KCN0HhDaXZ3`
 
 ### Chunk 02
 

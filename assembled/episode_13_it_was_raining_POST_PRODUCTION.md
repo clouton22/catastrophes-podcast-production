@@ -6,8 +6,8 @@
 **Book:** 9
 **In-universe episode:** 1
 **Title:** It Was Raining
-**Assembled UTC:** 2026-08-25T01:50:05.240164+00:00
-**Duration:** 00:22:57.123
+**Assembled UTC:** 2026-08-26T01:07:22.544387+00:00
+**Duration:** 00:22:55.295
 
 ## Production provenance
 
@@ -16,14 +16,14 @@
 **Narrator voice:** Victoria.
 **Voice ID(s):** qSeXEcewz7tA0Q0qk9fH
 **Model(s):** eleven_v3
-**Estimated ElevenLabs generation cost:** $2.052
+**Estimated ElevenLabs generation cost:** $2.054
 **Editing master:** `episode_13_it_was_raining_master.wav`
 **Listening/export copy:** `episode_13_it_was_raining.mp3`
 **Loudness target:** -19.0 LUFS, mono
 
-**Source episode SHA-256:** `9a098e1f8e8b0852fe25c37adcffa78460a5be82dddcae263bc108b1a0901c19`
-**WAV master SHA-256:** `08fa130f53daed9eb5f6101358c1948473fedb13795843aaff6dd6d7c6c24745`
-**MP3 export SHA-256:** `ff60c41c01aba8294ea55ebb02406297676e9ddbbd22efcd9c865519e0c2792f`
+**Source episode SHA-256:** `9877f156c5795ad296d2c91320d681931f62e2af7f6f0e0c4163c49488bdc63c`
+**WAV master SHA-256:** `a7cddfe87c8b247cade3b12d56da672319847127beba5dae2b10bef0ada1a1ac`
+**MP3 export SHA-256:** `634e114dd0c2f75ab955d18a4c7e665bc3674de45bfaed6374052ec2d044cc3f`
 
 Chunk timestamps below refer to the WAV editing master and are intended for locating fixes in Audacity.
 
@@ -31,26 +31,26 @@ Chunk timestamps below refer to the WAV editing master and are intended for loca
 
 | Chunk | Start | End | Duration | File | Model |
 | ---: | ---: | ---: | ---: | --- | --- |
-| 01 | 00:00:00.000 | 00:03:47.318 | 00:03:47.318 | `episode_13_01_it_was_raining.mp3` | eleven_v3 |
-| 02 | 00:03:47.318 | 00:07:34.557 | 00:03:47.239 | `episode_13_02_it_was_raining.mp3` | eleven_v3 |
-| 03 | 00:07:34.557 | 00:11:38.984 | 00:04:04.428 | `episode_13_03_it_was_raining.mp3` | eleven_v3 |
-| 04 | 00:11:38.984 | 00:15:40.069 | 00:04:01.084 | `episode_13_04_it_was_raining.mp3` | eleven_v3 |
-| 05 | 00:15:40.069 | 00:19:04.999 | 00:03:24.931 | `episode_13_05_it_was_raining.mp3` | eleven_v3 |
-| 06 | 00:19:04.999 | 00:22:57.123 | 00:03:52.124 | `episode_13_06_it_was_raining.mp3` | eleven_v3 |
+| 01 | 00:00:00.000 | 00:03:45.489 | 00:03:45.489 | `episode_13_01_it_was_raining.mp3` | eleven_v3 |
+| 02 | 00:03:45.489 | 00:07:32.728 | 00:03:47.239 | `episode_13_02_it_was_raining.mp3` | eleven_v3 |
+| 03 | 00:07:32.728 | 00:11:37.156 | 00:04:04.428 | `episode_13_03_it_was_raining.mp3` | eleven_v3 |
+| 04 | 00:11:37.156 | 00:15:38.240 | 00:04:01.084 | `episode_13_04_it_was_raining.mp3` | eleven_v3 |
+| 05 | 00:15:38.240 | 00:19:03.171 | 00:03:24.931 | `episode_13_05_it_was_raining.mp3` | eleven_v3 |
+| 06 | 00:19:03.171 | 00:22:55.295 | 00:03:52.124 | `episode_13_06_it_was_raining.mp3` | eleven_v3 |
 
 ## Chunk provenance
 
 ### Chunk 01
 
 - Audio: `episode_13_01_it_was_raining.mp3`
-- Audio SHA-256: `5fc6f2c734dec5b1393c89a89d17523d3c2d2ff778eed1d09c83f59d37863a3a`
-- Source text SHA-256: `20ba55293654f8e320c8459486a8af9827fe9a30132d33f3f2ca5dd60f895125`
-- Generated UTC: 2026-08-25T01:43:16.577658+00:00
+- Audio SHA-256: `8d6d3e099b39f6f39a2dda005cc8fd1a644056aed6469f1aa32d3bde08156b87`
+- Source text SHA-256: `989ea9400eca3d63bff9146edd3c166e3df46f3c233d8e362831b7b6f9a576d7`
+- Generated UTC: 2026-08-26T01:02:38.698740+00:00
 - Model: eleven_v3
 - Voice ID: qSeXEcewz7tA0Q0qk9fH
-- Character count: 3168
-- Estimated API cost: $0.317
-- ElevenLabs request ID: `r09Oxh0rSNykph4ckhxI`
+- Character count: 3190
+- Estimated API cost: $0.319
+- ElevenLabs request ID: `5DgylpU8kEOpsrhPifqp`
 
 ### Chunk 02
 

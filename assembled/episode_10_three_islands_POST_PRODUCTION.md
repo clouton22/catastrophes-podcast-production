@@ -6,8 +6,8 @@
 **Book:** 6
 **In-universe episode:** 4
 **Title:** Three Islands
-**Assembled UTC:** 2026-08-24T00:59:43.753283+00:00
-**Duration:** 00:20:23.040
+**Assembled UTC:** 2026-08-26T01:05:42.513927+00:00
+**Duration:** 00:20:32.875
 
 ## Production provenance
 
@@ -16,14 +16,14 @@
 **Narrator voice:** Victoria.
 **Voice ID(s):** qSeXEcewz7tA0Q0qk9fH
 **Model(s):** eleven_v3
-**Estimated ElevenLabs generation cost:** $1.967
+**Estimated ElevenLabs generation cost:** $1.969
 **Editing master:** `episode_10_three_islands_master.wav`
 **Listening/export copy:** `episode_10_three_islands.mp3`
 **Loudness target:** -19.0 LUFS, mono
 
-**Source episode SHA-256:** `e865aeee6dc80f3286267ba5f83acc9e16fdf8f09ebd23c1a4c1f0f940e55269`
-**WAV master SHA-256:** `10fa65fda7ac0341b69348af0dc3fefd539eec4e1ee09a5ff66d2b4b597ee293`
-**MP3 export SHA-256:** `d3141421ab6f25e06909d9f445fe33a1753f49e40f6ae338721c3a2eb83509ab`
+**Source episode SHA-256:** `b3d1de3e29957b465d4907edd341ce69c7001872316329b81a1ed4ea83b4a88a`
+**WAV master SHA-256:** `2727919c3a3dcc56a2d150934fa822c83336420254a3a07fa6a4d15adca6055f`
+**MP3 export SHA-256:** `8c2dcfaafb5f440be9905e84839328a97bf5ffac2970cf5146ce9ac6a237ad5d`
 
 Chunk timestamps below refer to the WAV editing master and are intended for locating fixes in Audacity.
 
@@ -31,26 +31,26 @@ Chunk timestamps below refer to the WAV editing master and are intended for loca
 
 | Chunk | Start | End | Duration | File | Model |
 | ---: | ---: | ---: | ---: | --- | --- |
-| 01 | 00:00:00.000 | 00:03:14.240 | 00:03:14.240 | `episode_10_01_three_islands.mp3` | eleven_v3 |
-| 02 | 00:03:14.240 | 00:08:20.080 | 00:05:05.840 | `episode_10_02_three_islands.mp3` | eleven_v3 |
-| 03 | 00:08:20.080 | 00:11:34.880 | 00:03:14.800 | `episode_10_03_three_islands.mp3` | eleven_v3 |
-| 04 | 00:11:34.880 | 00:14:52.080 | 00:03:17.200 | `episode_10_04_three_islands.mp3` | eleven_v3 |
-| 05 | 00:14:52.080 | 00:17:40.720 | 00:02:48.640 | `episode_10_05_three_islands.mp3` | eleven_v3 |
-| 06 | 00:17:40.720 | 00:20:23.040 | 00:02:42.320 | `episode_10_06_three_islands.mp3` | eleven_v3 |
+| 01 | 00:00:00.000 | 00:03:23.886 | 00:03:23.886 | `episode_10_01_three_islands.mp3` | eleven_v3 |
+| 02 | 00:03:23.886 | 00:08:29.753 | 00:05:05.868 | `episode_10_02_three_islands.mp3` | eleven_v3 |
+| 03 | 00:08:29.753 | 00:11:44.601 | 00:03:14.847 | `episode_10_03_three_islands.mp3` | eleven_v3 |
+| 04 | 00:11:44.601 | 00:15:01.851 | 00:03:17.251 | `episode_10_04_three_islands.mp3` | eleven_v3 |
+| 05 | 00:15:01.851 | 00:17:50.524 | 00:02:48.673 | `episode_10_05_three_islands.mp3` | eleven_v3 |
+| 06 | 00:17:50.524 | 00:20:32.875 | 00:02:42.351 | `episode_10_06_three_islands.mp3` | eleven_v3 |
 
 ## Chunk provenance
 
 ### Chunk 01
 
 - Audio: `episode_10_01_three_islands.mp3`
-- Audio SHA-256: `fde0e0e7251f18afa844bd72c79a72c55754bbf8ba92ababbd2e4e2335e9ec0f`
-- Source text SHA-256: `6fd7cd396682b51d55a786c9c989872749cef39936b795f6314bd8354eef8c1b`
-- Generated UTC: 2026-08-24T00:45:24.895336+00:00
+- Audio SHA-256: `963303aaa4682b29bcf8edb0dc5c9365dca18d3aebfc50aa77b6f4e4f7b9abce`
+- Source text SHA-256: `2ce2e853267ac96aaa077942d858bb128b42865852168db45da8194a90c494a5`
+- Generated UTC: 2026-08-26T00:59:15.375948+00:00
 - Model: eleven_v3
 - Voice ID: qSeXEcewz7tA0Q0qk9fH
-- Character count: 3201
-- Estimated API cost: $0.320
-- ElevenLabs request ID: `gOLhmogOB8otwI1EHFRw`
+- Character count: 3223
+- Estimated API cost: $0.322
+- ElevenLabs request ID: `twJkPzaX6ELPdkPecL4b`
 
 ### Chunk 02
 

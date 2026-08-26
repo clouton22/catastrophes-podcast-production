@@ -5,7 +5,7 @@
 
 @chunk 1
 
-Book Ten, Episode Eight: The October Attempt.
+This is Catastrophes. Book Ten, Episode Eight: The October Attempt.
 
 It is October, twenty seventy-eight.
 
