@@ -6,6 +6,8 @@
 **Book:** 6
 **In-universe episode:** 4
 **Title:** Three Islands
+
+**Production revision:** 1.0
 **Assembled UTC:** 2026-08-26T01:05:42.513927+00:00
 **Duration:** 00:20:32.875
 
@@ -21,9 +23,15 @@
 **Listening/export copy:** `episode_10_three_islands.mp3`
 **Loudness target:** -19.0 LUFS, mono
 
-**Source episode SHA-256:** `b3d1de3e29957b465d4907edd341ce69c7001872316329b81a1ed4ea83b4a88a`
+**Source episode SHA-256:** `91eb74a7258609dc02364d6b89dbe7399f409ceaa2ef3caabfc09f00de528fc0`
 **WAV master SHA-256:** `2727919c3a3dcc56a2d150934fa822c83336420254a3a07fa6a4d15adca6055f`
 **MP3 export SHA-256:** `8c2dcfaafb5f440be9905e84839328a97bf5ffac2970cf5146ce9ac6a237ad5d`
+
+## Revision history
+
+| Revision | Date | Changes |
+| --- | --- | --- |
+| 1.0 | 2026-08-26 | Baseline before targeted post-production revisions. |
 
 Chunk timestamps below refer to the WAV editing master and are intended for locating fixes in Audacity.
 

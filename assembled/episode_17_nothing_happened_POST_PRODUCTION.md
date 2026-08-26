@@ -6,6 +6,8 @@
 **Book:** 11
 **In-universe episode:** 12
 **Title:** Nothing Happened
+
+**Production revision:** 1.0
 **Assembled UTC:** 2026-08-26T20:43:12.871040+00:00
 **Duration:** 00:21:36.510
 
@@ -21,9 +23,15 @@
 **Listening/export copy:** `episode_17_nothing_happened.mp3`
 **Loudness target:** -19.0 LUFS, mono
 
-**Source episode SHA-256:** `7658f5efa29f4ca79d4dc6c047c3c9da7e73db84440a5be8c405720baf8f1945`
+**Source episode SHA-256:** `d228963d47be09615ee34ad4ca128daca54a856302addb7b80a08083163c6a24`
 **WAV master SHA-256:** `57a8956b60145b95e42c79c99c8652f20a77e291f05acd4e05785c46b8c6b9b1`
 **MP3 export SHA-256:** `25f3ff600e1b49c16669ff4d40803742395b2935828ce684302e8f03795f5576`
+
+## Revision history
+
+| Revision | Date | Changes |
+| --- | --- | --- |
+| 1.0 | 2026-08-26 | Baseline before targeted post-production revisions. |
 
 Chunk timestamps below preserve the original assembly provenance. The manual Chunk 02 to Chunk 03 seam repair documented below shortens the WAV by 50 ms; content after that seam is therefore 50 ms earlier than the original tabulated positions.
 

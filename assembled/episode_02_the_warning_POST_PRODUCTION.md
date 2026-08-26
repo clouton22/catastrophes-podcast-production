@@ -6,6 +6,8 @@
 **Book:** 01
 **In-universe episode:** 03
 **Title:** The Warning
+
+**Production revision:** 1.0
 **Assembled UTC:** 2026-08-22T23:28:56.755513+00:00
 **Duration:** 00:23:27.040
 
@@ -21,9 +23,15 @@
 **Listening/export copy:** `episode_02_the_warning.mp3`
 **Loudness target:** -19.0 LUFS, mono
 
-**Source episode SHA-256:** `76a22166c7ed0522b9702c7944fa306de913b6c918631c993e17ec35ae560c23`
+**Source episode SHA-256:** `8f3b54ec837cdda06fc738df9659cc8217130ba4cee330d78f979f3c5b470ea3`
 **WAV master SHA-256:** `3e9446fbd90c943dd09088e5f90569174f2531500dcf94e80f69868343d29871`
 **MP3 export SHA-256:** `6393b90b26aedead086f29566bac45fadf4f15bbd0de6ae73b84a6defb01d5df`
+
+## Revision history
+
+| Revision | Date | Changes |
+| --- | --- | --- |
+| 1.0 | 2026-08-26 | Baseline before targeted post-production revisions. |
 
 Chunk timestamps below refer to the WAV editing master and are intended for locating fixes in Audacity.
 

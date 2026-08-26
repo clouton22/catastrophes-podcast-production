@@ -6,6 +6,8 @@
 **Book:** 03
 **In-universe episode:** 08
 **Title:** The Atomic Settlement
+
+**Production revision:** 1.0
 **Assembled UTC:** 2026-08-22T23:31:51.204056+00:00
 **Duration:** 00:18:30.240
 
@@ -21,9 +23,15 @@
 **Listening/export copy:** `episode_05_the_atomic_settlement.mp3`
 **Loudness target:** -19.0 LUFS, mono
 
-**Source episode SHA-256:** `4ec580fa9431a202010e2b55edd7b6df60306b098b3a1d3a712cf9f6dfcd01bc`
+**Source episode SHA-256:** `89b3e6b083e236a901a724b052d215e4f26a0200994fa3be21a6b2051434de7d`
 **WAV master SHA-256:** `ae42d67155156cb380d1f18011813ea648a2fadc2135c544161b7e3bef78cc70`
 **MP3 export SHA-256:** `cba5fba37f8103eab0ee2557864635db3a4c35194bfc384c13efb016cc4093f6`
+
+## Revision history
+
+| Revision | Date | Changes |
+| --- | --- | --- |
+| 1.0 | 2026-08-26 | Baseline before targeted post-production revisions. |
 
 Chunk timestamps below refer to the WAV editing master and are intended for locating fixes in Audacity.
 

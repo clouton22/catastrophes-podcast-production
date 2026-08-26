@@ -6,6 +6,8 @@
 **Book:** 4
 **In-universe episode:** 3
 **Title:** Margaret Helen Ward
+
+**Production revision:** 1.0
 **Assembled UTC:** 2026-08-23T01:50:42.605216+00:00
 **Duration:** 00:31:15.440
 
@@ -21,9 +23,15 @@
 **Listening/export copy:** `episode_6_margaret_helen_ward.mp3`
 **Loudness target:** -19.0 LUFS, mono
 
-**Source episode SHA-256:** `d13204f7c341bd3c484a1be52710cc873a8f0a173ebe08a3e0814ddfb4a59388`
+**Source episode SHA-256:** `1cecdde0ae0c4bba44ffa7b29c3c6f89c225597632ac28c4ba2a6e1f006aec73`
 **WAV master SHA-256:** `de9b790694e1672d3a1a5db3f3ea3580b1245e484192f38cd839e22a8edf0038`
 **MP3 export SHA-256:** `ffdf514c8faaa136f1681c84057731136f2999bbf1244b308494a4de459cd1f2`
+
+## Revision history
+
+| Revision | Date | Changes |
+| --- | --- | --- |
+| 1.0 | 2026-08-26 | Baseline before targeted post-production revisions. |
 
 Chunk timestamps below refer to the WAV editing master and are intended for locating fixes in Audacity.
 

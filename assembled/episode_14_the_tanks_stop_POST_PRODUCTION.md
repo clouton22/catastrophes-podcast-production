@@ -6,6 +6,8 @@
 **Book:** 9
 **In-universe episode:** 6
 **Title:** The Tanks Stop
+
+**Production revision:** 1.0
 **Assembled UTC:** 2026-08-26T01:07:56.135732+00:00
 **Duration:** 00:22:54.537
 
@@ -21,9 +23,15 @@
 **Listening/export copy:** `episode_14_the_tanks_stop.mp3`
 **Loudness target:** -19.0 LUFS, mono
 
-**Source episode SHA-256:** `8a0868ccfae4045456b8a56bcfb0cf1baf5ae4c33db0ee9e6a26a9b6fbff8ebc`
+**Source episode SHA-256:** `1b2ab663d7398e82e14b6a134f87cf217407e25e6b49869dd37184249aec3951`
 **WAV master SHA-256:** `4156afb0bb47465cf410b0ec9145728ba503da223349a9894183b5439942068d`
 **MP3 export SHA-256:** `818c4ee379f4bd83d2d95ed83073c74a593a14874ec62bfb11b9fe58c47e5ae3`
+
+## Revision history
+
+| Revision | Date | Changes |
+| --- | --- | --- |
+| 1.0 | 2026-08-26 | Baseline before targeted post-production revisions. |
 
 Chunk timestamps below refer to the WAV editing master and are intended for locating fixes in Audacity.
 

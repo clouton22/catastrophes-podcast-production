@@ -3,6 +3,8 @@
 @episode 6
 @title Common Mode
 
+@revision 1.0
+
 @chunk 01
 This is Catastrophes. Book Five, Episode Six: Common Mode.
 

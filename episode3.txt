@@ -2,6 +2,7 @@
 @book 01
 @episode 09
 @title Roosevelt
+@revision 1.0
 
 @chunk 01
 This is Catastrophes. Book One, Episode Nine: Roosevelt. And if you have been listening straight through, then since we last spent an entire episode with Titanic, we have gone through three years of congressional hearings, a major maritime reform act, the partial collapse of the old Democratic coalition, the revival of the Progressive Party, two extremely unpleasant elections, and more Robert La Follette Junior than anyone except Robert La Follette Junior probably wanted.

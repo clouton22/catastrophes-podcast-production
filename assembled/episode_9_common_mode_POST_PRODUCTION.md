@@ -6,6 +6,8 @@
 **Book:** 5
 **In-universe episode:** 6
 **Title:** Common Mode
+
+**Production revision:** 1.0
 **Assembled UTC:** 2026-08-24T03:48:41.554708+00:00
 **Duration:** 00:21:00.069
 
@@ -21,9 +23,15 @@
 **Listening/export copy:** `episode_9_common_mode.mp3`
 **Loudness target:** -19.0 LUFS, mono
 
-**Source episode SHA-256:** `185c8c73e267008f31023091aa164a14e192b039f3dcc42192a95f6dbd45385f`
+**Source episode SHA-256:** `687fe0f1497db9d835e527dffbdc565c9ba6f250ad17bcfe1e62102c3fc08d27`
 **WAV master SHA-256:** `de6f363f0daff8f035c00fe81960e6cc912aac745d43f0c11813ed838a7eb505`
 **MP3 export SHA-256:** `54dde3f667f327609be2e2cc355def2861ad37a9abc84877ecda4ed00463ab43`
+
+## Revision history
+
+| Revision | Date | Changes |
+| --- | --- | --- |
+| 1.0 | 2026-08-26 | Baseline before targeted post-production revisions. |
 
 Chunk timestamps below refer to the WAV editing master and are intended for locating fixes in Audacity.
 

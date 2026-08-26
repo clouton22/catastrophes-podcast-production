@@ -6,6 +6,8 @@
 **Book:** 8
 **In-universe episode:** 9
 **Title:** The Second Shanghai Crisis
+
+**Production revision:** 1.0
 **Assembled UTC:** 2026-08-26T01:06:49.146955+00:00
 **Duration:** 00:20:33.371
 
@@ -21,9 +23,15 @@
 **Listening/export copy:** `episode_12_the_second_shanghai_crisis.mp3`
 **Loudness target:** -19.0 LUFS, mono
 
-**Source episode SHA-256:** `959ca196379d6232598e143e0d27129dda7c7abcecb0cf224c78adca9893b7cf`
+**Source episode SHA-256:** `e6dbe2e5ae15a48794bd721df67d88823b4c099a391f109339d6ad989ef0174a`
 **WAV master SHA-256:** `4e5f686d02984b40e1c97837c676a431eb3602cb6a01e79126813b723cb95327`
 **MP3 export SHA-256:** `fabc49a5eb401a08613496799e97d1748954bf110cc67476bdf421de9e05af19`
+
+## Revision history
+
+| Revision | Date | Changes |
+| --- | --- | --- |
+| 1.0 | 2026-08-26 | Baseline before targeted post-production revisions. |
 
 Chunk timestamps below refer to the WAV editing master and are intended for locating fixes in Audacity.
 

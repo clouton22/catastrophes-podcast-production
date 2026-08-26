@@ -6,6 +6,8 @@
 **Book:** 4
 **In-universe episode:** 16
 **Title:** The Peace, Part I
+
+**Production revision:** 1.0
 **Assembled UTC:** 2026-08-23T16:37:17.799517+00:00
 **Duration:** 00:21:08.480
 
@@ -21,9 +23,15 @@
 **Listening/export copy:** `episode_8_the_peace_part_i.mp3`
 **Loudness target:** -19.0 LUFS, mono
 
-**Source episode SHA-256:** `0df5f9da2a09e547bb718f704cab44f07ab4e3c3294a93e0e411fec0aeb3461a`
+**Source episode SHA-256:** `6cbe1ec7dcb3c703e6022abae3480c3bb04016433ece4ad9d3432dece3ae58ef`
 **WAV master SHA-256:** `8f67dcd615d3a30df9e4c60d96d289ad1a76749ae411b6f89886e073295d84b1`
 **MP3 export SHA-256:** `62fe27a49d1a44f6f9aecf43138a046fdc16df134ce920d5092f4a08d913f2a4`
+
+## Revision history
+
+| Revision | Date | Changes |
+| --- | --- | --- |
+| 1.0 | 2026-08-26 | Baseline before targeted post-production revisions. |
 
 Chunk timestamps below refer to the WAV editing master and are intended for locating fixes in Audacity.
 

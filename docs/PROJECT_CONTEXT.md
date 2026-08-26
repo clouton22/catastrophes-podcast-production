@@ -119,12 +119,14 @@ Use the following schema:
     @book 3
     @episode 8
     @title The Atomic Settlement
+    @revision 1.0
 
 Internally, code should prefer unambiguous variable names such as:
 
     production_episode
     book_number
     in_universe_episode
+    production_revision
 
 Avoid using a bare `episode_number` where its meaning could become ambiguous.
 

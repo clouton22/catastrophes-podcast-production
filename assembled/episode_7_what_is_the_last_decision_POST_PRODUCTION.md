@@ -6,6 +6,8 @@
 **Book:** 4
 **In-universe episode:** 10
 **Title:** What Is the Last Decision?
+
+**Production revision:** 1.0
 **Assembled UTC:** 2026-08-23T03:55:11.532242+00:00
 **Duration:** 00:29:50.880
 
@@ -21,9 +23,15 @@
 **Listening/export copy:** `episode_7_what_is_the_last_decision.mp3`
 **Loudness target:** -19.0 LUFS, mono
 
-**Source episode SHA-256:** `083ca82cf9c47a9e4e3c8f6c601227a0de8faa8ee61ad1d485e315d55381ec58`
+**Source episode SHA-256:** `2391f71ef6332cd976af45b84c6e6449bbbe7e545041ffcb7da4f6cd684c74f3`
 **WAV master SHA-256:** `72d627a251b5010b3ca4e0aa3ca2b9c7f36e67129226d926f5b751957ed83bc1`
 **MP3 export SHA-256:** `556b535dc855ef7cf34f69246a044757f4f191316e2287d23c8526810782639d`
+
+## Revision history
+
+| Revision | Date | Changes |
+| --- | --- | --- |
+| 1.0 | 2026-08-26 | Baseline before targeted post-production revisions. |
 
 Chunk timestamps below refer to the WAV editing master and are intended for locating fixes in Audacity.
 

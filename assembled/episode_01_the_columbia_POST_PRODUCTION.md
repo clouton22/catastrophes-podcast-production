@@ -6,6 +6,8 @@
 **Book:** 01
 **In-universe episode:** 01
 **Title:** The Columbia
+
+**Production revision:** 1.0
 **Assembled UTC:** 2026-08-22T23:27:51.612510+00:00
 **Duration:** 00:26:59.120
 
@@ -21,9 +23,15 @@
 **Listening/export copy:** `episode_01_the_columbia.mp3`
 **Loudness target:** -19.0 LUFS, mono
 
-**Source episode SHA-256:** `96d9d9108d0bf00f4bd7ac4f4019862a89b7f331d76ba2a63a1c49598e1d73d4`
+**Source episode SHA-256:** `68e68173239d41cfdbeba5adca78154f198169525dd90e93afaabe93a0181604`
 **WAV master SHA-256:** `07acb26f23f927fe9f353f7a8d35c2651c78add8cffa550a43f4cacb3cf9dc67`
 **MP3 export SHA-256:** `ac1f18aac46a618bb49166c57fccddb8878ed0a92d934394905fc64087412ddb`
+
+## Revision history
+
+| Revision | Date | Changes |
+| --- | --- | --- |
+| 1.0 | 2026-08-26 | Baseline before targeted post-production revisions. |
 
 Chunk timestamps below refer to the WAV editing master and are intended for locating fixes in Audacity.
 

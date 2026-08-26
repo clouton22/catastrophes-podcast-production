@@ -3,6 +3,8 @@
 @episode 6
 @title The Tanks Stop
 
+@revision 1.0
+
 @chunk 1
 
 This is Catastrophes. Book Nine, Episode Six: The Tanks Stop.

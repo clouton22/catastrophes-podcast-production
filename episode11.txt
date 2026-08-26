@@ -3,6 +3,8 @@
 @episode 10
 @title The First Bomb
 
+@revision 1.0
+
 @chunk 1
 
 This is Catastrophes. Book Seven, Episode Ten: The First Bomb.

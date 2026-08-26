@@ -15,5 +15,6 @@
   "source_episode_file": "episode12.txt",
   "source_text_sha256": "b19e5f83d77f128c966c4433cbcc435884b6b4d76f4b3339d52d6b5cd95f349a",
   "audio_sha256": "5226a46b9f7ec3be3af43152ca3cadbb9388daa0e50f045f60749f4fb8617e6b",
-  "request_id": "SZ6IBL8l18HQaJRNyu6t"
+  "request_id": "SZ6IBL8l18HQaJRNyu6t",
+  "production_revision": "1.0"
 }

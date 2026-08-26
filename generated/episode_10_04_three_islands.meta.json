@@ -15,5 +15,6 @@
   "source_episode_file": "episode10.txt",
   "source_text_sha256": "b27e24fb201139445c747344cd0b3ffb9d6211bc6312682e0e9e79bea292ebfb",
   "audio_sha256": "c1df8bcc7277387c57d498f59770d25a16ce5387bc7831b6a9942c3a8db1cf75",
-  "request_id": "UcrZHSGeeFVgzbXuVSJG"
+  "request_id": "UcrZHSGeeFVgzbXuVSJG",
+  "production_revision": "1.0"
 }

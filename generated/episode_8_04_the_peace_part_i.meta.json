@@ -15,5 +15,6 @@
   "source_episode_file": "episode8.txt",
   "source_text_sha256": "ddcd66ddaf731cbc0bbe1e622eb647ce92cebadd9745a8f6b4c5d22cf0add1f1",
   "audio_sha256": "d60106bb1059e0dc9a53898e6f0232193b2c10d10061b91bc9cf4e37637eebaa",
-  "request_id": "rc8g5L4xFnYsNMd8pj6Q"
+  "request_id": "rc8g5L4xFnYsNMd8pj6Q",
+  "production_revision": "1.0"
 }

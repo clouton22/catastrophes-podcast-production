@@ -3,6 +3,8 @@
 @episode 4
 @title Three Islands
 
+@revision 1.0
+
 @chunk 1
 
 This is Catastrophes. Book Six, Episode Four: Three Islands.

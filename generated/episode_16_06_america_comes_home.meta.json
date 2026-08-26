@@ -15,5 +15,6 @@
   "source_episode_file": "episode16.txt",
   "source_text_sha256": "6c59f71a7615d7be5bda8160086c05ceed370d53835d5d9614004cd46c0341f7",
   "audio_sha256": "309abf3af997fb3bcd331a9ea0b64430cc382c765e9a1a0e52aa88f7db63d972",
-  "request_id": "AP1Da0XUMbeA761lm354"
+  "request_id": "AP1Da0XUMbeA761lm354",
+  "production_revision": "1.0"
 }

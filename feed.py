@@ -480,7 +480,8 @@ def discover_episodes(assembled_dir):
 
     discovered = []
     required = {
-        "production_episode", "book_number", "in_universe_episode", "title"
+        "production_episode", "book_number", "in_universe_episode", "title",
+        "production_revision",
     }
     for audio_path in episodes:
         metadata_path = audio_path.with_suffix(".meta.json")
@@ -519,6 +520,14 @@ def discover_episodes(assembled_dir):
                 raise SystemExit(
                     f"in_universe_episode must be positive in {metadata_path}"
                 )
+
+        production_revision = str(metadata["production_revision"]).strip()
+        if not re.fullmatch(r"\d+\.\d+", production_revision):
+            raise SystemExit(
+                "production_revision must use MAJOR.MINOR format, such as "
+                f"1.0, in {metadata_path}"
+            )
+        metadata["production_revision"] = production_revision
         filename_number = episode_number_from_filename(audio_path)
         if filename_number != metadata["production_episode"]:
             raise SystemExit(
@@ -578,6 +587,7 @@ def build_feed(
         production_episode = metadata["production_episode"]
         book_number = metadata["book_number"]
         episode_number = metadata["in_universe_episode"]
+        production_revision = metadata["production_revision"]
         title = str(metadata["title"]).strip()
         if not title:
             raise SystemExit(f"title must not be empty in {source.with_suffix('.meta.json')}")
@@ -602,6 +612,7 @@ def build_feed(
                 "production_episode": production_episode,
                 "book_number": book_number,
                 "in_universe_episode": episode_number,
+                "production_revision": production_revision,
                 "title": title,
             }
 
@@ -613,6 +624,7 @@ def build_feed(
             "production_episode": production_episode,
             "book_number": book_number,
             "in_universe_episode": episode_number,
+            "production_revision": production_revision,
             "title": title,
         })
 

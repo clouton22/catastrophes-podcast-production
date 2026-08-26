@@ -2,6 +2,7 @@
 @book 03
 @episode 08
 @title The Atomic Settlement
+@revision 1.0
 
 @chunk 01
 This is Catastrophes. Book Three, Episode Eight: The Atomic Settlement.

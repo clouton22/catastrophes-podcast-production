@@ -15,5 +15,6 @@
   "source_episode_file": "episode14.txt",
   "source_text_sha256": "2e64c6744a2275ae1eeedd7bb83a19a6e0095e9c7a42bc7efd53696449ab2d51",
   "audio_sha256": "662598553558ce8b859a5f03056e0dbe41d2a5d2aa6275238b615242f7b0bd90",
-  "request_id": "uVctnVJWJ0WwomAbKj0Q"
+  "request_id": "uVctnVJWJ0WwomAbKj0Q",
+  "production_revision": "1.0"
 }
