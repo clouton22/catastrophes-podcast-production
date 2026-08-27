@@ -6,7 +6,8 @@
       "production_episode": 1,
       "book_number": 1,
       "in_universe_episode": 1,
-      "title": "The Columbia"
+      "title": "The Columbia",
+      "production_revision": "1.0"
     },
     "episode_02_the_warning.mp3": {
       "pub_date": "2026-08-22T11:25:07+00:00",
@@ -14,7 +15,8 @@
       "production_episode": 2,
       "book_number": 1,
       "in_universe_episode": 3,
-      "title": "The Warning"
+      "title": "The Warning",
+      "production_revision": "1.0"
     },
     "episode_03_roosevelt.mp3": {
       "pub_date": "2026-08-22T11:25:07+00:00",
@@ -22,7 +24,8 @@
       "production_episode": 3,
       "book_number": 1,
       "in_universe_episode": 9,
-      "title": "Roosevelt"
+      "title": "Roosevelt",
+      "production_revision": "1.0"
     },
     "episode_04_the_demonstration.mp3": {
       "pub_date": "2026-08-22T13:33:42+00:00",
@@ -30,7 +33,8 @@
       "production_episode": 4,
       "book_number": 2,
       "in_universe_episode": 12,
-      "title": "The Demonstration"
+      "title": "The Demonstration",
+      "production_revision": "1.0"
     },
     "episode_05_the_atomic_settlement.mp3": {
       "pub_date": "2026-08-22T20:04:34+00:00",
@@ -38,7 +42,8 @@
       "production_episode": 5,
       "book_number": 3,
       "in_universe_episode": 8,
-      "title": "The Atomic Settlement"
+      "title": "The Atomic Settlement",
+      "production_revision": "1.1"
     },
     "episode_6_margaret_helen_ward.mp3": {
       "pub_date": "2026-08-23T01:51:24+00:00",
@@ -46,7 +51,8 @@
       "production_episode": 6,
       "book_number": 4,
       "in_universe_episode": 3,
-      "title": "Margaret Helen Ward"
+      "title": "Margaret Helen Ward",
+      "production_revision": "1.0"
     },
     "episode_7_what_is_the_last_decision.mp3": {
       "pub_date": "2026-08-23T04:33:40+00:00",
@@ -54,7 +60,8 @@
       "production_episode": 7,
       "book_number": 4,
       "in_universe_episode": 10,
-      "title": "What Is the Last Decision?"
+      "title": "What Is the Last Decision?",
+      "production_revision": "1.0"
     },
     "episode_8_the_peace_part_i.mp3": {
       "pub_date": "2026-08-23T14:16:27+00:00",
@@ -62,7 +69,8 @@
       "production_episode": 8,
       "book_number": 4,
       "in_universe_episode": 16,
-      "title": "The Peace, Part I"
+      "title": "The Peace, Part I",
+      "production_revision": "1.0"
     },
     "episode_9_common_mode.mp3": {
       "pub_date": "2026-08-24T03:11:19+00:00",
@@ -70,7 +78,8 @@
       "production_episode": 9,
       "book_number": 5,
       "in_universe_episode": 6,
-      "title": "Common Mode"
+      "title": "Common Mode",
+      "production_revision": "1.0"
     },
     "episode_10_three_islands.mp3": {
       "pub_date": "2026-08-24T03:11:19+00:00",
@@ -78,7 +87,8 @@
       "production_episode": 10,
       "book_number": 6,
       "in_universe_episode": 4,
-      "title": "Three Islands"
+      "title": "Three Islands",
+      "production_revision": "1.1"
     },
     "episode_11_the_first_bomb.mp3": {
       "pub_date": "2026-08-24T03:11:19+00:00",
@@ -86,7 +96,8 @@
       "production_episode": 11,
       "book_number": 7,
       "in_universe_episode": 10,
-      "title": "The First Bomb"
+      "title": "The First Bomb",
+      "production_revision": "1.0"
     },
     "episode_12_the_second_shanghai_crisis.mp3": {
       "pub_date": "2026-08-24T22:57:57+00:00",
@@ -94,7 +105,8 @@
       "production_episode": 12,
       "book_number": 8,
       "in_universe_episode": 9,
-      "title": "The Second Shanghai Crisis"
+      "title": "The Second Shanghai Crisis",
+      "production_revision": "1.0"
     },
     "episode_13_it_was_raining.mp3": {
       "pub_date": "2026-08-25T01:50:17+00:00",
@@ -102,7 +114,8 @@
       "production_episode": 13,
       "book_number": 9,
       "in_universe_episode": 1,
-      "title": "It Was Raining"
+      "title": "It Was Raining",
+      "production_revision": "1.0"
     },
     "episode_14_the_tanks_stop.mp3": {
       "pub_date": "2026-08-25T02:23:30+00:00",
@@ -110,7 +123,8 @@
       "production_episode": 14,
       "book_number": 9,
       "in_universe_episode": 6,
-      "title": "The Tanks Stop"
+      "title": "The Tanks Stop",
+      "production_revision": "1.0"
     },
     "episode_15_the_october_attempt.mp3": {
       "pub_date": "2026-08-25T03:31:31+00:00",
@@ -118,7 +132,8 @@
       "production_episode": 15,
       "book_number": 10,
       "in_universe_episode": 8,
-      "title": "The October Attempt"
+      "title": "The October Attempt",
+      "production_revision": "1.0"
     },
     "episode_16_america_comes_home.mp3": {
       "pub_date": "2026-08-26T03:14:17+00:00",
@@ -126,7 +141,8 @@
       "production_episode": 16,
       "book_number": 10,
       "in_universe_episode": 12,
-      "title": "America Comes Home"
+      "title": "America Comes Home",
+      "production_revision": "1.0"
     },
     "episode_17_nothing_happened.mp3": {
       "pub_date": "2026-08-26T20:06:33+00:00",
@@ -134,7 +150,8 @@
       "production_episode": 17,
       "book_number": 11,
       "in_universe_episode": 12,
-      "title": "Nothing Happened"
+      "title": "Nothing Happened",
+      "production_revision": "1.1"
     },
     "episode_18_sources.mp3": {
       "pub_date": "2026-08-26T22:40:14+00:00",
@@ -142,7 +159,8 @@
       "production_episode": 18,
       "book_number": 11,
       "in_universe_episode": "supplemental",
-      "title": "Sources"
+      "title": "Sources",
+      "production_revision": "1.0"
     }
   }
 }
