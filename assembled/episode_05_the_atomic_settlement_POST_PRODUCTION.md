@@ -6,10 +6,9 @@
 **Book:** 03
 **In-universe episode:** 08
 **Title:** The Atomic Settlement
-
-**Production revision:** 1.0
-**Assembled UTC:** 2026-08-22T23:31:51.204056+00:00
-**Duration:** 00:18:30.240
+**Production revision:** 1.1
+**Assembled UTC:** 2026-08-26T23:47:50.818255+00:00
+**Duration:** 00:18:25.280
 
 ## Production provenance
 
@@ -18,20 +17,21 @@
 **Narrator voice:** Victoria.
 **Voice ID(s):** qSeXEcewz7tA0Q0qk9fH
 **Model(s):** eleven_v3
-**Estimated ElevenLabs generation cost:** $1.726
+**Estimated ElevenLabs generation cost:** $1.725
 **Editing master:** `episode_05_the_atomic_settlement_master.wav`
 **Listening/export copy:** `episode_05_the_atomic_settlement.mp3`
 **Loudness target:** -19.0 LUFS, mono
 
-**Source episode SHA-256:** `89b3e6b083e236a901a724b052d215e4f26a0200994fa3be21a6b2051434de7d`
-**WAV master SHA-256:** `ae42d67155156cb380d1f18011813ea648a2fadc2135c544161b7e3bef78cc70`
-**MP3 export SHA-256:** `cba5fba37f8103eab0ee2557864635db3a4c35194bfc384c13efb016cc4093f6`
+**Source episode SHA-256:** `cba759dffc66b84bf54c8d61905fe7f88dcc25ee54ff5067b6379fffc1158d69`
+**WAV master SHA-256:** `c11b23a32e94648d5767eb0b8328eab79d47edeede7022577246df3d0484ef5b`
+**MP3 export SHA-256:** `e8cfbaa9f2576a01201672b734aa0239d82714bbfdfb3d648a9ceeaa01292b64`
 
 ## Revision history
 
 | Revision | Date | Changes |
 | --- | --- | --- |
 | 1.0 | 2026-08-26 | Baseline before targeted post-production revisions. |
+| 1.1 | 2026-08-26 | Removed “This matters.” from chunk 1; regenerated only chunk 1 with seed `12345`; reassembled from the existing remaining chunks. |
 
 Chunk timestamps below refer to the WAV editing master and are intended for locating fixes in Audacity.
 
@@ -39,28 +39,28 @@ Chunk timestamps below refer to the WAV editing master and are intended for loca
 
 | Chunk | Start | End | Duration | File | Model |
 | ---: | ---: | ---: | ---: | --- | --- |
-| 01 | 00:00:00.000 | 00:02:24.640 | 00:02:24.640 | `episode_05_01_the_atomic_settlement.mp3` | eleven_v3 |
-| 02 | 00:02:24.640 | 00:05:22.720 | 00:02:58.080 | `episode_05_02_the_atomic_settlement.mp3` | eleven_v3 |
-| 03 | 00:05:22.720 | 00:08:02.240 | 00:02:39.520 | `episode_05_03_the_atomic_settlement.mp3` | eleven_v3 |
-| 04 | 00:08:02.240 | 00:10:03.200 | 00:02:00.960 | `episode_05_04_the_atomic_settlement.mp3` | eleven_v3 |
-| 05 | 00:10:03.200 | 00:11:53.920 | 00:01:50.720 | `episode_05_05_the_atomic_settlement.mp3` | eleven_v3 |
-| 06 | 00:11:53.920 | 00:14:12.160 | 00:02:18.240 | `episode_05_06_the_atomic_settlement.mp3` | eleven_v3 |
-| 07 | 00:14:12.160 | 00:16:17.680 | 00:02:05.520 | `episode_05_07_the_atomic_settlement.mp3` | eleven_v3 |
-| 08 | 00:16:17.680 | 00:18:30.240 | 00:02:12.560 | `episode_05_08_the_atomic_settlement.mp3` | eleven_v3 |
+| 01 | 00:00:00.000 | 00:02:19.680 | 00:02:19.680 | `episode_05_01_the_atomic_settlement.mp3` | eleven_v3 |
+| 02 | 00:02:19.680 | 00:05:17.760 | 00:02:58.080 | `episode_05_02_the_atomic_settlement.mp3` | eleven_v3 |
+| 03 | 00:05:17.760 | 00:07:57.280 | 00:02:39.520 | `episode_05_03_the_atomic_settlement.mp3` | eleven_v3 |
+| 04 | 00:07:57.280 | 00:09:58.240 | 00:02:00.960 | `episode_05_04_the_atomic_settlement.mp3` | eleven_v3 |
+| 05 | 00:09:58.240 | 00:11:48.960 | 00:01:50.720 | `episode_05_05_the_atomic_settlement.mp3` | eleven_v3 |
+| 06 | 00:11:48.960 | 00:14:07.200 | 00:02:18.240 | `episode_05_06_the_atomic_settlement.mp3` | eleven_v3 |
+| 07 | 00:14:07.200 | 00:16:12.720 | 00:02:05.520 | `episode_05_07_the_atomic_settlement.mp3` | eleven_v3 |
+| 08 | 00:16:12.720 | 00:18:25.280 | 00:02:12.560 | `episode_05_08_the_atomic_settlement.mp3` | eleven_v3 |
 
 ## Chunk provenance
 
 ### Chunk 01
 
 - Audio: `episode_05_01_the_atomic_settlement.mp3`
-- Audio SHA-256: `d7da42590e9f2a1e281fa45d51cebe90c6cb931dd32af7688d831ece9851ee7e`
-- Source text SHA-256: `7e8f893d02d9522d46e55c4fad34b4d2423e5bae734556856295070a9bf72feb`
-- Generated UTC: 2026-08-22T16:30:10.377081+00:00
+- Audio SHA-256: `0d2233bb1e491ae008d52f2b658e4a6e181375e52828ba00e9a3018b7e3d7745`
+- Source text SHA-256: `d1df2b585de7531efabb1c315e6d5921bb69f10fcfd537e1495334137b6e7ded`
+- Generated UTC: 2026-08-26T23:47:21.218649+00:00
 - Model: eleven_v3
 - Voice ID: qSeXEcewz7tA0Q0qk9fH
-- Character count: 2213
-- Estimated API cost: $0.221
-- ElevenLabs request ID: `jr5gPfjvCRWmMPvqrmuc`
+- Character count: 2198
+- Estimated API cost: $0.220
+- ElevenLabs request ID: `DbUEyasP9ylpKkzlwHJA`
 
 ### Chunk 02
 

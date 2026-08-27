@@ -3,7 +3,7 @@
 @episode 12
 @title Nothing Happened
 
-@revision 1.0
+@revision 1.1
 
 @chunk 1
 
@@ -613,13 +613,9 @@ It was the product of people who had lived through the consequences of making in
 
 The absence of catastrophe had once been the product.
 
-By the twenty nineties, people were beginning to expect more.
+By the twenty nineties, people were beginning to expect more than survival and prevention.
 
-Not just survival.
-
-Not just prevention.
-
-The freedom to spend time on things whose value could not be measured by how many deaths they prevented.
+They had the freedom to spend time on things whose value could not be measured by how many deaths they prevented.
 
 Science.
 
@@ -809,10 +805,8 @@ Historians should be suspicious of sentences like that.
 
 I hope this one is true.
 
-And since people have been asking since Book Nine:
+And finally, to give us a send-off from the height of the High Progressive Era:
 
-yes.
-
-We are using the Open Circuit version.
+Open Circuit.
 
 Thanks for listening.

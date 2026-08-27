@@ -2,7 +2,7 @@
 @book 03
 @episode 08
 @title The Atomic Settlement
-@revision 1.0
+@revision 1.1
 
 @chunk 01
 This is Catastrophes. Book Three, Episode Eight: The Atomic Settlement.
@@ -16,8 +16,6 @@ It was not small anymore.
 Margaret Ward was there now, along with David Lilienthal, Igor Kurchatov, Alexei Morozov’s people in Moscow, and several dozen lawyers, diplomats, engineers, and military officers who had spent the better part of a decade trying to answer one question.
 
 The answer they arrived at was not trust.
-
-This matters.
 
 Almost every popular retelling of the Atomic Settlement eventually turns it into a story about former enemies learning to trust one another.
 
