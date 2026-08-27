@@ -3,9 +3,13 @@
 @episode 4
 @title Three Islands
 
+@revision 1.1
+
 @chunk 1
 
-This is Catastrophes. Book Six, Episode Four: Three Islands.
+This is Catastrophes.
+
+Book Six, Episode Four: Three Islands.
 
 A few episodes ago, we talked about thresholds.
 
@@ -18,8 +22,6 @@ Nobody had to remember Lake Erie Number Three specifically to understand the pri
 Problems were supposed to announce themselves.
 
 Or, more precisely, institutions were supposed to make them announce themselves.
-
-This distinction matters.
 
 Because Chinese planners had begun asking a somewhat different question.
 

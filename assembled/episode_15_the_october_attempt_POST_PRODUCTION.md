@@ -6,6 +6,8 @@
 **Book:** 10
 **In-universe episode:** 8
 **Title:** The October Attempt
+
+**Production revision:** 1.0
 **Assembled UTC:** 2026-08-26T01:28:51.348711+00:00
 **Duration:** 00:24:20.611
 
@@ -21,9 +23,15 @@
 **Listening/export copy:** `episode_15_the_october_attempt.mp3`
 **Loudness target:** -19.0 LUFS, mono
 
-**Source episode SHA-256:** `abf0b0527a3107c2a5f4af366aec0d142a09b4bb57ba24b5bf0dee43914837ed`
+**Source episode SHA-256:** `be257ffef1934bd88a7d1d2fb6606440030673a402d82c94e4619769b1b98a71`
 **WAV master SHA-256:** `b957c25759bb00117c9dd5c44ae8701af60933b3390866c1152f3701e89593cf`
 **MP3 export SHA-256:** `7d7accd4c7eefb6f1f40bc5738d3c6394f2dff9038f7bf9f9f9a8505bb25379d`
+
+## Revision history
+
+| Revision | Date | Changes |
+| --- | --- | --- |
+| 1.0 | 2026-08-26 | Baseline before targeted post-production revisions. |
 
 Chunk timestamps below refer to the WAV editing master and are intended for locating fixes in Audacity.
 

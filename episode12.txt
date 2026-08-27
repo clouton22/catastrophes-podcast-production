@@ -2,6 +2,7 @@
 @book 8
 @episode 9
 @title The Second Shanghai Crisis
+@revision 1.0
 
 @chunk 1
 

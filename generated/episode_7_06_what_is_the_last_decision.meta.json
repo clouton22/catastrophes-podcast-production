@@ -15,5 +15,6 @@
   "source_episode_file": "episode7.txt",
   "source_text_sha256": "0815a2bc90ef156d86f4043c02969a2b194a0f8a59badde2e186f3b26017b5d6",
   "audio_sha256": "4ea15d92843b6621eb37e7d7e72ecb4adc4328c68c04cad85e21712747f0dae3",
-  "request_id": "roptQAiEGzE5roLYyIZU"
+  "request_id": "roptQAiEGzE5roLYyIZU",
+  "production_revision": "1.0"
 }

@@ -3,6 +3,8 @@
 @episode 8
 @title The October Attempt
 
+@revision 1.0
+
 @chunk 1
 
 This is Catastrophes. Book Ten, Episode Eight: The October Attempt.

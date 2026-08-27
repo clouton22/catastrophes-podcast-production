@@ -2,6 +2,7 @@
 @book 01
 @episode 03
 @title The Warning
+@revision 1.0
 
 @chunk 01
 This is Catastrophes. Book One, Episode Three: The Warning. And when we left off with the Columbia Commission, a Commerce Department researcher named Helen Mercer had found an old British memorandum concerning a White Star liner that had nearly struck an iceberg in the North Atlantic in nineteen twelve. The ship was called Titanic.

@@ -2,5 +2,12 @@
   "production_episode": 17,
   "book_number": 11,
   "in_universe_episode": 12,
-  "title": "Nothing Happened"
+  "title": "Nothing Happened",
+  "production_revision": "1.1",
+  "post_production": {
+    "narration_duration_seconds": 1301.23,
+    "outro_config": "postproduction/episode_17_outro.json",
+    "outro_provenance": "assembled/episode_17_nothing_happened_outro.meta.json",
+    "final_duration_seconds": 1389.0
+  }
 }

@@ -1,0 +1,17 @@
+{
+  "narration_master": "assembled/episode_17_nothing_happened_narration_master.wav",
+  "music_file": "music/No_Permission_Required_2026-08-27T004853 First Version.wav",
+  "output_wav": "assembled/episode_17_nothing_happened_master.wav",
+  "output_mp3": "assembled/episode_17_nothing_happened.mp3",
+  "provenance_file": "assembled/episode_17_nothing_happened_outro.meta.json",
+  "gap_seconds": 0.0,
+  "overlap_seconds": 7.23,
+  "overlap_gain_db": -6.0,
+  "fade_in_seconds": 1.0,
+  "post_narration_rise_seconds": 1.0,
+  "play_seconds_before_fade": 92.0,
+  "fade_seconds": 3.0,
+  "music_target_lufs": -20.0,
+  "music_true_peak_dbtp": -1.5,
+  "music_gain_db": 1.5
+}

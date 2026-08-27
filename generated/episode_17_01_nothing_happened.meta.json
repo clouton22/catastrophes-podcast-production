@@ -15,5 +15,6 @@
   "source_episode_file": "episode17.txt",
   "source_text_sha256": "136fe01d7a5d42df971c5d117878a84ce2f9157a3da8d5040d3b9a9f6c5dae36",
   "audio_sha256": "186b4a777875803e1f6b00abe8111dd71feab8486d8dd0609682f4a2767bed85",
-  "request_id": "wcnNlispegxB03Q6cAM3"
+  "request_id": "wcnNlispegxB03Q6cAM3",
+  "production_revision": "1.0"
 }

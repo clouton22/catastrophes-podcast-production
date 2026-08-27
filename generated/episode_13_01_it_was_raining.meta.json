@@ -15,5 +15,6 @@
   "source_episode_file": "episode13.txt",
   "source_text_sha256": "989ea9400eca3d63bff9146edd3c166e3df46f3c233d8e362831b7b6f9a576d7",
   "audio_sha256": "8d6d3e099b39f6f39a2dda005cc8fd1a644056aed6469f1aa32d3bde08156b87",
-  "request_id": "5DgylpU8kEOpsrhPifqp"
+  "request_id": "5DgylpU8kEOpsrhPifqp",
+  "production_revision": "1.0"
 }

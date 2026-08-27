@@ -15,5 +15,6 @@
     "production_episode":  4,
     "book_number":  2,
     "in_universe_episode":  12,
-    "title":  "The Demonstration"
+    "title":  "The Demonstration",
+    "production_revision": "1.0"
 }

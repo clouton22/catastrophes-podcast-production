@@ -15,5 +15,6 @@
   "source_episode_file": "episode6.txt",
   "source_text_sha256": "32da6e596aee10591ac5c9dd7b99d57a56730ce7ed03c185919d65b1c22941b4",
   "audio_sha256": "f3db1d3828fe2be437fea9e76f114a73927c719524da9da3879af2576ea8bfbb",
-  "request_id": "VQuEyRdsKyOG6MQ4w150"
+  "request_id": "VQuEyRdsKyOG6MQ4w150",
+  "production_revision": "1.0"
 }

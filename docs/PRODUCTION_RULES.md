@@ -20,7 +20,7 @@ Standing writing, continuity, TTS, audio-production, and publication rules for *
 
 There are two distinct numbering systems.
 
-- **Production episode:** real listening order 1–17. Use for filenames, tooling, generated/assembled audio, sorting, post-production files, RSS episode number, and operational metadata.
+- **Production episode:** real listening order. Use for filenames, tooling, generated/assembled audio, sorting, post-production files, RSS episode number, and operational metadata.
 - **Book / in-universe episode:** fictional numbering. Use in visible titles, spoken idents, and fictional references.
 
 Production-script header:
@@ -29,6 +29,7 @@ Production-script header:
     @book 3
     @episode 8
     @title The Atomic Settlement
+    @revision 1.0
 
 Code should prefer explicit names such as `production_episode`, `book_number`, and `in_universe_episode`.
 
@@ -37,7 +38,7 @@ Code should prefer explicit names such as `production_episode`, `book_number`, a
 The RSS feed serves the real listener.
 
 - RSS season = **1**
-- RSS episode = production episode 1–17
+- RSS episode = production episode
 - visible title carries fictional numbering in words
 
 Example: Production Episode 5 is RSS Season 1 / Episode 5, titled **Book Three, Episode Eight: The Atomic Settlement**. Fictional Books are not RSS seasons.
@@ -151,7 +152,9 @@ Audacity is exception handling, not the primary assembly line.
 
 ## 19. Post-production notes and provenance
 
-Each assembled episode should record, when available: production/book/in-universe numbers, title, source script, generation time, provider, model, voice ID, seed, character counts, estimated cost, source/audio hashes, request IDs, WAV/MP3 hashes, and exact chunk start/end timestamps for Audacity repair.
+Each assembled episode should record, when available: production/book/in-universe numbers, title, production revision, source script, generation time, provider, model, voice ID, seed, character counts, estimated cost, source/audio hashes, request IDs, WAV/MP3 hashes, and exact chunk start/end timestamps for Audacity repair.
+
+Use `@revision MAJOR.MINOR` in every active production script. Revision `1.0` is the baseline. For targeted post-production work, bump only the affected production (for example, to `1.1`) and add a concise row to its post-production revision history. Git tags mark project-wide baselines; per-production revisions describe individual audio/script improvements.
 
 Record manual edits and source/license details for Foley, music, artwork, quotations, and other incorporated material.
 

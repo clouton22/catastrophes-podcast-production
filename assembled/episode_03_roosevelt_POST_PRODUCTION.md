@@ -6,6 +6,8 @@
 **Book:** 01
 **In-universe episode:** 09
 **Title:** Roosevelt
+
+**Production revision:** 1.0
 **Assembled UTC:** 2026-08-22T23:29:31.673014+00:00
 **Duration:** 00:21:59.120
 
@@ -21,9 +23,15 @@
 **Listening/export copy:** `episode_03_roosevelt.mp3`
 **Loudness target:** -19.0 LUFS, mono
 
-**Source episode SHA-256:** `9bae74df086d6d77f1eae6e5d724fdd1701c318de8c5f0ca816cd12f2f4c8365`
+**Source episode SHA-256:** `8dff6f391c58eaffe83b7cbaa4071d0f5801c6c93ae42443a311f30f005b4b99`
 **WAV master SHA-256:** `9f120aa6c98bcc905b1c9533a3ea10e4373ab5202bcf59a0c0d05ed667ba3123`
 **MP3 export SHA-256:** `391ca992416ae4eb1cd16d6197a34db7d582747a534b94ca3eb04256093eb74a`
+
+## Revision history
+
+| Revision | Date | Changes |
+| --- | --- | --- |
+| 1.0 | 2026-08-26 | Baseline before targeted post-production revisions. |
 
 Chunk timestamps below refer to the WAV editing master and are intended for locating fixes in Audacity.
 

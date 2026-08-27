@@ -6,6 +6,8 @@
 **Book:** 11
 **In-universe episode:** supplemental
 **Title:** Sources
+
+**Production revision:** 1.0
 **Assembled UTC:** 2026-08-26T22:38:31.037712+00:00
 **Duration:** 00:04:30.838
 
@@ -21,9 +23,15 @@
 **Listening/export copy:** `episode_18_sources.mp3`
 **Loudness target:** -19.0 LUFS, mono
 
-**Source episode SHA-256:** `f410cef022499562ab7eda09c6ddf51bfbba066f3818e35d91c9a42e7f7133f1`
+**Source episode SHA-256:** `70b3378a52444a2d389544d3f662de15f628db1248cfef50dc4c70f41517544a`
 **WAV master SHA-256:** `46a76b718673a7c87aa25df226bdb51ababac85aac6dd62fa6ef058f2c6cb930`
 **MP3 export SHA-256:** `cb0b33fde4d097da78fa9573284189dae19bb1c275eed1bdb8ee6959b655f393`
+
+## Revision history
+
+| Revision | Date | Changes |
+| --- | --- | --- |
+| 1.0 | 2026-08-26 | Baseline before targeted post-production revisions. |
 
 Chunk timestamps below refer to the WAV editing master and are intended for locating fixes in Audacity.
 

@@ -6,6 +6,8 @@
 **Book:** 02
 **In-universe episode:** 12
 **Title:** The Demonstration
+
+**Production revision:** 1.0
 **Assembled UTC:** 2026-08-22T23:30:03.184877+00:00
 **Duration:** 00:20:52.800
 
@@ -21,9 +23,15 @@
 **Listening/export copy:** `episode_04_the_demonstration.mp3`
 **Loudness target:** -19.0 LUFS, mono
 
-**Source episode SHA-256:** `97aa5745c0a96a7cb2b51de2284802e14c985c7a32c1d1393db174cf84c2de18`
+**Source episode SHA-256:** `ddce153330eaba1e4e1b618c2aff46a3149e8b2da5bfdd2b0f8ce20bf030b3ca`
 **WAV master SHA-256:** `0379af5b01e4f411431d7d009414d47aaff328f6e4f456f9d65e99bd90f0aba9`
 **MP3 export SHA-256:** `81d9926b5c296d2da5b2b4fd479db89adeead33584106de3f5d272d3de9c7e3a`
+
+## Revision history
+
+| Revision | Date | Changes |
+| --- | --- | --- |
+| 1.0 | 2026-08-26 | Baseline before targeted post-production revisions. |
 
 Chunk timestamps below refer to the WAV editing master and are intended for locating fixes in Audacity.
 

@@ -50,6 +50,7 @@ def parse_episode(path):
         @book 01
         @episode 01
         @title The Columbia
+        @revision 1.0
 
         @chunk 01
         text...
@@ -78,7 +79,7 @@ def parse_episode(path):
     raw = path.read_text(encoding="utf-8")
 
     metadata = {}
-    for name in ("production", "book", "episode", "title"):
+    for name in ("production", "book", "episode", "title", "revision"):
         matches = re.findall(rf"(?mi)^@{name}\s+(.+?)\s*$", raw)
         if len(matches) != 1:
             raise SystemExit(
@@ -99,6 +100,11 @@ def parse_episode(path):
     ):
         raise SystemExit(
             f"@episode must be a positive integer or 'supplemental' in {path}."
+        )
+
+    if not re.fullmatch(r"\d+\.\d+", metadata["revision"]):
+        raise SystemExit(
+            f"@revision must use MAJOR.MINOR format, such as 1.0, in {path}."
         )
 
     chunk_pattern = re.compile(
@@ -130,7 +136,7 @@ def parse_episode(path):
 
         # Remove metadata that may appear after the final chunk.
         text = re.sub(
-            r"(?mi)^@(production|book|episode|title)\s+.*$",
+            r"(?mi)^@(production|book|episode|title|revision)\s+.*$",
             "",
             text
         )
@@ -206,6 +212,7 @@ def print_episode_summary(episode, model_config):
     print(f"Book:                {episode['book']}")
     print(f"In-universe episode: {episode['episode']}")
     print(f"Title:               {episode['title']}")
+    print(f"Revision:            {episode['revision']}")
     print(f"Model:   {model_config['model_id']}")
     print()
 
@@ -390,6 +397,7 @@ def generate_chunk(
             else episode["episode"].lower()
         ),
         "title": episode["title"],
+        "production_revision": episode["revision"],
         "chunk": chunk["number"],
         "generated_utc": datetime.now(timezone.utc).isoformat(),
         "provider": "ElevenLabs",

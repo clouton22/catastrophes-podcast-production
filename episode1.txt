@@ -2,6 +2,7 @@
 @book 01
 @episode 01
 @title The Columbia
+@revision 1.0
 
 @chunk 01
 Before we start, we need a definition. When historians talk about the Catastrophes, they mean four wars: the Great War, the Fascist War, the Coalition War, and the World War. You will occasionally encounter arguments that the term is too broad, too moralizing, or simply too convenient. Those arguments are not entirely wrong. We are going to use it anyway. This is Catastrophes. And before we get to the wars, we need to talk about a passenger liner. At four twenty-three in the morning on May twentieth, nineteen twenty-five, the American passenger liner Columbia sent a wireless message into the North Atlantic. The message was six words long. STRUCK ICE. TAKING WATER. STANDING BY. There were two thousand eight hundred forty-seven people aboard. By sunrise, more than two thousand of them were dead.

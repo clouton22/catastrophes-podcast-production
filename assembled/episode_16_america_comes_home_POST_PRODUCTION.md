@@ -6,6 +6,8 @@
 **Book:** 10
 **In-universe episode:** 12
 **Title:** America Comes Home
+
+**Production revision:** 1.0
 **Assembled UTC:** 2026-08-26T03:37:10.392420+00:00
 **Duration:** 00:28:09.417
 
@@ -21,9 +23,15 @@
 **Listening/export copy:** `episode_16_america_comes_home.mp3`
 **Loudness target:** -19.0 LUFS, mono
 
-**Source episode SHA-256:** `9dfed65b4f28ad9aa593946f4ab40fd84f0b193a58b1a100073d827feb17c2fb`
+**Source episode SHA-256:** `f8b974fad0bd5f4af8e0cb252059825137d8eef364e11cb978ad7727ce3eccc2`
 **WAV master SHA-256:** `c5b4a268b71d809dc287e78ac123396e541445e50d1ea3af3bcf379b93823c6b`
 **MP3 export SHA-256:** `5d18088748d224ac3162a2950c32096a6cafbbc1fe8e9df7f02f1469ce715419`
+
+## Revision history
+
+| Revision | Date | Changes |
+| --- | --- | --- |
+| 1.0 | 2026-08-26 | Baseline before targeted post-production revisions. |
 
 Chunk timestamps below refer to the WAV editing master and are intended for locating fixes in Audacity.
 

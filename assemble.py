@@ -23,7 +23,7 @@ def parse_episode(path):
     raw = path.read_text(encoding="utf-8")
 
     metadata = {}
-    for name in ("production", "book", "episode", "title"):
+    for name in ("production", "book", "episode", "title", "revision"):
         matches = re.findall(rf"(?mi)^@{name}\s+(.+?)\s*$", raw)
         if len(matches) != 1:
             raise SystemExit(
@@ -44,6 +44,11 @@ def parse_episode(path):
     ):
         raise SystemExit(
             f"@episode must be a positive integer or 'supplemental' in {path}."
+        )
+
+    if not re.fullmatch(r"\d+\.\d+", metadata["revision"]):
+        raise SystemExit(
+            f"@revision must use MAJOR.MINOR format, such as 1.0, in {path}."
         )
 
     chunk_pattern = re.compile(
@@ -288,6 +293,36 @@ def make_concat_file(chunks, path):
 # Post-production report
 # ------------------------------------------------------------
 
+def preserved_table_rows(output_path, heading):
+    """Return user-authored rows from a report table, if the report exists."""
+    output_path = Path(output_path)
+    if not output_path.exists():
+        return []
+
+    text = output_path.read_text(encoding="utf-8")
+    match = re.search(
+        rf"(?ms)^## {re.escape(heading)}\s*$\n(.*?)(?=^## |\Z)",
+        text,
+    )
+    if not match:
+        return []
+
+    rows = []
+    for line in match.group(1).splitlines():
+        stripped = line.strip()
+        if not stripped.startswith("|"):
+            continue
+        if re.match(r"^\|\s*-", stripped):
+            continue
+        if stripped in {
+            "| Revision | Date | Changes |",
+            "| Time | Change | Source/license |",
+            "|  |  |  |",
+        }:
+            continue
+        rows.append(stripped)
+    return rows
+
 def write_report(
     episode,
     chunks,
@@ -330,6 +365,24 @@ def write_report(
         for c in chunks
     )
 
+    revision_rows = preserved_table_rows(
+        output_path,
+        "Revision history",
+    )
+    if not any(
+        row.startswith(f"| {episode['revision']} |")
+        for row in revision_rows
+    ):
+        revision_rows.append(
+            f"| {episode['revision']} | {now[:10]} "
+            "| Current assembled revision. Add concise manual details here. |"
+        )
+
+    manual_rows = preserved_table_rows(
+        output_path,
+        "Manual post-production changes",
+    )
+
     lines = [
         f"# Post-Production Notes",
         "",
@@ -339,6 +392,7 @@ def write_report(
         f"**Book:** {episode['book']}",
         f"**In-universe episode:** {episode['episode']}",
         f"**Title:** {episode['title']}",
+        f"**Production revision:** {episode['revision']}",
         f"**Assembled UTC:** {now}",
         f"**Duration:** {format_time(total_duration)}",
         "",
@@ -397,6 +451,12 @@ def write_report(
             "**MP3 export SHA-256:** "
             f"`{sha256_file(mp3_path)}`"
         ),
+        "",
+        "## Revision history",
+        "",
+        "| Revision | Date | Changes |",
+        "| --- | --- | --- |",
+        *revision_rows,
         "",
         (
             "Chunk timestamps below refer to the WAV editing "
@@ -504,7 +564,7 @@ def write_report(
         "",
         "| Time | Change | Source/license |",
         "| --- | --- | --- |",
-        "|  |  |  |",
+        *(manual_rows or ["|  |  |  |"]),
         "",
         "Examples:",
         "",
@@ -666,7 +726,10 @@ def main():
     )
 
     if args.dry_run:
-        print(f"Validated {len(chunks)} chunks for production episode {episode['production']}.")
+        print(
+            f"Validated {len(chunks)} chunks for production episode "
+            f"{episode['production']}, revision {episode['revision']}."
+        )
         print(f"WAV:      {wav_path}")
         print(f"MP3:      {mp3_path}")
         print(f"Metadata: {metadata_path}")
@@ -805,6 +868,7 @@ def main():
             else episode["episode"].lower()
         ),
         "title": episode["title"],
+        "production_revision": episode["revision"],
     }
     metadata_path.write_text(
         json.dumps(assembled_metadata, indent=2) + "\n",

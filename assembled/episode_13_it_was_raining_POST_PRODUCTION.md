@@ -6,6 +6,8 @@
 **Book:** 9
 **In-universe episode:** 1
 **Title:** It Was Raining
+
+**Production revision:** 1.0
 **Assembled UTC:** 2026-08-26T01:07:22.544387+00:00
 **Duration:** 00:22:55.295
 
@@ -21,9 +23,15 @@
 **Listening/export copy:** `episode_13_it_was_raining.mp3`
 **Loudness target:** -19.0 LUFS, mono
 
-**Source episode SHA-256:** `9877f156c5795ad296d2c91320d681931f62e2af7f6f0e0c4163c49488bdc63c`
+**Source episode SHA-256:** `be64704aba2f2cebb58c262063e832877d29fd4012f7d28c5445534be7a5a0ca`
 **WAV master SHA-256:** `a7cddfe87c8b247cade3b12d56da672319847127beba5dae2b10bef0ada1a1ac`
 **MP3 export SHA-256:** `634e114dd0c2f75ab955d18a4c7e665bc3674de45bfaed6374052ec2d044cc3f`
+
+## Revision history
+
+| Revision | Date | Changes |
+| --- | --- | --- |
+| 1.0 | 2026-08-26 | Baseline before targeted post-production revisions. |
 
 Chunk timestamps below refer to the WAV editing master and are intended for locating fixes in Audacity.
 

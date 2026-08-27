@@ -15,5 +15,6 @@
   "source_episode_file": "episode9.txt",
   "source_text_sha256": "d09999b658724d22e53c399d326f71f2b06bf68c79930bf93d140170bdf82806",
   "audio_sha256": "427e366bc5c14074ea5af91272bb41f4ee9deb644c0c1e0fad508265b08b87cd",
-  "request_id": "xQCkr17piVBJE9k39pDN"
+  "request_id": "xQCkr17piVBJE9k39pDN",
+  "production_revision": "1.0"
 }

@@ -6,6 +6,8 @@
 **Book:** 7
 **In-universe episode:** 10
 **Title:** The First Bomb
+
+**Production revision:** 1.0
 **Assembled UTC:** 2026-08-26T01:06:18.328974+00:00
 **Duration:** 00:24:45.375
 
@@ -21,9 +23,15 @@
 **Listening/export copy:** `episode_11_the_first_bomb.mp3`
 **Loudness target:** -19.0 LUFS, mono
 
-**Source episode SHA-256:** `0b05e47be5d51cf6aabe7574abc31b968af8160c416252f8e6d362bd0276a0ae`
+**Source episode SHA-256:** `283404482ba6fa010bf34251d7d84f53ee43e8f27315308188b47f2c2eeb6df0`
 **WAV master SHA-256:** `f9ede80d6925a18196099e233fe66c9483e9513b9fe5aa1fa08e5fd087d7bcfc`
 **MP3 export SHA-256:** `242573cb221038f13dff1666a595aecdd31aec45c265c6ad0ed365a423fc7284`
+
+## Revision history
+
+| Revision | Date | Changes |
+| --- | --- | --- |
+| 1.0 | 2026-08-26 | Baseline before targeted post-production revisions. |
 
 Chunk timestamps below refer to the WAV editing master and are intended for locating fixes in Audacity.
 
