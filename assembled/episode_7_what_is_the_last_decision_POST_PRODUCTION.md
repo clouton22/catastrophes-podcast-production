@@ -6,10 +6,9 @@
 **Book:** 4
 **In-universe episode:** 10
 **Title:** What Is the Last Decision?
-
-**Production revision:** 1.0
-**Assembled UTC:** 2026-08-23T03:55:11.532242+00:00
-**Duration:** 00:29:50.880
+**Production revision:** 1.2
+**Assembled UTC:** 2026-09-02T00:10:28.928947+00:00
+**Duration:** 00:26:22.800
 
 ## Production provenance
 
@@ -18,20 +17,21 @@
 **Narrator voice:** Victoria.
 **Voice ID(s):** qSeXEcewz7tA0Q0qk9fH
 **Model(s):** eleven_v3
-**Estimated ElevenLabs generation cost:** $2.765
+**Estimated ElevenLabs generation cost:** $2.429
 **Editing master:** `episode_7_what_is_the_last_decision_master.wav`
 **Listening/export copy:** `episode_7_what_is_the_last_decision.mp3`
 **Loudness target:** -19.0 LUFS, mono
 
-**Source episode SHA-256:** `2391f71ef6332cd976af45b84c6e6449bbbe7e545041ffcb7da4f6cd684c74f3`
-**WAV master SHA-256:** `72d627a251b5010b3ca4e0aa3ca2b9c7f36e67129226d926f5b751957ed83bc1`
-**MP3 export SHA-256:** `556b535dc855ef7cf34f69246a044757f4f191316e2287d23c8526810782639d`
+**Source episode SHA-256:** `0e4aca540f55162f1fbcac6fff91c40bf8def90dca02f95d63b4c66d16c8c590`
+**WAV master SHA-256:** `53ee74f221d7d89791f8145c6ea7081af2e40caaa689a560ad25eb8a68dd75ab`
+**MP3 export SHA-256:** `22147d1b2a4464e496772c4650271bc60216fa9f0e01744973ff6563237f15a7`
 
 ## Revision history
 
 | Revision | Date | Changes |
 | --- | --- | --- |
 | 1.0 | 2026-08-26 | Baseline before targeted post-production revisions. |
+| 1.2 | 2026-09-01 | Reworked the atomic reconstruction sequence across chunks 3–5, then shortened chunk 5 to remove repeated phrasing; final versions of chunks 3–5 use seed `12345`; reassembled from the existing remaining chunks. |
 
 Chunk timestamps below refer to the WAV editing master and are intended for locating fixes in Audacity.
 
@@ -41,12 +41,12 @@ Chunk timestamps below refer to the WAV editing master and are intended for loca
 | ---: | ---: | ---: | ---: | --- | --- |
 | 01 | 00:00:00.000 | 00:03:36.400 | 00:03:36.400 | `episode_7_01_what_is_the_last_decision.mp3` | eleven_v3 |
 | 02 | 00:03:36.400 | 00:07:22.640 | 00:03:46.240 | `episode_7_02_what_is_the_last_decision.mp3` | eleven_v3 |
-| 03 | 00:07:22.640 | 00:12:12.320 | 00:04:49.680 | `episode_7_03_what_is_the_last_decision.mp3` | eleven_v3 |
-| 04 | 00:12:12.320 | 00:15:29.040 | 00:03:16.720 | `episode_7_04_what_is_the_last_decision.mp3` | eleven_v3 |
-| 05 | 00:15:29.040 | 00:19:18.160 | 00:03:49.120 | `episode_7_05_what_is_the_last_decision.mp3` | eleven_v3 |
-| 06 | 00:19:18.160 | 00:23:06.000 | 00:03:47.840 | `episode_7_06_what_is_the_last_decision.mp3` | eleven_v3 |
-| 07 | 00:23:06.000 | 00:26:42.880 | 00:03:36.880 | `episode_7_07_what_is_the_last_decision.mp3` | eleven_v3 |
-| 08 | 00:26:42.880 | 00:29:50.880 | 00:03:08.000 | `episode_7_08_what_is_the_last_decision.mp3` | eleven_v3 |
+| 03 | 00:07:22.640 | 00:11:07.840 | 00:03:45.200 | `episode_7_03_what_is_the_last_decision.mp3` | eleven_v3 |
+| 04 | 00:11:07.840 | 00:14:24.400 | 00:03:16.560 | `episode_7_04_what_is_the_last_decision.mp3` | eleven_v3 |
+| 05 | 00:14:24.400 | 00:15:50.080 | 00:01:25.680 | `episode_7_05_what_is_the_last_decision.mp3` | eleven_v3 |
+| 06 | 00:15:50.080 | 00:19:37.920 | 00:03:47.840 | `episode_7_06_what_is_the_last_decision.mp3` | eleven_v3 |
+| 07 | 00:19:37.920 | 00:23:14.800 | 00:03:36.880 | `episode_7_07_what_is_the_last_decision.mp3` | eleven_v3 |
+| 08 | 00:23:14.800 | 00:26:22.800 | 00:03:08.000 | `episode_7_08_what_is_the_last_decision.mp3` | eleven_v3 |
 
 ## Chunk provenance
 
@@ -77,38 +77,38 @@ Chunk timestamps below refer to the WAV editing master and are intended for loca
 ### Chunk 03
 
 - Audio: `episode_7_03_what_is_the_last_decision.mp3`
-- Audio SHA-256: `8c6d482b9a3fac55884915d4a46d54a01b6bc228b35c50f88f6d3933db1d046f`
-- Source text SHA-256: `e9b1d13177d3c03d4a7268b8859bffea542a1dee5b5b0af51153bc3280e1c1f4`
-- Generated UTC: 2026-08-23T03:48:50.899081+00:00
+- Audio SHA-256: `a31ba09b441cc9a87e9c5f3b583b45de7560d0c316350d7b365a62a13c6bd4f5`
+- Source text SHA-256: `dbdcd11172c9ec397af30073b6637273f0d3923a5873a734eac29548f02925a1`
+- Generated UTC: 2026-09-01T22:56:46.236041+00:00
 - Model: eleven_v3
 - Voice ID: qSeXEcewz7tA0Q0qk9fH
-- Character count: 4619
-- Estimated API cost: $0.462
-- ElevenLabs request ID: `pitfi0JEWsYWycYGmkhz`
+- Character count: 3677
+- Estimated API cost: $0.368
+- ElevenLabs request ID: `vPEPhivLOWJIw3B7CmUQ`
 
 ### Chunk 04
 
 - Audio: `episode_7_04_what_is_the_last_decision.mp3`
-- Audio SHA-256: `7a2196d39cf9cd6b135b939c814e67898150743a7d75479ce4d197d3f59cc658`
-- Source text SHA-256: `5fdaaebfbb4e653dfde689467dc3cefb437206eb4192216fba69f03ce5a3a761`
-- Generated UTC: 2026-08-23T03:49:43.839907+00:00
+- Audio SHA-256: `a39c9ad94bb8f9a52c0755cf2cf9b8d34522d8dd4134bd1deb4d228a63d9490f`
+- Source text SHA-256: `302b0733f4095f71fe96b25536dba80ff0db970f94a2291da51b76a5fc86366f`
+- Generated UTC: 2026-09-01T22:58:00.104430+00:00
 - Model: eleven_v3
 - Voice ID: qSeXEcewz7tA0Q0qk9fH
-- Character count: 3112
-- Estimated API cost: $0.311
-- ElevenLabs request ID: `aRwOlgBbLS5eGt8kENcA`
+- Character count: 3077
+- Estimated API cost: $0.308
+- ElevenLabs request ID: `gmiTxWvtEpYhkBoaSiDp`
 
 ### Chunk 05
 
 - Audio: `episode_7_05_what_is_the_last_decision.mp3`
-- Audio SHA-256: `45ab815c29486c25aaebb919473877853517ff7a5495b1c0eb491af9b828bde0`
-- Source text SHA-256: `090c4b90b45b61174712522ace84f76d6ff29ae99d46f34ef533e7148591c4df`
-- Generated UTC: 2026-08-23T03:50:52.536120+00:00
+- Audio SHA-256: `25f2eb1ef9215c5fec2127c431f212de0b28c38545a5c5ca0e951d6e4b5f5afe`
+- Source text SHA-256: `93ea6982852f572bb365d947be640bb8315b50dd247afcf90237b2f29f0e68c5`
+- Generated UTC: 2026-09-02T00:09:47.451365+00:00
 - Model: eleven_v3
 - Voice ID: qSeXEcewz7tA0Q0qk9fH
-- Character count: 3645
-- Estimated API cost: $0.364
-- ElevenLabs request ID: `9CBmnJY45W3MwlYd3kDG`
+- Character count: 1270
+- Estimated API cost: $0.127
+- ElevenLabs request ID: `gMJlMqxjy3swmLQGA5fU`
 
 ### Chunk 06
 

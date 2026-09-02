@@ -4,7 +4,7 @@
 @episode 10
 @title What Is the Last Decision?
 
-@revision 1.0
+@revision 1.2
 
 @chunk 01
 This is Catastrophes. Book Four, Episode Ten: What Is the Last Decision?
@@ -249,9 +249,8 @@ She looked toward the map.
 “It is a system.”
 
 @chunk 03
-The meeting did not end the argument.
 
-That is important.
+The meeting did not end the argument.
 
 Margaret had identified the problem with the proposal.
 
@@ -287,7 +286,7 @@ Less about deterrence.
 
 More about ending something people could no longer bear to watch continue.
 
-That distinction made Margaret's position harder to defend.
+That made Margaret's position harder to defend.
 
 A senator who had supported the Atomic Settlement twenty years earlier asked during a closed briefing whether preserving an old principle was worth another hundred thousand dead soldiers.
 
@@ -325,82 +324,27 @@ They are the questions of someone trying very hard not to make the decision by r
 
 The pressure increased after the August encirclement at Qiqihar.
 
-Three allied divisions were cut off.
+Three allied divisions were cut off, and for six days Washington believed the pocket might collapse.
 
-Air supply was intermittent.
+Nobody proposed an atomic strike.
 
-The Chinese command began moving additional artillery into range.
+There was no weapon to use.
 
-For six days, Washington believed the pocket might collapse.
+That was precisely the point.
 
-Nobody proposed building an atomic weapon for Qiqihar.
+The Atomic Settlement had done what it was designed to do.
 
-They could not have built one in time.
+There was no arsenal waiting in a bunker.
 
-That was part of the argument.
+No production line that could be restarted with a telephone call.
 
-The Atomic Settlement had done exactly what it was designed to do. There was no national stockpile waiting in a bunker. No military production line that could be restarted with a telephone call. The fissile material was accounted for. The facilities were monitored. Reconstructing a weapon would take time, involve several institutions, and become very difficult to conceal from either the Authority or the Soviet Union.
+The fissile material was accounted for.
 
-The generals knew this.
+The facilities were monitored.
 
-What returned during the Qiqihar meetings was a different question.
+Reconstructing a weapon would take time, involve several institutions, and be almost impossible to conceal from the Authority or the Soviet Union.
 
-What happens the next time?
-
-The immediate briefings concerned airlift, relief corridors, artillery, and whether the divisions could break out.
-
-But underneath those discussions was another argument.
-
-If an atomic weapon already existed, a rail junction east of the encirclement would have been an obvious target.
-
-Military.
-
-Operationally important.
-
-Relatively isolated from major population centers.
-
-Exactly the kind of target advocates of a limited atomic capability had been talking about.
-
-Nobody had to say this very often.
-
-Margaret understood the point.
-
-One briefing included projected effects for destroying the junction by conventional bombing.
-
-Margaret looked at the numbers and asked how many aircraft it would require.
-
-Then how many sorties.
-
-Then how many days.
-
-The general answered.
-
-There was a pause.
-
-Margaret said, “And this is the part where I am supposed to notice what one weapon could do.”
-
-Nobody answered.
-
-That was answer enough.
-
-She asked how many civilians lived within the area that would have been affected by an atomic strike.
-
-The estimate was uncertain.
-
-She asked how uncertain.
-
-The answer changed twice during the meeting.
-
-Then she asked the question that mattered more.
-
-“If it worked, what happens next?”
-
-Because success would prove the weapon useful.
-
-And a useful weapon is much harder to put back in a box.
-
-@chunk 04
-The encircled divisions escaped without an atomic strike.
+The divisions eventually escaped through a combination of airlift, night movement, Soviet pressure farther west, and a Chinese decision to redirect forces.
 
 Not cleanly.
 
@@ -408,37 +352,25 @@ Not cheaply.
 
 But they escaped.
 
-A combination of airlift, night movement, Soviet pressure farther west, and a Chinese command decision to redirect forces opened a corridor long enough for most of the pocket to withdraw.
-
-The rail junction survived.
-
-So did the people living around it.
-
 For a few weeks, the atomic debate receded.
 
-This is where later accounts sometimes become too comfortable.
+Margaret did not take that as proof that she had been right.
 
-The crisis passed.
+Qiqihar had shown her something else.
 
-Therefore Ward had been right.
-
-That is not what happened.
-
-The crisis passed.
-
-That was all.
-
-The next crisis could have been worse.
-
-And Margaret knew it.
+Simple refusal depended too much on the next crisis ending well.
 
 By autumn, she had stopped arguing that the United States should simply refuse to rebuild atomic weapons.
 
-That position depended too much on everything continuing to go reasonably well.
+She began asking a different question.
 
-Instead, she began pushing for a different structure.
+If the weapons had to return, what kind of system could bring them back without recreating the one the Atomic Settlement had dismantled?
 
-If the war reached a point where atomic weapons had to be recreated, they could not return as ordinary national military assets.
+@chunk 04
+
+Margaret's answer was deliberately awkward.
+
+If atomic weapons had to return, they could not return as ordinary national military assets.
 
 No standing arsenal.
 
@@ -448,9 +380,9 @@ No field deployment.
 
 No automatic retaliation plan.
 
-No national decision made in isolation.
+And no national decision made in isolation.
 
-Any reconstruction would require joint consultation with the Soviet Union and the International Atomic Authority, with material accounting beginning before the first weapon existed.
+Any reconstruction would begin with material accounting and consultation with the Soviet Union and the International Atomic Authority.
 
 Military planners hated this.
 
@@ -480,9 +412,11 @@ The wording is suspiciously good.
 
 Keep that in mind.
 
-The proposal never became a finished atomic reconstruction system because the immediate military need never crossed the threshold required to activate it.
+The proposal never became a finished atomic reconstruction system.
 
-But the negotiations produced something else.
+The immediate military need never crossed the threshold required to activate it.
+
+But the discussions produced something else.
 
 A set of emergency rules for institutions operating under extreme systemic stress.
 
@@ -510,14 +444,7 @@ Not certainty.
 
 A brake.
 
-And by the winter of nineteen seventy, the war desperately needed one.
-
-@chunk 05
-By nineteen seventy-one, the atomic argument had changed again.
-
-Not because anyone had solved it.
-
-Because the war had become worse.
+By nineteen seventy-one, that brake was being tested against a war that had become worse.
 
 The Harbin photographs were old news by then.
 
@@ -531,33 +458,49 @@ The casualty estimates were no longer discussed as temporary spikes.
 
 They had become part of planning.
 
-That mattered politically.
+A government can ask people to accept extraordinary losses for a while if it can plausibly describe those losses as the price of getting through a crisis.
+
+It becomes much harder when the crisis starts looking like the normal condition.
+
+Margaret no longer argued that atomic reconstruction should never happen.
+
+She argued that nobody should be able to make it happen alone.
+
+This frustrated almost everyone.
+
+People who wanted the bomb thought she was hiding refusal inside procedure.
+
+People who opposed the bomb thought she was making its return thinkable.
+
+Both criticisms were reasonable.
+
+Then Moscow answered.
+
+@chunk 05
+
+By nineteen seventy-one, Margaret's proposal had become less theoretical.
+
+The war was worse.
+
+The Harbin photographs were old news by then.
+
+There were new cities.
+
+New offensives.
+
+New names for places most Americans had never expected to learn.
+
+The casualty estimates were no longer discussed as temporary spikes.
+
+They had become part of planning.
 
 A government can ask people to accept extraordinary losses for a while if it can plausibly describe those losses as the price of getting through a crisis.
 
 It becomes much harder when the crisis starts looking like the normal condition.
 
-Congressional support for the war remained intact, but the arguments had sharpened.
+Margaret no longer argued that atomic reconstruction should never happen.
 
-Some Progressives insisted that rebuilding atomic weapons would destroy the central achievement of the postwar order.
-
-Others answered that an institution which could not adapt to the conditions it actually faced had confused consistency with principle.
-
-Conservatives were divided too.
-
-Some wanted an immediate national arsenal.
-
-Others distrusted giving any president that much destructive power.
-
-The old categories were becoming less useful.
-
-War does that.
-
-Margaret's position also changed.
-
-She stopped saying that atomic reconstruction should never happen.
-
-Instead, she began insisting that nobody should be able to reach that decision alone.
+She argued that nobody should be able to make it happen alone.
 
 This frustrated almost everyone.
 
@@ -569,87 +512,13 @@ Both criticisms were reasonable.
 
 Margaret knew that too.
 
-The decisive meeting came after a Chinese offensive broke through near the Amur and threatened to isolate a major Soviet formation.
+By then, the question was no longer simply whether the United States might rebuild an atomic weapon.
 
-The military situation was serious.
+It was what happened if the Soviet Union faced the same decision.
 
-Not hopeless.
+That was not a problem Washington could solve by writing better American procedures.
 
-Serious.
-
-An American general presented three conventional responses.
-
-All were expensive.
-
-All required time.
-
-None guaranteed success.
-
-Then he presented a fourth option.
-
-He did not call it atomic.
-
-There was no atomic weapon to use.
-
-He called it a capability requirement.
-
-The United States, he argued, needed the ability to destroy a hardened concentration of forces within hours rather than days, without committing hundreds of aircraft and without assuming control of the air.
-
-Everyone in the room understood what kind of capability could eventually satisfy that requirement.
-
-Margaret let him finish.
-
-Then she asked whether the requirement would disappear if the current offensive failed.
-
-The general said no.
-
-Would it disappear if negotiations began?
-
-Probably not.
-
-Would it disappear if China withdrew fifty miles?
-
-No.
-
-Would it disappear after the war?
-
-That produced a longer pause.
-
-The general said the military would still consider the capability useful.
-
-Margaret nodded.
-
-This was the answer she had been waiting for.
-
-The proposal was no longer about this battle.
-
-Or even this war.
-
-It was about creating a permanent military requirement.
-
-And once a requirement existed, somebody would eventually build a system to satisfy it.
-
-Margaret looked around the table.
-
-“General, what you have described is not retaliation.”
-
-She tapped the briefing paper.
-
-“It is a system.”
-
-The sentence became famous.
-
-The rest of the meeting did not.
-
-But the rest matters more.
-
-Margaret did not reject the requirement.
-
-She ordered the military to keep studying it.
-
-She also ordered the State Department, the International Atomic Authority, and the Soviet government brought formally into the discussion.
-
-If the problem was going to become permanent, then the decision about it could not remain temporary.
+So Margaret sent the proposal to Moscow.
 
 @chunk 06
 The response from Moscow arrived two days later.
